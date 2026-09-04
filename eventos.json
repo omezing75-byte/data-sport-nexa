@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 09:02:27",
+  "updated": "2026-09-04 10:59:06",
   "sports": [
     {
       "id": "football",
@@ -702,7 +702,7 @@
                 },
                 {
                   "name": "HBO Max",
-                  "url": "https://streamxhd.com/live1.php?stream=hbomax",
+                  "url": "https://streamxhd.com/live1.php?stream=max1",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
