@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 18:21:31",
+  "updated": "2026-09-04 08:50:50",
   "sports": [
     {
       "id": "football",
@@ -1534,6 +1534,16 @@
                   "languages": [],
                   "customLanguages": "",
                   "channelLogo": ""
+                },
+                {
+                  "type": "iframe",
+                  "active": true,
+                  "channelLogo": "",
+                  "name": "Canal 5 MX",
+                  "url": "https://streamxhd.com/live1.php?stream=canal5mx",
+                  "quality": "",
+                  "customLanguages": "",
+                  "languages": []
                 }
               ],
               "flagCode": "",
