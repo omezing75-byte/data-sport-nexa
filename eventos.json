@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 08:50:50",
+  "updated": "2026-09-04 09:02:27",
   "sports": [
     {
       "id": "football",
@@ -1526,14 +1526,24 @@
                   "channelLogo": ""
                 },
                 {
-                  "name": "DAZN F1",
-                  "url": "https://streamxhd.com/live1.php?stream=daznf1",
+                  "name": "VIX +",
+                  "url": "https://streamxhd.com/live1.php?stream=vix1",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
                   "languages": [],
                   "customLanguages": "",
                   "channelLogo": ""
+                },
+                {
+                  "type": "iframe",
+                  "active": true,
+                  "channelLogo": "",
+                  "name": "DAZN F1",
+                  "url": "https://streamxhd.com/live1.php?stream=daznf1",
+                  "quality": "",
+                  "customLanguages": "",
+                  "languages": []
                 },
                 {
                   "type": "iframe",
