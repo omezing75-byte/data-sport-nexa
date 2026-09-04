@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 10:59:06",
+  "updated": "2026-09-04 11:51:18",
   "sports": [
     {
       "id": "football",
@@ -178,14 +178,24 @@
                   "channelLogo": ""
                 },
                 {
-                  "name": "Fanatiz",
-                  "url": "https://streamxhd.com/live1.php?stream=fanatiz1",
+                  "name": "Fox One MX",
+                  "url": "https://streamxhd.com/live1.php?stream=foxone",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
                   "languages": [],
                   "customLanguages": "",
                   "channelLogo": ""
+                },
+                {
+                  "type": "iframe",
+                  "active": true,
+                  "channelLogo": "",
+                  "name": "Fanatiz",
+                  "url": "https://streamxhd.com/live1.php?stream=fanatiz1",
+                  "quality": "",
+                  "customLanguages": "",
+                  "languages": []
                 }
               ],
               "flagCode": "",
