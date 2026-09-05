@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05 10:42:55",
+  "updated": "2026-09-05 10:51:19",
   "sports": [
     {
       "id": "football",
@@ -12,51 +12,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Al Shabab vs Al Hilal",
-              "league": "Liga Arabia Saudita",
-              "code": "ARA",
-              "time": "2026-09-04 13:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Al Shabab",
-              "awayTeam": "Al Hilal",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/zbums21755192520.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX One 2",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX Deportes USA",
-                  "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 369
-            },
             {
               "title": "Al Ittihad vs Al Nassr",
               "league": "Liga Arabia Saudita",
@@ -102,136 +57,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Olympique Lyonnais vs Auxerre",
-              "league": "Ligue 1",
-              "code": "FRA",
-              "time": "2026-09-04 12:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Olympique Lyonnais",
-              "awayTeam": "Auxerre",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/blk9771656932845.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/lzdtbf1658753355.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney9",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Espn 4",
-                  "url": "https://streamxhd.com/live1.php?stream=espn4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Fox One MX",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "type": "iframe",
-                  "active": true,
-                  "channelLogo": "",
-                  "name": "Fanatiz",
-                  "url": "https://streamxhd.com/live1.php?stream=fanatiz1",
-                  "quality": "",
-                  "customLanguages": "",
-                  "languages": []
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 370
-            },
-            {
-              "title": "PSG vs Monaco",
-              "league": "Ligue 1",
-              "code": "FRA",
-              "time": "2026-09-04 14:05",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "PSG",
-              "awayTeam": "Monaco",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney15",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Espn 4",
-                  "url": "https://streamxhd.com/live1.php?stream=espn4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Fanatiz",
-                  "url": "https://streamxhd.com/live1.php?stream=fanatiz3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX One",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 371
-            },
             {
               "title": "Lens vs Lorient",
               "league": "Ligue 1",
@@ -378,91 +203,6 @@
           "background": "",
           "events": [
             {
-              "title": "Real Betis vs Real Madrid",
-              "league": "LaLiga",
-              "code": "ES",
-              "time": "2026-09-04 14:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Real Betis",
-              "awayTeam": "Real Madrid",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney14",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN +",
-                  "url": "https://streamxhd.com/live1.php?stream=espnplus1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "M+ LaLiga",
-                  "url": "https://streamxhd.com/live1.php?stream=mlaliga",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.com/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN Deportes",
-                  "url": "https://streamxhd.com/live1.php?stream=espndeportes",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Premier Sports 1 UK",
-                  "url": "https://streamxhd.com/live1.php?stream=premier1uk",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 372
-            },
-            {
               "title": "Athletic Club vs Atlético Madrid",
               "league": "LaLiga",
               "code": "ES",
@@ -472,7 +212,7 @@
               "logo": "",
               "homeTeam": "Athletic Club",
               "awayTeam": "Atlético Madrid",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/myl7c31677056352.png",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/68w7fe1639408210.png/medium",
               "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png",
               "imageMode": "teams",
               "duration": 130,
@@ -678,51 +418,6 @@
           "background": "",
           "events": [
             {
-              "title": "İstanbul Başakşehir vs Galatasaray",
-              "league": "Super Lig",
-              "code": "TUR",
-              "time": "2026-09-04 12:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "İstanbul Başakşehir",
-              "awayTeam": "Galatasaray",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/895mqt1685993958.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney10",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Fanatiz",
-                  "url": "https://streamxhd.com/live1.php?stream=fanatiz2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 374
-            },
-            {
               "title": "Fenerbahçe vs Beşiktaş",
               "league": "Super Lig",
               "code": "TUR",
@@ -787,76 +482,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "FC Cajamarca vs Cienciano",
-              "league": "Liga 1",
-              "code": "PE",
-              "time": "2026-09-04 13:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "FC Cajamarca",
-              "awayTeam": "Cienciano",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/fl9mlx1768236425.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/yla9k51734242161.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "L1 Max",
-                  "url": "https://streamxhd.com/live1.php?stream=l1max",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 375
-            },
-            {
-              "title": "Alianza Atlético vs UTC Cajamarca",
-              "league": "Liga 1",
-              "code": "PE",
-              "time": "2026-09-04 15:15",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Alianza Atlético",
-              "awayTeam": "UTC Cajamarca",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/wu4g171615130421.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ea4ez01580040095.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "L1 Max",
-                  "url": "https://streamxhd.com/live1.php?stream=l1max",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 376
-            },
             {
               "title": "Sport Huancayo vs Sport Boys",
               "league": "Liga 1",
@@ -982,61 +607,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Stuttgart vs Köln",
-              "league": "Bundesliga",
-              "code": "ALE",
-              "time": "2026-09-04 13:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Stuttgart",
-              "awayTeam": "Köln",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/yppyux1473454085.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/2j1sc91566049407.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney11",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Universo",
-                  "url": "https://streamxhd.com/live1.php?stream=universo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 5",
-                  "url": "https://streamxhd.com/live1.php?stream=espn5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 377
-            },
             {
               "title": "Bayer Leverkusen vs Union Berlin",
               "league": "Bundesliga",
@@ -1298,41 +868,6 @@
           "background": "",
           "events": [
             {
-              "title": "Las Palmas vs Leganés",
-              "league": "LaLiga Hypermotion",
-              "code": "ES",
-              "time": "2026-09-04 13:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Las Palmas",
-              "awayTeam": "Leganés",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/mmhyb11616443601.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/tm0adr1616443898.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "LaLiga Hypermotion",
-                  "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 378
-            },
-            {
               "title": "Real Sociedad II vs Tenerife",
               "league": "LaLiga Hypermotion",
               "code": "ES",
@@ -1518,41 +1053,6 @@
           "background": "",
           "events": [
             {
-              "title": "Genoa vs Como",
-              "league": "Serie A",
-              "code": "IT",
-              "time": "2026-09-04 13:45",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Genoa",
-              "awayTeam": "Como",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/52s8dn1655553600.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney12",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 379
-            },
-            {
               "title": "Fiorentina vs Torino",
               "league": "Serie A",
               "code": "IT",
@@ -1707,51 +1207,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Ipswich Town vs Liverpool",
-              "league": "Premier League",
-              "code": "ENG",
-              "time": "2026-09-04 14:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Ipswich Town",
-              "awayTeam": "Liverpool",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney13",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "HBO Max",
-                  "url": "https://streamxhd.com/live1.php?stream=max1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 380
-            },
             {
               "title": "Newcastle United vs AFC Bournemouth",
               "league": "Premier League",
@@ -2088,51 +1543,6 @@
           "background": "",
           "events": [
             {
-              "title": "Porto vs Moreirense",
-              "league": "Primeira Liga",
-              "code": "POR",
-              "time": "2026-09-04 14:15",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Porto",
-              "awayTeam": "Moreirense",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/xu47rb1628855600.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/yrquxu1471878153.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports",
-                  "url": "https://streamxhd.com/live1.php?stream=dsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Fanatiz",
-                  "url": "https://streamxhd.com/live1.php?stream=fanatiz4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 381
-            },
-            {
               "title": "Marítimo vs Benfica",
               "league": "Primeira Liga",
               "code": "POR",
@@ -2232,151 +1642,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Estudiantes Río Cuarto vs Sarmiento",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-09-04 14:45",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Estudiantes Río Cuarto",
-              "awayTeam": "Sarmiento",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/391thp1775793121.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/xxofu71677634191.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN Premium",
-                  "url": "https://streamxhd.com/live1.php?stream=espnpremium",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Fanatiz",
-                  "url": "https://streamxhd.com/live1.php?stream=fanatiz5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 382
-            },
-            {
-              "title": "Platense vs Deportivo Riestra",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-09-04 17:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Platense",
-              "awayTeam": "Deportivo Riestra",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=tntsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Fanatiz",
-                  "url": "https://streamxhd.com/live1.php?stream=fanatiz6",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 383
-            },
-            {
-              "title": "Belgrano vs Huracán",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-09-04 17:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Belgrano",
-              "awayTeam": "Huracán",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/kppi2b1775776550.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN Premium",
-                  "url": "https://streamxhd.com/live1.php?stream=espnpremium",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney16",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Fanatiz",
-                  "url": "https://streamxhd.com/live1.php?stream=fanatiz7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 384
-            },
             {
               "title": "Aldosivi vs Banfield",
               "league": "Liga Profesional",
@@ -2673,41 +1938,6 @@
           "background": "",
           "events": [
             {
-              "title": "Torque vs Cerro Largo",
-              "league": "Liga Uruguay",
-              "code": "URU",
-              "time": "2026-09-04 17:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Torque",
-              "awayTeam": "Cerro Largo",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/v7urjn1580234584.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/f2lnua1580234598.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney17",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 385
-            },
-            {
               "title": "Danubio vs Peñarol",
               "league": "Liga Uruguay",
               "code": "URU",
@@ -2787,41 +2017,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "New York City vs Nashville SC",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-09-04 18:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "New York City",
-              "awayTeam": "Nashville SC",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/m9vis71735140655.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/znrwt71602103062.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 386
-            },
             {
               "title": "Inter Miami vs Atlanta United",
               "league": "MLS",
@@ -3158,7 +2353,7 @@
               "homeTeam": "Seattle Sounders FC",
               "awayTeam": "New York RB",
               "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/2dy5cx1706711036.png",
-              "awayLogo": "",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/suytvy1473536462.png/medium",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -3333,41 +2528,6 @@
           "background": "",
           "events": [
             {
-              "title": "Deportes Concepción vs Audax Italiano",
-              "league": "Liga Chile",
-              "code": "CH",
-              "time": "2026-09-04 19:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Deportes Concepción",
-              "awayTeam": "Audax Italiano",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/bn8l9d1719394347.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/xbowln1672950178.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports Chile",
-                  "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 387
-            },
-            {
               "title": "Everton vs Universidad Católica",
               "league": "Liga Chile",
               "code": "CH",
@@ -3377,7 +2537,7 @@
               "logo": "",
               "homeTeam": "Everton",
               "awayTeam": "Universidad Católica",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/3yo4ag1779074331.png/medium",
               "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/h2pcuc1602188028.png",
               "imageMode": "teams",
               "duration": 130,
@@ -3447,41 +2607,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Técnico Universitario vs LDU Quito",
-              "league": "Liga Ecuador",
-              "code": "ECUA",
-              "time": "2026-09-04 19:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Técnico Universitario",
-              "awayTeam": "LDU Quito",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/nrubzr1737648563.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/5tf5ch1736404372.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Zapping EC",
-                  "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "ec",
-              "flagUrl": "https://flagcdn.com/w320/ec.png",
-              "homeCountryCode": "ec",
-              "awayCountryCode": "ec",
-              "agendaOrder": 404
-            },
             {
               "title": "Independiente del Valle vs Macará",
               "league": "Liga Ecuador",
@@ -3768,7 +2893,7 @@
               "homeTeam": "Atlético San Luis",
               "awayTeam": "Guadalajara",
               "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/9kgjme1593448412.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/qt2hk81757606691.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png/medium",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -4203,7 +3328,7 @@
               "homeTeam": "Brasil",
               "awayTeam": "Tanzania",
               "homeLogo": "https://flagcdn.com/w320/br.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/uovpkm1742103070.png",
+              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Tanzania.svg",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -4248,7 +3373,7 @@
               "homeTeam": "México",
               "awayTeam": "Benín",
               "homeLogo": "https://flagcdn.com/w320/mx.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/an12u91593279487.png",
+              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Benin.svg",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -4682,7 +3807,7 @@
               "logo": "",
               "homeTeam": "Santa Fe",
               "awayTeam": "Fortaleza CEIF",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/mw7wt31727451360.png",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/16vs771629122765.png/medium",
               "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/w1c6ix1769101721.png",
               "imageMode": "teams",
               "duration": 130,
@@ -4727,7 +3852,7 @@
               "logo": "",
               "homeTeam": "Junior",
               "awayTeam": "Jaguares de Córdoba",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/zno7zr1740193522.png",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/zzarls1576161686.png/medium",
               "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/7ypl1y1629122579.png",
               "imageMode": "teams",
               "duration": 130,
@@ -5238,7 +4363,7 @@
       "icon": "🚴",
       "leagues": [
         {
-          "name": "Ciclismo",
+          "name": "La Vuelta",
           "logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/adf34ede-ea56-4667-929b-e59e3a2357bd/trim?format=webp&max=800%7C300",
           "flagCode": "",
           "flagUrl": "",
@@ -5246,10 +4371,10 @@
           "background": "",
           "events": [
             {
-              "title": "La Vuelta - Etapa #13",
-              "league": "Ciclismo",
+              "title": "Etapa #14",
+              "league": "La Vuelta",
               "code": "CICLISMO",
-              "time": "2026-09-04 07:45",
+              "time": "2026-09-05 07:45",
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
@@ -5264,8 +4389,8 @@
               "note": "",
               "servers": [
                 {
-                  "name": "ESPN 4",
-                  "url": "https://streamxhd.com/live1.php?stream=espn4",
+                  "name": "ESPN 2",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -5278,7 +4403,7 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": "",
-              "agendaOrder": 373
+              "agendaOrder": 511
             }
           ]
         }
@@ -5295,326 +4420,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "GP Italia - Práctica #1",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-09-04 05:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "VIX +",
-                  "url": "https://streamxhd.com/live1.php?stream=vix1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "type": "iframe",
-                  "active": true,
-                  "channelLogo": "",
-                  "name": "DAZN F1",
-                  "url": "https://streamxhd.com/live1.php?stream=daznf1",
-                  "quality": "",
-                  "customLanguages": "",
-                  "languages": []
-                },
-                {
-                  "type": "iframe",
-                  "active": true,
-                  "channelLogo": "",
-                  "name": "Canal 5 MX",
-                  "url": "https://streamxhd.com/live1.php?stream=canal5mx",
-                  "quality": "",
-                  "customLanguages": "",
-                  "languages": []
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 396
-            },
-            {
-              "title": "GP Italia - Práctica #1 - Cámara On Board",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-09-04 05:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 397
-            },
-            {
-              "title": "GP Italia - Práctica #1 - On Board Colapinto",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-09-04 05:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 398
-            },
-            {
-              "title": "GP Italia - Práctica #1 - On Board Leclerc",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-09-04 05:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 399
-            },
-            {
-              "title": "GP Italia - Práctica #2",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-09-04 09:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "DAZN F1",
-                  "url": "https://streamxhd.com/live1.php?stream=daznf1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 400
-            },
-            {
-              "title": "GP Italia - Práctica #2 - Cámara On Board",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-09-04 09:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney6",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 401
-            },
-            {
-              "title": "GP Italia - Práctica #2 - On Board Colapinto",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-09-04 09:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 402
-            },
-            {
-              "title": "GP Italia - Práctica #2 - On Board Leclerc",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-09-04 09:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney8",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 403
-            },
             {
               "title": "GP Italia - Práctica #3",
               "league": "F1",
@@ -5968,7 +4773,7 @@
       "leagues": [
         {
           "name": "UFC",
-          "logo": "",
+          "logo": "https://r2.thesportsdb.com/images/media/league/badge/bewnz31717531281.png/medium",
           "flagCode": "",
           "flagUrl": "",
           "image": "",
@@ -6111,76 +4916,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Tercera Ronda | Cobertura 1",
-              "league": "US Open",
-              "code": "USOPEN",
-              "time": "2026-09-04 10:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 392
-            },
-            {
-              "title": "Tercera Ronda | Cobertura 2",
-              "league": "US Open",
-              "code": "USOPEN",
-              "time": "2026-09-04 10:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.com/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 393
-            },
             {
               "title": "Segunda Ronda | Cobertura 1",
               "league": "US Open",
