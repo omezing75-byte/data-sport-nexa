@@ -1,83 +1,11 @@
 {
-  "updated": "2026-09-04 11:51:18",
+  "updated": "2026-09-05 09:37:34",
   "sports": [
     {
       "id": "football",
       "name": "Football",
       "icon": "⚽",
       "leagues": [
-        {
-          "name": "Liga Colombia",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Copa de Rusia",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga Paraguay",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga Ecuador",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Copa de Brasil",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Copa de Italia",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Copa Uruguay",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Leagues Cup",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
         {
           "name": "Liga Arabia Saudita",
           "logo": "",
@@ -365,24 +293,6 @@
               "agendaOrder": 372
             }
           ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Serie B",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga Honduras",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -1077,6 +987,51 @@
           "flagUrl": ""
         },
         {
+          "name": "Liga Ecuador",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Técnico Universitario vs LDU Quito",
+              "league": "Liga Ecuador",
+              "code": "ECUA",
+              "time": "2026-09-04 19:30",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Técnico Universitario",
+              "awayTeam": "LDU Quito",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/nrubzr1737648563.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/5tf5ch1736404372.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Zapping EC",
+                  "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "ec",
+              "flagUrl": "https://flagcdn.com/w320/ec.png",
+              "homeCountryCode": "ec",
+              "awayCountryCode": "ec",
+              "agendaOrder": 404
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
           "name": "Liga MX Femenil",
           "logo": "",
           "image": "",
@@ -1217,17 +1172,7 @@
       "id": "baseball",
       "name": "Baseball",
       "icon": "⚾",
-      "leagues": [
-        {
-          "name": "MLB",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
+      "leagues": []
     },
     {
       "id": "boxing",
