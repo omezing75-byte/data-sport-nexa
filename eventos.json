@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05 10:57:06",
+  "updated": "2026-09-05 18:49:44",
   "sports": [
     {
       "id": "football",
@@ -2653,76 +2653,6 @@
           "background": "",
           "events": [
             {
-              "title": "Atlas vs Guadalajara",
-              "league": "Liga MX Femenil",
-              "code": "MEX",
-              "time": "2026-09-04 21:06",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Atlas",
-              "awayTeam": "Guadalajara",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/svvyvw1473541813.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ickwhs1626631485.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX One 2",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 388
-            },
-            {
-              "title": "Pumas UNAM vs América",
-              "league": "Liga MX Femenil",
-              "code": "MEX",
-              "time": "2026-09-04 22:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Pumas UNAM",
-              "awayTeam": "América",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/o01nvl1695734937.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/amy1xs1581857392.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Vix 1",
-                  "url": "https://streamxhd.com/live1.php?stream=vix1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 389
-            },
-            {
               "title": "Necaxa vs Atlético San Luis",
               "league": "Liga MX Femenil",
               "code": "MEX",
@@ -2837,51 +2767,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Juárez vs Pachuca",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-09-04 22:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Juárez",
-              "awayTeam": "Pachuca",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/b4oy071567446336.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/k9duyw1747334895.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX One",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Universo",
-                  "url": "https://streamxhd.com/live1.php?stream=universo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 390
-            },
             {
               "title": "Atlético San Luis vs Guadalajara",
               "league": "Liga MX",
@@ -4241,41 +4126,6 @@
           "background": "",
           "events": [
             {
-              "title": "Andy Ruiz vs Damian Knyba",
-              "league": "ESPN Knockout",
-              "code": "BOX",
-              "time": "2026-09-04 19:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 4",
-                  "url": "https://streamxhd.com/live1.php?stream=espn4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 391
-            },
-            {
               "title": "Katie Taylor vs Flora Pili",
               "league": "ESPN Knockout",
               "code": "BOX",
@@ -4916,76 +4766,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Segunda Ronda | Cobertura 1",
-              "league": "US Open",
-              "code": "USOPEN",
-              "time": "2026-09-04 18:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 394
-            },
-            {
-              "title": "Segunda Ronda | Cobertura 2",
-              "league": "US Open",
-              "code": "USOPEN",
-              "time": "2026-09-04 18:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.com/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 395
-            },
             {
               "title": "Tercera Ronda | Cobertura 2 | En español",
               "league": "US Open",
