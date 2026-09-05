@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05 10:51:19",
+  "updated": "2026-09-05 10:57:06",
   "sports": [
     {
       "id": "football",
@@ -1107,7 +1107,7 @@
               "logo": "",
               "homeTeam": "Internazionale",
               "awayTeam": "Napoli",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/oz42kh1681540652.png",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png/medium",
               "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png",
               "imageMode": "teams",
               "duration": 130,
@@ -2518,8 +2518,8 @@
               "agendaOrder": 459
             }
           ],
-          "flagCode": "",
-          "flagUrl": ""
+          "flagCode": "us",
+          "flagUrl": "https://flagcdn.com/w320/us.png"
         },
         {
           "name": "Liga Chile",
@@ -2556,8 +2556,8 @@
                   "channelLogo": ""
                 }
               ],
-              "flagCode": "",
-              "flagUrl": "",
+              "flagCode": "cl",
+              "flagUrl": "https://flagcdn.com/w320/cl.png",
               "homeCountryCode": "",
               "awayCountryCode": "",
               "agendaOrder": 460
@@ -2591,8 +2591,8 @@
                   "channelLogo": ""
                 }
               ],
-              "flagCode": "",
-              "flagUrl": "",
+              "flagCode": "cl",
+              "flagUrl": "https://flagcdn.com/w320/cl.png",
               "homeCountryCode": "",
               "awayCountryCode": "",
               "agendaOrder": 461
