@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05 13:46:20",
+  "updated": "2026-09-06 08:05:54",
   "sports": [
     {
       "id": "football",
@@ -4101,6 +4101,51 @@
               "homeCountryCode": "",
               "awayCountryCode": "",
               "agendaOrder": 494
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Serie Colombia",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Atletico Nacional vs. America de Cali",
+              "league": "Serie Colombia",
+              "code": "COL",
+              "time": "2026-09-05 19:05",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Atletico Nacional",
+              "awayTeam": "America de Cali",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/efl4o41576157720.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/lwxcn71576156105.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney + 1",
+                  "url": "https://streamxhd.com/live1.php?stream=disney1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "co",
+              "flagUrl": "https://flagcdn.com/w320/co.png",
+              "homeCountryCode": "co",
+              "awayCountryCode": "co",
+              "agendaOrder": 512
             }
           ],
           "flagCode": "",
