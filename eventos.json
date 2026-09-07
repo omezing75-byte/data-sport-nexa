@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07 12:35:56",
+  "updated": "2026-09-07 23:31:51",
   "sports": [
     {
       "id": "football",
@@ -869,51 +869,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Corea del Norte vs Portugal",
-              "league": "Copa Mundial Sub-20 (F)",
-              "code": "FIFA",
-              "time": "2026-09-07 08:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Corea del Norte",
-              "awayTeam": "Portugal",
-              "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/8/86/Flag_of_North_Korea_%2820-33%29.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
-              "awayLogo": "https://flagcdn.com/w320/pt.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports 2",
-                  "url": "https://streamxhd.com/live1.php?stream=dsports2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN MX",
-                  "url": "https://streamxhd.com/live1.php?stream=tudnmx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 129
-            },
             {
               "title": "España vs Nigeria",
               "league": "Copa Mundial Sub-20 (F)",
