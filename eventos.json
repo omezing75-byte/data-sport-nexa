@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07 09:21:30",
+  "updated": "2026-09-07 12:35:56",
   "sports": [
     {
       "id": "football",
@@ -216,63 +216,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Toluca vs Monterrey",
-              "league": "Leagues Cup",
-              "code": "LEAGUESCUP",
-              "time": "2026-09-06 20:15",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Toluca",
-              "awayTeam": "Monterrey",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/y64wy91523913186.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/yglj911721542561.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Apple TV English",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 112
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -426,43 +370,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Melgar vs ADT",
-              "league": "Liga 1",
-              "code": "PE",
-              "time": "2026-09-06 18:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Melgar",
-              "awayTeam": "ADT",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/0puqm41765861529.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/gliwig1768234286.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "L1 Max",
-                  "url": "https://streamxhd.com/live1.php?stream=l1max",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 107
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -472,51 +380,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Racing Club vs Atlético Tucumán",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-09-06 19:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Racing Club",
-              "awayTeam": "Atlético Tucumán",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/m5i2q21775755577.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN Premium",
-                  "url": "https://streamxhd.com/live1.php?stream=espnpremium",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Fanatiz",
-                  "url": "https://streamxhd.com/live1.php?stream=fanatiz16",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 111
-            },
             {
               "title": "Barracas Central vs Argentinos Juniors",
               "league": "Liga Profesional",
@@ -638,76 +501,6 @@
           "background": "",
           "events": [
             {
-              "title": "Aucas vs Barcelona",
-              "league": "Liga Ecuador",
-              "code": "ECUA",
-              "time": "2026-09-06 19:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Aucas",
-              "awayTeam": "Barcelona",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/6vf1py1770395139.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/c5yr001653075296.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Zapping EC",
-                  "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 108
-            },
-            {
-              "title": "Deportivo Cuenca vs Libertad",
-              "league": "Liga Ecuador",
-              "code": "ECUA",
-              "time": "2026-09-06 19:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Deportivo Cuenca",
-              "awayTeam": "Libertad",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/lb2br81736221977.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/cqkwxs1675845340.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Evento 1",
-                  "url": "https://streamxhd.com/live1.php?stream=evento1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 109
-            },
-            {
               "title": "Emelec vs Manta",
               "league": "Liga Ecuador",
               "code": "ECUA",
@@ -823,51 +616,6 @@
           "background": "",
           "events": [
             {
-              "title": "Deportivo Pereira vs Millonarios",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-09-06 18:10",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Deportivo Pereira",
-              "awayTeam": "Millonarios",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/elw7as1629122545.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/mc73ix1629122587.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Fanatiz",
-                  "url": "https://streamxhd.com/live1.php?stream=fanatiz15",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 106
-            },
-            {
               "title": "Llaneros vs Deportes Tolima",
               "league": "Liga Colombia",
               "code": "COL",
@@ -921,43 +669,7 @@
           "logo": "https://corporate.wwe.com/f/inline-images/image_2.png",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Sunday Night Main Event - Atlanta",
-              "league": "WWE",
-              "code": "WWE",
-              "time": "2026-09-06 19:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Sunday Night Main Event",
-              "awayTeam": "Atlanta",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Peacock",
-                  "url": "https://streamxhd.com/live1.php?stream=peacock1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 110
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -1400,41 +1112,6 @@
           "background": "",
           "events": [
             {
-              "title": "Chicago White Sox vs Minnesota Twins",
-              "league": "MLB",
-              "code": "MLB",
-              "time": "2026-09-06 17:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Chicago White Sox",
-              "awayTeam": "Minnesota Twins",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/cws.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png",
-              "imageMode": "teams",
-              "duration": 210,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.com/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 99
-            },
-            {
               "title": "Milwaukee Brewers vs Chicago Cubs",
               "league": "MLB",
               "code": "MLB",
@@ -1551,41 +1228,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Octavos de Final",
-              "league": "US Open",
-              "code": "USOPEN",
-              "time": "2026-09-06 18:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 105
-            },
             {
               "title": "Cobertura 2 |Octavos de Final",
               "league": "US Open",
