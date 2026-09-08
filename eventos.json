@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08 12:28:23",
+  "updated": "2026-09-08 19:38:40",
   "sports": [
     {
       "id": "football",
@@ -1289,41 +1289,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Los Angeles Dodgers vs Cincinnati Reds",
-              "league": "MLB",
-              "code": "MLB",
-              "time": "2026-09-07 20:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Los Angeles Dodgers",
-              "awayTeam": "Cincinnati Reds",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/lad.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/cin.png",
-              "imageMode": "teams",
-              "duration": 210,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.com/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 1
-            },
             {
               "title": "Seattle Mariners vs Texas Rangers",
               "league": "MLB",
