@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08 11:17:36",
+  "updated": "2026-09-08 11:32:19",
   "sports": [
     {
       "id": "football",
@@ -193,7 +193,7 @@
               "agendaOrder": 9
             }
           ],
-          "flagCode": "AR",
+          "flagCode": "ar",
           "flagUrl": "https://flagcdn.com/w320/ar.png"
         },
         {
@@ -281,53 +281,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Atlético Nacional vs Deportivo Cali",
-              "league": "Copa Colombia",
-              "code": "COL",
-              "time": "2026-09-07 20:15",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Atlético Nacional",
-              "awayTeam": "Deportivo Cali",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/efl4o41576157720.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/isc2yu1580833286.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Fanatiz",
-                  "url": "https://streamxhd.com/live1.php?stream=fanatiz5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 2
-            }
-          ],
+          "events": [],
           "flagCode": "CO",
           "flagUrl": "https://flagcdn.com/w320/co.png"
         },
