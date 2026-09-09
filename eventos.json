@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09 09:22:39",
+  "updated": "2026-09-09 19:17:52",
   "sports": [
     {
       "id": "football",
@@ -782,71 +782,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Boca Juniors vs São Paulo",
-              "league": "Copa Sudamericana",
-              "code": "SUD",
-              "time": "2026-09-08 19:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Boca Juniors",
-              "awayTeam": "São Paulo",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/bm7krb1775741582.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN Recomendado",
-                  "url": "https://streamxhd.click/channel/?id=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney16",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Espn",
-                  "url": "https://streamxhd.com/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Fanatiz",
-                  "url": "https://streamxhd.com/live1.php?stream=fanatiz3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 27
-            },
             {
               "title": "Santos vs Atlético Mineiro",
               "league": "Copa Sudamericana",
@@ -1903,43 +1838,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Seattle Mariners vs Texas Rangers",
-              "league": "MLB",
-              "code": "MLB",
-              "time": "2026-09-08 20:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Seattle Mariners",
-              "awayTeam": "Texas Rangers",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/sea.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png",
-              "imageMode": "teams",
-              "duration": 210,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 4",
-                  "url": "https://streamxhd.com/live1.php?stream=espn4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 28
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         }
@@ -2032,41 +1931,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Cuartos de Final",
-              "league": "US Open",
-              "code": "USOPEN",
-              "time": "2026-09-08 18:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 26
-            },
             {
               "title": "Cuartos de Final",
               "league": "US Open",
