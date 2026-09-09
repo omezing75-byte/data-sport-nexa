@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09 11:43:49",
+  "updated": "2026-09-09 14:33:24",
   "sports": [
     {
       "id": "football",
@@ -518,16 +518,6 @@
                 {
                   "name": "ESPN 3",
                   "url": "https://streamxhd.com/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX Sports 2 AR",
-                  "url": "https://streamxhd.com/live1.php?stream=fox2ar",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
