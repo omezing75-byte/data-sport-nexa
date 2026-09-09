@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09 19:17:52",
+  "updated": "2026-09-09 11:43:49",
   "sports": [
     {
       "id": "football",
@@ -311,6 +311,16 @@
                   "channelLogo": ""
                 },
                 {
+                  "name": "Movistar Liga de Campeones",
+                  "url": "https://streamxhd.com/live1.php?stream=mligacampeones",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
                   "name": "Vix 1",
                   "url": "https://streamxhd.com/live1.php?stream=vix1",
                   "type": "iframe",
@@ -331,14 +341,14 @@
                   "channelLogo": ""
                 },
                 {
+                  "type": "iframe",
+                  "active": true,
+                  "channelLogo": "",
                   "name": "FOX One",
                   "url": "https://streamxhd.com/live1.php?stream=foxone",
-                  "type": "iframe",
                   "quality": "",
-                  "active": true,
-                  "languages": [],
                   "customLanguages": "",
-                  "channelLogo": ""
+                  "languages": []
                 }
               ],
               "flagCode": "",
