@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08 20:22:28",
+  "updated": "2026-09-09 09:22:39",
   "sports": [
     {
       "id": "football",
@@ -1862,9 +1862,9 @@
               "logo": "",
               "homeTeam": "Deportivo Riestra",
               "awayTeam": "Banfield",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/c2ea011775756104.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -1880,9 +1880,16 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
+              ],
+              "flagCode": "ar",
+              "flagUrl": "https://flagcdn.com/w320/ar.png",
+              "homeCountryCode": "ar",
+              "awayCountryCode": "ar",
+              "agendaOrder": 70
             }
-          ]
+          ],
+          "flagCode": "",
+          "flagUrl": ""
         }
       ]
     },
