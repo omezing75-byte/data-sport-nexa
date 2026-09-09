@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09 14:33:24",
+  "updated": "2026-09-10 07:55:56",
   "sports": [
     {
       "id": "football",
@@ -13,17 +13,17 @@
           "background": "",
           "events": [
             {
-              "title": "Ghana vs Corea del Sur",
+              "title": "España vs Nueva Caledonia",
               "league": "Copa Mundial Sub-20 (F)",
               "code": "FIFA",
-              "time": "2026-09-09 08:00",
+              "time": "2026-09-10 08:00",
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
-              "homeTeam": "Ghana",
-              "awayTeam": "Corea del Sur",
-              "homeLogo": "https://flagcdn.com/w320/gh.png",
-              "awayLogo": "https://flagcdn.com/w320/kr.png",
+              "homeTeam": "España",
+              "awayTeam": "Nueva Caledonia",
+              "homeLogo": "https://flagcdn.com/w320/es.png",
+              "awayLogo": "",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -45,20 +45,20 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": "",
-              "agendaOrder": 29
+              "agendaOrder": 71
             },
             {
-              "title": "Italia vs Nueva Zelanda",
+              "title": "Corea del Norte vs Costa Rica",
               "league": "Copa Mundial Sub-20 (F)",
               "code": "FIFA",
-              "time": "2026-09-09 08:00",
+              "time": "2026-09-10 08:00",
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
-              "homeTeam": "Italia",
-              "awayTeam": "Nueva Zelanda",
-              "homeLogo": "https://flagcdn.com/w320/it.png",
-              "awayLogo": "https://flagcdn.com/w320/nz.png",
+              "homeTeam": "Corea del Norte",
+              "awayTeam": "Costa Rica",
+              "homeLogo": "",
+              "awayLogo": "https://flagcdn.com/w320/cr.png",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -80,20 +80,20 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": "",
-              "agendaOrder": 30
+              "agendaOrder": 72
             },
             {
-              "title": "Francia vs Ecuador",
+              "title": "Colombia vs Portugal",
               "league": "Copa Mundial Sub-20 (F)",
               "code": "FIFA",
-              "time": "2026-09-09 11:00",
+              "time": "2026-09-10 11:00",
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
-              "homeTeam": "Francia",
-              "awayTeam": "Ecuador",
-              "homeLogo": "https://flagcdn.com/w320/fr.png",
-              "awayLogo": "https://flagcdn.com/w320/ec.png",
+              "homeTeam": "Colombia",
+              "awayTeam": "Portugal",
+              "homeLogo": "https://flagcdn.com/w320/co.png",
+              "awayLogo": "https://flagcdn.com/w320/pt.png",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -115,140 +115,30 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": "",
-              "agendaOrder": 31
-            },
-            {
-              "title": "Japón vs Estados Unidos",
-              "league": "Copa Mundial Sub-20 (F)",
-              "code": "FIFA",
-              "time": "2026-09-09 11:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Japón",
-              "awayTeam": "Estados Unidos",
-              "homeLogo": "https://flagcdn.com/w320/jp.png",
-              "awayLogo": "https://flagcdn.com/w320/us.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Universo",
-                  "url": "https://streamxhd.com/live1.php?stream=universo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN MX",
-                  "url": "https://streamxhd.com/live1.php?stream=tudnmx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 32
+              "agendaOrder": 73
             }
           ],
           "flagCode": "ar",
           "flagUrl": "https://flagcdn.com/w320/ar.png"
         },
         {
-          "name": "Liga Arabia Saudita",
+          "name": "UEFA Champions League",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
             {
-              "title": "Al Nassr vs Abha",
-              "league": "Liga Arabia Saudita",
-              "code": "ARA",
-              "time": "2026-09-09 13:00",
+              "title": "Fenerbahçe vs Roma",
+              "league": "UEFA Champions League",
+              "code": "CHA",
+              "time": "2026-09-10 11:45",
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
-              "homeTeam": "Al Nassr",
-              "awayTeam": "Abha",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/84yvqi1748524565.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/e00pwe1677530619.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX One 3",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX Deportes USA",
-                  "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "SporTV 1",
-                  "url": "https://streamxhd.com/live1.php?stream=sporttvbr1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 33
-            }
-          ],
-          "flagCode": "sa",
-          "flagUrl": "https://flagcdn.com/w320/sa.png"
-        },
-        {
-          "name": "UEFA Youth League Sub-19",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Liverpool vs Atlético Madrid",
-              "league": "UEFA Youth League Sub-19",
-              "code": "YOUTH",
-              "time": "2026-09-09 09:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Liverpool",
-              "awayTeam": "Atlético Madrid",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png",
+              "homeTeam": "Fenerbahçe",
+              "awayTeam": "Roma",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -258,386 +148,6 @@
                 {
                   "name": "Disney +",
                   "url": "https://streamxhd.com/live1.php?stream=disney1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 34
-            }
-          ],
-          "flagCode": "BE",
-          "flagUrl": "https://flagcdn.com/w320/be.png"
-        },
-        {
-          "name": "UEFA Champions League",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Barcelona vs Feyenoord",
-              "league": "UEFA Champions League",
-              "code": "CHA",
-              "time": "2026-09-09 11:45",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Barcelona",
-              "awayTeam": "Feyenoord",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/uturtx1473534803.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Movistar Liga de Campeones",
-                  "url": "https://streamxhd.com/live1.php?stream=mligacampeones",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Vix 1",
-                  "url": "https://streamxhd.com/live1.php?stream=vix1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.com/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "type": "iframe",
-                  "active": true,
-                  "channelLogo": "",
-                  "name": "FOX One",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone",
-                  "quality": "",
-                  "customLanguages": "",
-                  "languages": []
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 35
-            },
-            {
-              "title": "Stuttgart vs Viking",
-              "league": "UEFA Champions League",
-              "code": "CHA",
-              "time": "2026-09-09 11:45",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Stuttgart",
-              "awayTeam": "Viking",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/yppyux1473454085.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/9mzq961590148192.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Max 1",
-                  "url": "https://streamxhd.com/live1.php?stream=max1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Vix 2",
-                  "url": "https://streamxhd.com/live1.php?stream=vix2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 5",
-                  "url": "https://streamxhd.com/live1.php?stream=espn5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 36
-            },
-            {
-              "title": "Sporting CP vs Galatasaray",
-              "league": "UEFA Champions League",
-              "code": "CHA",
-              "time": "2026-09-09 14:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Sporting CP",
-              "awayTeam": "Galatasaray",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/5hiuk71783137875.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Max 2",
-                  "url": "https://streamxhd.com/live1.php?stream=max2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Vix 3",
-                  "url": "https://streamxhd.com/live1.php?stream=vix3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 4",
-                  "url": "https://streamxhd.com/live1.php?stream=espn4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 37
-            },
-            {
-              "title": "PSG vs Slovan Bratislava",
-              "league": "UEFA Champions League",
-              "code": "CHA",
-              "time": "2026-09-09 14:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "PSG",
-              "awayTeam": "Slovan Bratislava",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/uzkg701781199823.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.com/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX One",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 38
-            },
-            {
-              "title": "Napoli vs Arsenal",
-              "league": "UEFA Champions League",
-              "code": "CHA",
-              "time": "2026-09-09 14:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Napoli",
-              "awayTeam": "Arsenal",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney6",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Max 3",
-                  "url": "https://streamxhd.com/live1.php?stream=max3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Vix 4",
-                  "url": "https://streamxhd.com/live1.php?stream=vix4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 5",
-                  "url": "https://streamxhd.com/live1.php?stream=espn5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 39
-            },
-            {
-              "title": "Liverpool vs Atlético Madrid",
-              "league": "UEFA Champions League",
-              "code": "CHA",
-              "time": "2026-09-09 14:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Liverpool",
-              "awayTeam": "Atlético Madrid",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Vix 5",
-                  "url": "https://streamxhd.com/live1.php?stream=vix5",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -656,8 +166,108 @@
                   "channelLogo": ""
                 },
                 {
-                  "name": "FOX One 2",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone2",
+                  "name": "ESPN",
+                  "url": "https://streamxhd.com/live1.php?stream=espn",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Max 1",
+                  "url": "https://streamxhd.com/live1.php?stream=max1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 74
+            },
+            {
+              "title": "PSV vs Shakhtar Donetsk",
+              "league": "UEFA Champions League",
+              "code": "CHA",
+              "time": "2026-09-10 11:45",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "PSV",
+              "awayTeam": "Shakhtar Donetsk",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/sqrxsr1421791799.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN 2",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "FOX One",
+                  "url": "https://streamxhd.com/live1.php?stream=foxone",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 75
+            },
+            {
+              "title": "Bayern München vs Bodø / Glimt",
+              "league": "UEFA Champions League",
+              "code": "CHA",
+              "time": "2026-09-10 14:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Bayern München",
+              "awayTeam": "Bodø / Glimt",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/uqpwwx1449165943.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney3",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -674,107 +284,202 @@
                   "languages": [],
                   "customLanguages": "",
                   "channelLogo": ""
+                },
+                {
+                  "name": "FOX One",
+                  "url": "https://streamxhd.com/live1.php?stream=foxone",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
                 }
               ],
               "flagCode": "",
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": "",
-              "agendaOrder": 40
+              "agendaOrder": 76
+            },
+            {
+              "title": "Como vs RB Leipzig",
+              "league": "UEFA Champions League",
+              "code": "CHA",
+              "time": "2026-09-10 14:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Como",
+              "awayTeam": "RB Leipzig",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney4",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "FOX Sports 1 AR",
+                  "url": "https://streamxhd.com/live1.php?stream=fox1ar",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN 5",
+                  "url": "https://streamxhd.com/live1.php?stream=espn5",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Max 3",
+                  "url": "https://streamxhd.com/live1.php?stream=max3",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 77
+            },
+            {
+              "title": "Manchester United vs Sabah",
+              "league": "UEFA Champions League",
+              "code": "CHA",
+              "time": "2026-09-10 14:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Manchester United",
+              "awayTeam": "Sabah",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/dug7wr1614888756.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney5",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN 2",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Max 2",
+                  "url": "https://streamxhd.com/live1.php?stream=max2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 78
+            },
+            {
+              "title": "Slavia Praha vs Lens",
+              "league": "UEFA Champions League",
+              "code": "CHA",
+              "time": "2026-09-10 14:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Slavia Praha",
+              "awayTeam": "Lens",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/l7kl4n1759252139.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney6",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN 3",
+                  "url": "https://streamxhd.com/live1.php?stream=espn3",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "FOX One 2",
+                  "url": "https://streamxhd.com/live1.php?stream=foxone2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 79
             }
           ],
           "flagCode": "",
           "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/UEFA_Champions_League_logo.png/250px-UEFA_Champions_League_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-        },
-        {
-          "name": "Carabao Cup",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Chelsea vs Leeds United",
-              "league": "Carabao Cup",
-              "code": "ENG",
-              "time": "2026-09-09 14:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Chelsea",
-              "awayTeam": "Leeds United",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney9",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 41
-            }
-          ],
-          "flagCode": "GB-ENG",
-          "flagUrl": ""
-        },
-        {
-          "name": "Championship",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Charlton Athletic vs Queens Park Rangers",
-              "league": "Championship",
-              "code": "ENG",
-              "time": "2026-09-09 14:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Charlton Athletic",
-              "awayTeam": "Queens Park Rangers",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/o08wvi1635872307.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/l4qscx1601721022.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney8",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 42
-            }
-          ],
-          "flagCode": "GB-ENG",
-          "flagUrl": ""
         },
         {
           "name": "Copa Sudamericana",
@@ -846,6 +551,51 @@
               "homeCountryCode": "",
               "awayCountryCode": "",
               "agendaOrder": 43
+            },
+            {
+              "title": "Cienciano vs Torque",
+              "league": "Copa Sudamericana",
+              "code": "SUD",
+              "time": "2026-09-10 19:30",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Cienciano",
+              "awayTeam": "Torque",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/yla9k51734242161.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/v7urjn1580234584.png/medium",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "DSports",
+                  "url": "https://streamxhd.com/live1.php?stream=dsports",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Fanatiz",
+                  "url": "https://streamxhd.com/live1.php?stream=fanatiz1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 80
             }
           ],
           "flagCode": "",
@@ -986,29 +736,19 @@
               "homeCountryCode": "",
               "awayCountryCode": "",
               "agendaOrder": 45
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Conmebol-libertadores.svg/250px-Conmebol-libertadores.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
-        },
-        {
-          "name": "Primeira Liga",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
+            },
             {
-              "title": "Moreirense vs Benfica",
-              "league": "Primeira Liga",
-              "code": "POR",
-              "time": "2026-09-09 14:45",
+              "title": "Independiente del Valle vs Flamengo",
+              "league": "Copa Libertadores",
+              "code": "LIB",
+              "time": "2026-09-10 19:30",
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
-              "homeTeam": "Moreirense",
-              "awayTeam": "Benfica",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/yrquxu1471878153.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/hj4kyc1781152436.png/medium",
+              "homeTeam": "Independiente del Valle",
+              "awayTeam": "Flamengo",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/qku0lv1737622736.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -1016,8 +756,38 @@
               "note": "",
               "servers": [
                 {
-                  "name": "DSports 2",
-                  "url": "https://streamxhd.com/live1.php?stream=dsports2",
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney8",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "FOX Sports 1 AR",
+                  "url": "https://streamxhd.com/live1.php?stream=fox1ar",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN",
+                  "url": "https://streamxhd.com/live1.php?stream=espn",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Fanatiz",
+                  "url": "https://streamxhd.com/live1.php?stream=fanatiz2",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -1030,11 +800,11 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": "",
-              "agendaOrder": 47
+              "agendaOrder": 81
             }
           ],
           "flagCode": "",
-          "flagUrl": ""
+          "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Conmebol-libertadores.svg/250px-Conmebol-libertadores.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         },
         {
           "name": "Copa Colombia",
@@ -1776,6 +1546,76 @@
               "homeCountryCode": "",
               "awayCountryCode": "",
               "agendaOrder": 67
+            },
+            {
+              "title": "Marathón vs Alajuelense",
+              "league": "Copa Centroamericana",
+              "code": "CONCACAF",
+              "time": "2026-09-10 20:06",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Marathón",
+              "awayTeam": "Alajuelense",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/i9saoy1582143482.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/zi9ft21707630526.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney9",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 82
+            },
+            {
+              "title": "Firpo vs Olimpia",
+              "league": "Copa Centroamericana",
+              "code": "CONCACAF",
+              "time": "2026-09-10 22:06",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Firpo",
+              "awayTeam": "Olimpia",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/x6yo0a1603307122.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/a8229b1580931621.png/medium",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney10",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 83
             }
           ],
           "flagCode": "",
@@ -1825,6 +1665,251 @@
           ],
           "flagCode": "",
           "flagUrl": ""
+        },
+        {
+          "name": "League One",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Stevenage vs Luton Town",
+              "league": "League One",
+              "code": "ENG",
+              "time": "2026-09-10 14:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Stevenage",
+              "awayTeam": "Luton Town",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/v977eh1681319466.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney7",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 85
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Copa Ecuador",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Astillero vs Universidad Católica",
+              "league": "Copa Ecuador",
+              "code": "ECUA",
+              "time": "2026-09-10 15:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Astillero",
+              "awayTeam": "Universidad Católica",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/793nqb1775231424.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/h2pcuc1602188028.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Zapping EC",
+                  "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 86
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Copa Bolivia",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Bolívar vs Independiente Petrolero",
+              "league": "Copa Bolivia",
+              "code": "BOL",
+              "time": "2026-09-10 19:30",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Bolívar",
+              "awayTeam": "Independiente Petrolero",
+              "homeLogo": "",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/v0t6g61614284889.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Entel Gol",
+                  "url": "https://streamxhd.com/live1.php?stream=entelgol",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 87
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Liga Colombia",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Millonarios vs Deportivo Cali",
+              "league": "Liga Colombia",
+              "code": "COL",
+              "time": "2026-09-10 20:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Millonarios",
+              "awayTeam": "Deportivo Cali",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/mc73ix1629122587.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/isc2yu1580833286.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Fanatiz",
+                  "url": "https://streamxhd.com/live1.php?stream=fanatiz3",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Win Sports +",
+                  "url": "https://streamxhd.com/live1.php?stream=winplus",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 88
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Liga MX",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Pumas vs León",
+              "league": "Liga MX",
+              "code": "LIGAMX",
+              "time": "2026-09-10 22:05",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Pumas",
+              "awayTeam": "León",
+              "homeLogo": "",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/pc9gro1752393439.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "TUDN USA",
+                  "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Vix 1",
+                  "url": "https://streamxhd.com/live1.php?stream=vix1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 89
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
         }
       ]
     },
@@ -1838,7 +1923,43 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [],
+          "events": [
+            {
+              "title": "Atlanta Braves vs Tampa Bay Rays",
+              "league": "MLB",
+              "code": "MLB",
+              "time": "2026-09-10 11:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Atlanta Braves",
+              "awayTeam": "Tampa Bay Rays",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/atl.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png",
+              "imageMode": "teams",
+              "duration": 210,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "ESPN 7",
+                  "url": "https://streamxhd.com/live1.php?stream=espn7",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 90
+            }
+          ],
           "flagCode": "",
           "flagUrl": ""
         }
@@ -1876,10 +1997,10 @@
           "background": "",
           "events": [
             {
-              "title": "Etapa #17",
+              "title": "Etapa #18",
               "league": "La Vuelta",
               "code": "CICLISMO",
-              "time": "2026-09-09 07:45",
+              "time": "2026-09-10 07:45",
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
@@ -1908,7 +2029,7 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": "",
-              "agendaOrder": 46
+              "agendaOrder": 84
             }
           ]
         }
@@ -1931,41 +2052,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Cuartos de Final",
-              "league": "US Open",
-              "code": "USOPEN",
-              "time": "2026-09-09 10:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 68
-            },
             {
               "title": "Cuartos de Final",
               "league": "US Open",
@@ -2000,6 +2086,41 @@
               "homeCountryCode": "",
               "awayCountryCode": "",
               "agendaOrder": 69
+            },
+            {
+              "title": "Semifinales Femeninas",
+              "league": "US Open",
+              "code": "USOPEN",
+              "time": "2026-09-10 18:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "",
+              "awayTeam": "",
+              "homeLogo": "",
+              "awayLogo": "",
+              "imageMode": "",
+              "duration": 240,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "ESPN 2",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 91
             }
           ],
           "flagCode": "",
