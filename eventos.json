@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10 07:55:56",
+  "updated": "2026-09-10 07:57:05",
   "sports": [
     {
       "id": "football",
@@ -1728,7 +1728,7 @@
               "homeTeam": "Astillero",
               "awayTeam": "Universidad Católica",
               "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/793nqb1775231424.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/h2pcuc1602188028.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/25pb661770394991.png/medium",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -1772,7 +1772,7 @@
               "logo": "",
               "homeTeam": "Bolívar",
               "awayTeam": "Independiente Petrolero",
-              "homeLogo": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/0o5jrz1579798499.png/medium",
               "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/v0t6g61614284889.png",
               "imageMode": "teams",
               "duration": 130,
@@ -1872,7 +1872,7 @@
               "logo": "",
               "homeTeam": "Pumas",
               "awayTeam": "León",
-              "homeLogo": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/o01nvl1695734937.png/medium",
               "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/pc9gro1752393439.png",
               "imageMode": "teams",
               "duration": 130,
