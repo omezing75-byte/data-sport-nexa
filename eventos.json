@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10 18:48:01",
+  "updated": "2026-09-11 07:51:18",
   "sports": [
     {
       "id": "football",
@@ -1928,14 +1928,24 @@
                   "channelLogo": ""
                 },
                 {
-                  "name": "DAZN F1",
-                  "url": "https://streamxhd.com/live1.php?stream=daznf1",
+                  "name": "ESPN 2",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
                   "languages": [],
                   "customLanguages": "",
                   "channelLogo": ""
+                },
+                {
+                  "type": "iframe",
+                  "active": true,
+                  "channelLogo": "",
+                  "name": "DAZN F1",
+                  "url": "https://streamxhd.com/live1.php?stream=daznf1",
+                  "quality": "",
+                  "customLanguages": "",
+                  "languages": []
                 }
               ],
               "flagCode": "",
@@ -2141,7 +2151,47 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 127
+            },
+            {
+              "title": "Frances Tiafoe vs Ben Shelton - Semifinales Masculinas",
+              "league": "US Open",
+              "code": "USOPEN",
+              "time": "2026-09-11 18:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Frances Tiafoe",
+              "awayTeam": "Ben Shelton - Semifinales Masculinas",
+              "homeLogo": "",
+              "awayLogo": "",
+              "imageMode": "",
+              "duration": 240,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "ESPN 2",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 128
             }
           ],
           "flagCode": "",
