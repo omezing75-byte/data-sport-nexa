@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10 10:58:05",
+  "updated": "2026-09-10 20:50:19",
   "sports": [
     {
       "id": "football",
@@ -616,63 +616,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Deportivo Pasto vs Medellín",
-              "league": "Copa Colombia",
-              "code": "COL",
-              "time": "2026-09-09 20:10",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Deportivo Pasto",
-              "awayTeam": "Medellín",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/zlmyh31576159327.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/mzezh31783226830.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Fanatiz",
-                  "url": "https://streamxhd.com/live1.php?stream=fanatiz5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Win Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=winsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 49
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -681,148 +625,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Los Angeles FC vs New York RB",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-09-09 21:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Los Angeles FC",
-              "awayTeam": "New York RB",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/7nbj2a1602103638.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/suytvy1473536462.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv12",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 61
-            },
-            {
-              "title": "Portland Timbers vs St. Louis City",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-09-09 21:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Portland Timbers",
-              "awayTeam": "St. Louis City",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/skm30j1557953559.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/22wanp1674118724.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv13",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 62
-            },
-            {
-              "title": "San Diego vs SJ Earthquakes",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-09-09 21:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "San Diego",
-              "awayTeam": "SJ Earthquakes",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/7ka2xd1734621068.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/xyrqqt1420781048.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv14",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 63
-            },
-            {
-              "title": "Vancouver Whitecaps vs LA Galaxy",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-09-09 21:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Vancouver Whitecaps",
-              "awayTeam": "LA Galaxy",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/tpwxpy1473536521.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ysyysr1420227188.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv15",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 64
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -832,76 +635,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Deportivo Saprissa vs Cartaginés",
-              "league": "Copa Centroamericana",
-              "code": "CONCACAF",
-              "time": "2026-09-09 20:06",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Deportivo Saprissa",
-              "awayTeam": "Cartaginés",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/tvj33z1707630611.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/0mo64x1589122311.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney14",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 66
-            },
-            {
-              "title": "Motagua vs Alianza",
-              "league": "Copa Centroamericana",
-              "code": "CONCACAF",
-              "time": "2026-09-09 22:10",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Motagua",
-              "awayTeam": "Alianza",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/zi6mw31581857175.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ghlv261609881539.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney15",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 67
-            },
             {
               "title": "Marathón vs Alajuelense",
               "league": "Copa Centroamericana",
@@ -1363,41 +1096,6 @@
           "background": "",
           "events": [
             {
-              "title": "Cuartos de Final",
-              "league": "US Open",
-              "code": "USOPEN",
-              "time": "2026-09-09 18:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 69
-            },
-            {
               "title": "Semifinales Femeninas",
               "league": "US Open",
               "code": "USOPEN",
@@ -1450,63 +1148,7 @@
           "flagUrl": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Seattle Seahawks vs New England Patriots",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-09-09 19:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Seattle Seahawks",
-              "awayTeam": "New England Patriots",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney12",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.com/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Universo",
-                  "url": "https://streamxhd.com/live1.php?stream=universo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 65
-            }
-          ]
+          "events": []
         }
       ]
     },
