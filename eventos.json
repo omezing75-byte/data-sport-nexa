@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11 07:51:18",
+  "updated": "2026-09-11 07:58:21",
   "sports": [
     {
       "id": "football",
@@ -2131,8 +2131,8 @@
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
-              "homeTeam": "Alexander Zverev",
-              "awayTeam": "Karen Khachanov - Semifinales",
+              "homeTeam": "",
+              "awayTeam": "",
               "homeLogo": "",
               "awayLogo": "",
               "imageMode": "",
@@ -2166,8 +2166,8 @@
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
-              "homeTeam": "Frances Tiafoe",
-              "awayTeam": "Ben Shelton - Semifinales Masculinas",
+              "homeTeam": "",
+              "awayTeam": "",
               "homeLogo": "",
               "awayLogo": "",
               "imageMode": "",
@@ -2203,7 +2203,53 @@
       "id": "nfl",
       "name": "American Football",
       "icon": "🏈",
-      "leagues": []
+      "leagues": [
+        {
+          "name": "NFL",
+          "logo": "",
+          "flagCode": "",
+          "flagUrl": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Los Angeles Rams vs San Francisco 49ers",
+              "league": "NFL",
+              "code": "NFL",
+              "time": "2026-09-10 19:35",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Los Angeles Rams",
+              "awayTeam": "San Francisco 49ers",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png",
+              "imageMode": "teams",
+              "duration": 180,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Eventos 1",
+                  "url": "https://streamxhd.com/live1.php?stream=evento1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "us",
+              "flagUrl": "https://flagcdn.com/w320/us.png",
+              "homeCountryCode": "us",
+              "awayCountryCode": "us",
+              "agendaOrder": 129
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "rugby",
