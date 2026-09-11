@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12 07:16:39",
+  "updated": "2026-09-12 07:23:00",
   "sports": [
     {
       "id": "football",
@@ -3112,7 +3112,7 @@
               "homeTeam": "Dorados de Sinaloa",
               "awayTeam": "Tapatío",
               "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/ofmki71580499474.png",
-              "awayLogo": "",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/mako3w1648062511.png",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -3130,10 +3130,10 @@
                   "channelLogo": ""
                 }
               ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
+              "flagCode": "MX",
+              "flagUrl": "https://flagcdn.com/w320/mx.png",
+              "homeCountryCode": "mx",
+              "awayCountryCode": "mx",
               "agendaOrder": 175
             }
           ],
@@ -3147,16 +3147,16 @@
           "background": "",
           "events": [
             {
-              "title": "1. FC Magdeburg vs Kaiserslautern",
+              "title": "FC Magdeburg vs Kaiserslautern",
               "league": "Bundesliga 2",
               "code": "ALE",
               "time": "2026-09-12 06:00",
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
-              "homeTeam": "1. FC Magdeburg",
+              "homeTeam": "FC Magdeburg",
               "awayTeam": "Kaiserslautern",
-              "homeLogo": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/f2fuxs1532856216.png/medium",
               "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/jghax31740165513.png",
               "imageMode": "teams",
               "duration": 130,
@@ -3192,7 +3192,7 @@
               "homeTeam": "St. Pauli",
               "awayTeam": "VfL Wolfsburg",
               "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/5qupxa1608237013.png",
-              "awayLogo": "",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ci9trv1778399557.png/medium",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -3602,7 +3602,7 @@
               "homeTeam": "Ñublense",
               "awayTeam": "Everton",
               "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/0jpiwm1610649915.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/3yo4ag1779074331.png/medium",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -3655,8 +3655,8 @@
                   "channelLogo": ""
                 }
               ],
-              "flagCode": "",
-              "flagUrl": "",
+              "flagCode": "cl",
+              "flagUrl": "https://flagcdn.com/w320/cl.png",
               "homeCountryCode": "",
               "awayCountryCode": "",
               "agendaOrder": 187
@@ -3690,15 +3690,15 @@
                   "channelLogo": ""
                 }
               ],
-              "flagCode": "",
-              "flagUrl": "",
+              "flagCode": "cl",
+              "flagUrl": "https://flagcdn.com/w320/cl.png",
               "homeCountryCode": "",
               "awayCountryCode": "",
               "agendaOrder": 188
             }
           ],
-          "flagCode": "",
-          "flagUrl": ""
+          "flagCode": "cl",
+          "flagUrl": "https://flagcdn.com/w320/cl.png"
         },
         {
           "name": "Liga Uruguay",
@@ -3716,7 +3716,7 @@
               "logo": "",
               "homeTeam": "Racing",
               "awayTeam": "Boston River",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/rtsusv1473541178.png/medium",
               "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/8zq9n91736218442.png",
               "imageMode": "teams",
               "duration": 130,
@@ -3751,8 +3751,8 @@
               "logo": "",
               "homeTeam": "Wanderers",
               "awayTeam": "Nacional",
-              "homeLogo": "",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/uv7z921579989369.png",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/3i6k5s1766114857.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png/medium",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -4067,7 +4067,7 @@
               "homeTeam": "Casa Pia",
               "awayTeam": "Porto",
               "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/d8ugsc1678717133.png",
-              "awayLogo": "",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/xu47rb1628855600.png/medium",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -4307,7 +4307,7 @@
               "homeTeam": "Motagua",
               "awayTeam": "Policía Nacional",
               "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/zi6mw31581857175.png",
-              "awayLogo": "",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/mz54c71784224140.png/medium",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -4352,7 +4352,7 @@
               "homeTeam": "Inter Miami",
               "awayTeam": "Nashville SC",
               "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
-              "awayLogo": "",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/znrwt71602103062.png/medium",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -4397,7 +4397,7 @@
               "homeTeam": "Columbus Crew",
               "awayTeam": "New York RB",
               "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/dzs8cp1629059854.png",
-              "awayLogo": "",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/suytvy1473536462.png/medium",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -4571,7 +4571,7 @@
               "logo": "",
               "homeTeam": "Sporting KC",
               "awayTeam": "Los Angeles FC",
-              "homeLogo": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqupxw1473536504.png/medium",
               "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/7nbj2a1602103638.png",
               "imageMode": "teams",
               "duration": 130,
@@ -4746,7 +4746,7 @@
               "logo": "",
               "homeTeam": "SJ Earthquakes",
               "awayTeam": "Houston Dynamo",
-              "homeLogo": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/xyrqqt1420781048.png/medium",
               "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvz9dq1707631352.png",
               "imageMode": "teams",
               "duration": 130,
@@ -4791,7 +4791,7 @@
               "logo": "",
               "homeTeam": "Escorpiones Belén",
               "awayTeam": "Herediano",
-              "homeLogo": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/aeng4x1785697969.png/medium",
               "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/20qq911582143301.png",
               "imageMode": "teams",
               "duration": 130,
@@ -4836,9 +4836,9 @@
               "logo": "",
               "homeTeam": "FC Andorra",
               "awayTeam": "Real Sociedad II",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/eyaka21639481902.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/hliq4n1579632023.png/medium",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -5986,7 +5986,7 @@
       "leagues": [
         {
           "name": "La Vuelta",
-          "logo": "",
+          "logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/316925fe-48e7-42a0-985e-3308bce9dff1/trim?format=webp&max=800%7C300",
           "flagCode": "",
           "flagUrl": "",
           "image": "",
@@ -6038,7 +6038,7 @@
       "leagues": [
         {
           "name": "UFC",
-          "logo": "",
+          "logo": "https://r2.thesportsdb.com/images/media/league/badge/bewnz31717531281.png/medium",
           "flagCode": "",
           "flagUrl": "",
           "image": "",
