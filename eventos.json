@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11 07:58:21",
+  "updated": "2026-09-11 19:47:11",
   "sports": [
     {
       "id": "football",
@@ -131,53 +131,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Cienciano vs Torque",
-              "league": "Copa Sudamericana",
-              "code": "SUD",
-              "time": "2026-09-10 19:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Cienciano",
-              "awayTeam": "Torque",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/yla9k51734242161.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/v7urjn1580234584.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports",
-                  "url": "https://streamxhd.com/live1.php?stream=dsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Fanatiz",
-                  "url": "https://streamxhd.com/live1.php?stream=fanatiz1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 80
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Conmebol-sudamericana.svg/250px-Conmebol-sudamericana.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         },
@@ -186,73 +140,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Independiente del Valle vs Flamengo",
-              "league": "Copa Libertadores",
-              "code": "LIB",
-              "time": "2026-09-10 19:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Independiente del Valle",
-              "awayTeam": "Flamengo",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/qku0lv1737622736.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney8",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX Sports 1 AR",
-                  "url": "https://streamxhd.com/live1.php?stream=fox1ar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.com/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Fanatiz",
-                  "url": "https://streamxhd.com/live1.php?stream=fanatiz2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 81
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Conmebol-libertadores.svg/250px-Conmebol-libertadores.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
         },
@@ -261,78 +149,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Marathón vs Alajuelense",
-              "league": "Copa Centroamericana",
-              "code": "CONCACAF",
-              "time": "2026-09-10 20:06",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Marathón",
-              "awayTeam": "Alajuelense",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/i9saoy1582143482.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/zi9ft21707630526.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney9",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 82
-            },
-            {
-              "title": "Firpo vs Olimpia",
-              "league": "Copa Centroamericana",
-              "code": "CONCACAF",
-              "time": "2026-09-10 22:06",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Firpo",
-              "awayTeam": "Olimpia",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/x6yo0a1603307122.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/a8229b1580931621.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney10",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 83
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -341,43 +158,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Bolívar vs Independiente Petrolero",
-              "league": "Copa Bolivia",
-              "code": "BOL",
-              "time": "2026-09-10 19:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Bolívar",
-              "awayTeam": "Independiente Petrolero",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/0o5jrz1579798499.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/v0t6g61614284889.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Entel Gol",
-                  "url": "https://streamxhd.com/live1.php?stream=entelgol",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 87
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -387,51 +168,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Millonarios vs Deportivo Cali",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-09-10 20:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Millonarios",
-              "awayTeam": "Deportivo Cali",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/mc73ix1629122587.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/isc2yu1580833286.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Fanatiz",
-                  "url": "https://streamxhd.com/live1.php?stream=fanatiz3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 88
-            },
             {
               "title": "Jaguares de Córdoba vs Fortaleza CEIF",
               "league": "Liga Colombia",
@@ -532,51 +268,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Pumas vs León",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-09-10 22:05",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Pumas",
-              "awayTeam": "León",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/o01nvl1695734937.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/pc9gro1752393439.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Vix 1",
-                  "url": "https://streamxhd.com/live1.php?stream=vix1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 89
-            },
             {
               "title": "Necaxa vs Puebla",
               "league": "Liga MX",
@@ -2089,41 +1780,6 @@
           "background": "",
           "events": [
             {
-              "title": "Semifinales Femeninas",
-              "league": "US Open",
-              "code": "USOPEN",
-              "time": "2026-09-10 18:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 91
-            },
-            {
               "title": "Alexander Zverev vs Karen Khachanov - Semifinales",
               "league": "US Open",
               "code": "USOPEN",
@@ -2211,43 +1867,7 @@
           "flagUrl": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Los Angeles Rams vs San Francisco 49ers",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-09-10 19:35",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Los Angeles Rams",
-              "awayTeam": "San Francisco 49ers",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Eventos 1",
-                  "url": "https://streamxhd.com/live1.php?stream=evento1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "us",
-              "flagUrl": "https://flagcdn.com/w320/us.png",
-              "homeCountryCode": "us",
-              "awayCountryCode": "us",
-              "agendaOrder": 129
-            }
-          ]
+          "events": []
         }
       ]
     },
