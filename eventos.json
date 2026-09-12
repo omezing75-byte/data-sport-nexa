@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12 18:20:09",
+  "updated": "2026-09-12 22:14:18",
   "sports": [
     {
       "id": "football",
@@ -1023,81 +1023,6 @@
           "background": "",
           "events": [
             {
-              "title": "Racing Santander vs Deportivo Alavés",
-              "league": "LaLiga",
-              "code": "ES",
-              "time": "2026-09-12 07:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Racing Santander",
-              "awayTeam": "Deportivo Alavés",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/97kkiq1536575158.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/mfn99h1734673842.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports",
-                  "url": "https://streamxhd.com/live1.php?stream=dsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN +",
-                  "url": "https://streamxhd.com/live1.php?stream=espnplus1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN Deportes",
-                  "url": "https://streamxhd.com/live1.php?stream=espndeportes",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "DAZN LaLiga",
-                  "url": "https://streamxhd.com/live1.php?stream=daznlaliga",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Premier Sports 1 UK",
-                  "url": "https://streamxhd.com/live1.php?stream=premier1uk",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 151
-            },
-            {
               "title": "Osasuna vs Espanyol",
               "league": "LaLiga",
               "code": "ES",
@@ -1402,41 +1327,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Derby County vs Birmingham City",
-              "league": "Championship",
-              "code": "ENG",
-              "time": "2026-09-12 06:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Derby County",
-              "awayTeam": "Birmingham City",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/jioo4z1557155744.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/wufs551672950865.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 157
-            },
             {
               "title": "Watford vs Stoke City",
               "league": "Championship",
@@ -1781,41 +1671,6 @@
               "homeCountryCode": "",
               "awayCountryCode": "",
               "agendaOrder": 164
-            },
-            {
-              "title": "Deportivo Moquegua vs Sporting Cristal",
-              "league": "Liga 1",
-              "code": "PE",
-              "time": "2026-09-12 15:15",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Deportivo Moquegua",
-              "awayTeam": "Sporting Cristal",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/et9aaf1768236511.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ive4ya1766423194.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "L1 Max",
-                  "url": "https://streamxhd.com/live1.php?stream=l1max",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 165
             },
             {
               "title": "Alianza Lima vs Universitario",
@@ -2221,41 +2076,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "FC Magdeburg vs Kaiserslautern",
-              "league": "Bundesliga 2",
-              "code": "ALE",
-              "time": "2026-09-12 06:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "FC Magdeburg",
-              "awayTeam": "Kaiserslautern",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/f2fuxs1532856216.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/jghax31740165513.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX Sports 2 AR",
-                  "url": "https://streamxhd.com/live1.php?stream=fox2ar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 177
-            },
             {
               "title": "St. Pauli vs VfL Wolfsburg",
               "league": "Bundesliga 2",
@@ -3792,41 +3612,6 @@
           "background": "",
           "events": [
             {
-              "title": "FC Andorra vs Real Sociedad II",
-              "league": "LaLiga Hypermotion",
-              "code": "ES",
-              "time": "2026-09-12 07:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "FC Andorra",
-              "awayTeam": "Real Sociedad II",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/eyaka21639481902.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/hliq4n1579632023.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "LaLiga Hypermotion",
-                  "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 229
-            },
-            {
               "title": "Cádiz vs Las Palmas",
               "league": "LaLiga Hypermotion",
               "code": "ES",
@@ -4102,176 +3887,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "GP España - Práctica #3",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-09-12 05:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "DAZN F1",
-                  "url": "https://streamxhd.com/live1.php?stream=daznf1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.com/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Fox Sports 1 AR",
-                  "url": "https://streamxhd.com/live1.php?stream=fox1ar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 217
-            },
-            {
-              "title": "GP España - Práctica #3 - Cámara On Board",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-09-12 05:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 218
-            },
-            {
-              "title": "GP España - Práctica #3 - On Board Colapinto",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-09-12 05:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 219
-            },
-            {
-              "title": "GP España - Práctica #3 - On Board Piastri",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-09-12 05:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 220
-            },
             {
               "title": "GP España - Clasificación",
               "league": "F1",
