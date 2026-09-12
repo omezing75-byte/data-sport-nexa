@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12 22:14:18",
+  "updated": "2026-09-13 04:07:41",
   "sports": [
     {
       "id": "football",
@@ -2452,16 +2452,6 @@
                 {
                   "name": "Telemundo",
                   "url": "https://streamxhd.com/live1.php?stream=telemundo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TNT Sports 1 UK",
-                  "url": "https://streamxhd.click/channel/?id=tnt1uk",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
