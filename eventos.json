@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13 22:08:51",
+  "updated": "2026-09-14 11:13:21",
   "sports": [
     {
       "id": "boxing",
@@ -42,96 +42,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Santos Laguna vs Juárez",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-09-13 20:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Santos Laguna",
-              "awayTeam": "Juárez",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/kg9gzh1779771734.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/b4oy071567446336.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney25",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Vix 4",
-                  "url": "https://streamxhd.com/live1.php?stream=vix4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 238
-            },
-            {
-              "title": "León vs Atlético San Luis",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-09-13 20:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "León",
-              "awayTeam": "Atlético San Luis",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX One",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Vix 1",
-                  "url": "https://streamxhd.com/live1.php?stream=vix1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 313
-            },
             {
               "title": "Guadalajara vs Pumas",
               "league": "Liga MX",
@@ -187,9 +97,9 @@
               "logo": "",
               "homeTeam": "León",
               "awayTeam": "Atlético San Luis",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/pc9gro1752393439.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/9kgjme1593448412.png/medium",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -215,7 +125,12 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 314
             }
           ],
           "flagCode": "",
@@ -237,9 +152,9 @@
               "logo": "",
               "homeTeam": "Gaziantep FK",
               "awayTeam": "Fenerbahçe",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/54j6ik1579458093.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -265,36 +180,14 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 315
             }
           ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Eredivisie",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Bundesliga",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Championship",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -314,9 +207,9 @@
               "logo": "",
               "homeTeam": "Deportivo Riestra",
               "awayTeam": "Lanús",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/332h0l1578824392.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -352,7 +245,12 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 316
             },
             {
               "title": "Banfield vs Barracas Central",
@@ -364,9 +262,9 @@
               "logo": "",
               "homeTeam": "Banfield",
               "awayTeam": "Barracas Central",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/c2ea011775756104.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/rbkjba1707458543.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -382,7 +280,12 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 317
             },
             {
               "title": "Instituto vs Estudiantes Río Cuarto",
@@ -394,9 +297,9 @@
               "logo": "",
               "homeTeam": "Instituto",
               "awayTeam": "Estudiantes Río Cuarto",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/jup59w1578825794.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/391thp1775793121.png/medium",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -412,45 +315,14 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 318
             }
           ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga 1",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Bundesliga 2",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Primeira Liga",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga Nacional",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -470,9 +342,9 @@
               "logo": "",
               "homeTeam": "Como",
               "awayTeam": "Parma",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -488,7 +360,12 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 319
             },
             {
               "title": "Torino vs Roma",
@@ -500,9 +377,9 @@
               "logo": "",
               "homeTeam": "Torino",
               "awayTeam": "Roma",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/xxprty1448806802.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -528,7 +405,12 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 320
             },
             {
               "title": "Internazionale vs Udinese",
@@ -540,9 +422,9 @@
               "logo": "",
               "homeTeam": "Internazionale",
               "awayTeam": "Udinese",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvstr1448806811.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -578,18 +460,14 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 321
             }
           ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Ligue 1",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -609,9 +487,9 @@
               "logo": "",
               "homeTeam": "Villarreal",
               "awayTeam": "Real Betis",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -667,18 +545,14 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 322
             }
           ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga Paraguay",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -698,9 +572,9 @@
               "logo": "",
               "homeTeam": "Bahia",
               "awayTeam": "Remo",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/u36jfy1579341655.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -716,7 +590,12 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 323
             }
           ],
           "flagCode": "",
@@ -738,9 +617,9 @@
               "logo": "",
               "homeTeam": "Leeds United",
               "awayTeam": "Newcastle United",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -776,7 +655,12 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 324
             }
           ],
           "flagCode": "",
@@ -798,9 +682,9 @@
               "logo": "",
               "homeTeam": "Unión La Calera",
               "awayTeam": "Deportes Limache",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/vadt5t1769834071.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/1bd0ws1706521384.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -816,7 +700,12 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 325
             }
           ],
           "flagCode": "cl",
@@ -838,9 +727,9 @@
               "logo": "",
               "homeTeam": "Torque",
               "awayTeam": "Liverpool",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/v7urjn1580234584.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/0xat6f1678717839.png/medium",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -856,7 +745,12 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 326
             }
           ],
           "flagCode": "",
@@ -878,9 +772,9 @@
               "logo": "",
               "homeTeam": "Universidad Católica",
               "awayTeam": "Orense",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/25pb661770394991.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/0pishb1734023740.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -896,52 +790,12 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "MLS",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "San Diego vs Philadelphia Union",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-09-13 20:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "San Diego",
-              "awayTeam": "Philadelphia Union",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/7ka2xd1734621068.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/gyznyo1602103682.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
               ],
               "flagCode": "",
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": "",
-              "agendaOrder": 288
+              "agendaOrder": 327
             }
           ],
           "flagCode": "",
@@ -963,9 +817,9 @@
               "logo": "",
               "homeTeam": "Celta de Vigo II",
               "awayTeam": "Eibar",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/t22qex1690436192.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/hccive1680933599.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -981,52 +835,12 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga Guatemala",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Municipal vs Malacateco",
-              "league": "Liga Guatemala",
-              "code": "GUA",
-              "time": "2026-09-13 20:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Municipal",
-              "awayTeam": "Malacateco",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/9phgwv1589210412.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/stkkh01624628906.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Eventos 4",
-                  "url": "https://streamxhd.com/live1.php?stream=evento4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
               ],
               "flagCode": "",
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": "",
-              "agendaOrder": 301
+              "agendaOrder": 328
             }
           ],
           "flagCode": "",
@@ -1038,41 +852,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "América de Cali vs Deportivo Pasto",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-09-13 20:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "América de Cali",
-              "awayTeam": "Deportivo Pasto",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 312
-            },
             {
               "title": "Cúcuta Deportivo vs Millonarios",
               "league": "Liga Colombia",
@@ -1128,9 +907,9 @@
               "logo": "",
               "homeTeam": "América de Cali",
               "awayTeam": "Deportivo Pasto",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/lwxcn71576156105.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/zlmyh31576159327.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -1146,18 +925,14 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 329
             }
           ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga MX Femenil",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -1177,9 +952,9 @@
               "logo": "",
               "homeTeam": "Al Shamal",
               "awayTeam": "Al Ittihad",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/qghkxn1720532526.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/8n1t1j1755192418.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -1195,7 +970,12 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 330
             },
             {
               "title": "Al-Ahli vs Pakhtakor",
@@ -1207,9 +987,9 @@
               "logo": "",
               "homeTeam": "Al-Ahli",
               "awayTeam": "Pakhtakor",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/1bbtgb1755192301.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/k0d31l1782687509.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -1225,7 +1005,12 @@
                   "customLanguages": "",
                   "channelLogo": ""
                 }
-              ]
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 331
             }
           ],
           "flagCode": "",
@@ -1243,7 +1028,43 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [],
+          "events": [
+            {
+              "title": "Chicago Cubs vs Atlanta Braves",
+              "league": "MLB",
+              "code": "MLB",
+              "time": "2026-09-14 18:30",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Chicago Cubs",
+              "awayTeam": "Atlanta Braves",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/atl.png",
+              "imageMode": "teams",
+              "duration": 210,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "ESPN 3",
+                  "url": "https://streamxhd.com/live1.php?stream=espn3",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 333
+            }
+          ],
           "flagCode": "",
           "flagUrl": ""
         }
@@ -1253,33 +1074,13 @@
       "id": "motor",
       "name": "Motor",
       "icon": "🏎️",
-      "leagues": [
-        {
-          "name": "F1",
-          "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
+      "leagues": []
     },
     {
       "id": "tennis",
       "name": "Tennis",
       "icon": "🎾",
-      "leagues": [
-        {
-          "name": "US Open",
-          "logo": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/0d107d2b-7150-47c1-aa24-d8e999b25892/trim?format=webp&max=800%7C300",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
+      "leagues": []
     },
     {
       "id": "nfl",
@@ -1293,7 +1094,43 @@
           "flagUrl": "",
           "image": "",
           "background": "",
-          "events": []
+          "events": [
+            {
+              "title": "Kansas City Chiefs vs Denver Broncos",
+              "league": "NFL",
+              "code": "NFL",
+              "time": "2026-09-14 19:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Kansas City Chiefs",
+              "awayTeam": "Denver Broncos",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png",
+              "imageMode": "teams",
+              "duration": 180,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "ESPN 2",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "us",
+              "flagUrl": "https://flagcdn.com/w320/us.png",
+              "homeCountryCode": "us",
+              "awayCountryCode": "us",
+              "agendaOrder": 332
+            }
+          ]
         }
       ]
     }
