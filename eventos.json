@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14 11:13:21",
+  "updated": "2026-09-14 22:55:02",
   "sports": [
     {
       "id": "boxing",
@@ -42,51 +42,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Guadalajara vs Pumas",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-09-13 20:07",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Guadalajara",
-              "awayTeam": "Pumas",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/o01nvl1695734937.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Prime Video",
-                  "url": "https://streamxhd.com/live1.php?stream=amazon1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Telemundo",
-                  "url": "https://streamxhd.com/live1.php?stream=telemundo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 239
-            },
             {
               "title": "León vs Atlético San Luis",
               "league": "Liga MX",
@@ -852,51 +807,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Cúcuta Deportivo vs Millonarios",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-09-13 20:15",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Cúcuta Deportivo",
-              "awayTeam": "Millonarios",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/petg3h1778087075.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/mc73ix1629122587.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Fanatiz",
-                  "url": "https://streamxhd.com/live1.php?stream=fanatiz3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 237
-            },
             {
               "title": "América de Cali vs Deportivo Pasto",
               "league": "Liga Colombia",
