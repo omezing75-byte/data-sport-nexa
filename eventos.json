@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14 22:55:02",
+  "updated": "2026-09-15 07:18:55",
   "sports": [
     {
       "id": "boxing",
@@ -86,61 +86,6 @@
               "homeCountryCode": "",
               "awayCountryCode": "",
               "agendaOrder": 314
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Super Lig",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Gaziantep FK vs Fenerbahçe",
-              "league": "Super Lig",
-              "code": "TUR",
-              "time": "2026-09-14 12:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Gaziantep FK",
-              "awayTeam": "Fenerbahçe",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/54j6ik1579458093.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 5",
-                  "url": "https://streamxhd.com/live1.php?stream=espn5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 315
             }
           ],
           "flagCode": "",
@@ -282,58 +227,23 @@
           "flagUrl": ""
         },
         {
-          "name": "Serie A",
+          "name": "LaLiga",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
             {
-              "title": "Como vs Parma",
-              "league": "Serie A",
-              "code": "IT",
-              "time": "2026-09-14 11:30",
+              "title": "Rayo Vallecano vs Espanyol",
+              "league": "LaLiga",
+              "code": "ES",
+              "time": "2026-09-15 12:00",
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
-              "homeTeam": "Como",
-              "awayTeam": "Parma",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 319
-            },
-            {
-              "title": "Torino vs Roma",
-              "league": "Serie A",
-              "code": "IT",
-              "time": "2026-09-14 11:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Torino",
-              "awayTeam": "Roma",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/xxprty1448806802.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png",
+              "homeTeam": "Rayo Vallecano",
+              "awayTeam": "Espanyol",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -343,6 +253,36 @@
                 {
                   "name": "Disney +",
                   "url": "https://streamxhd.com/live1.php?stream=disney3",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "M LaLiga",
+                  "url": "https://streamxhd.com/live1.php?stream=mlaliga",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN +",
+                  "url": "https://streamxhd.com/live1.php?stream=espnplus1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN Deportes",
+                  "url": "https://streamxhd.com/live1.php?stream=espndeportes",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -365,20 +305,20 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": "",
-              "agendaOrder": 320
+              "agendaOrder": 334
             },
             {
-              "title": "Internazionale vs Udinese",
-              "league": "Serie A",
-              "code": "IT",
-              "time": "2026-09-14 13:45",
+              "title": "Deportivo Alavés vs Valencia",
+              "league": "LaLiga",
+              "code": "ES",
+              "time": "2026-09-15 13:00",
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
-              "homeTeam": "Internazionale",
-              "awayTeam": "Udinese",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvstr1448806811.png",
+              "homeTeam": "Deportivo Alavés",
+              "awayTeam": "Valencia",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/mfn99h1734673842.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png/medium",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -386,8 +326,8 @@
               "note": "",
               "servers": [
                 {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney6",
+                  "name": "DSports 2",
+                  "url": "https://streamxhd.com/live1.php?stream=dsports2",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -396,8 +336,8 @@
                   "channelLogo": ""
                 },
                 {
-                  "name": "Universo",
-                  "url": "https://streamxhd.com/live1.php?stream=universo",
+                  "name": "ESPN +",
+                  "url": "https://streamxhd.com/live1.php?stream=espnplus2",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -406,8 +346,8 @@
                   "channelLogo": ""
                 },
                 {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.com/live1.php?stream=espn",
+                  "name": "DAZN LaLiga",
+                  "url": "https://streamxhd.com/live1.php?stream=daznlaliga",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -420,30 +360,20 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": "",
-              "agendaOrder": 321
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "LaLiga",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
+              "agendaOrder": 335
+            },
             {
-              "title": "Villarreal vs Real Betis",
+              "title": "Elche vs Real Madrid",
               "league": "LaLiga",
               "code": "ES",
-              "time": "2026-09-14 14:00",
+              "time": "2026-09-15 14:30",
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
-              "homeTeam": "Villarreal",
-              "awayTeam": "Real Betis",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png",
+              "homeTeam": "Elche",
+              "awayTeam": "Real Madrid",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/e4vaw51655594332.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -451,8 +381,8 @@
               "note": "",
               "servers": [
                 {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney7",
+                  "name": "DSports Global",
+                  "url": "https://streamxhd.click/channel/?id=dsports",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -461,18 +391,8 @@
                   "channelLogo": ""
                 },
                 {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.com/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN +",
-                  "url": "https://streamxhd.com/live1.php?stream=espnplus1",
+                  "name": "DSports",
+                  "url": "https://streamxhd.com/live1.php?stream=dsports",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -483,6 +403,16 @@
                 {
                   "name": "M LaLiga",
                   "url": "https://streamxhd.com/live1.php?stream=mlaliga",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN +",
+                  "url": "https://streamxhd.com/live1.php?stream=espnplus3",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -505,7 +435,7 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": "",
-              "agendaOrder": 322
+              "agendaOrder": 336
             }
           ],
           "flagCode": "",
@@ -551,71 +481,6 @@
               "homeCountryCode": "",
               "awayCountryCode": "",
               "agendaOrder": 323
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Premier League",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Leeds United vs Newcastle United",
-              "league": "Premier League",
-              "code": "ENG",
-              "time": "2026-09-14 14:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Leeds United",
-              "awayTeam": "Newcastle United",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney8",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX One",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 324
             }
           ],
           "flagCode": "",
@@ -757,51 +622,6 @@
           "flagUrl": ""
         },
         {
-          "name": "LaLiga Hypermotion",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Celta de Vigo II vs Eibar",
-              "league": "LaLiga Hypermotion",
-              "code": "ES",
-              "time": "2026-09-14 13:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Celta de Vigo II",
-              "awayTeam": "Eibar",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/t22qex1690436192.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/hccive1680933599.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "LaLiga Hypermotion",
-                  "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 328
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Liga Colombia",
           "logo": "",
           "image": "",
@@ -841,29 +661,74 @@
               "homeCountryCode": "",
               "awayCountryCode": "",
               "agendaOrder": 329
+            },
+            {
+              "title": "Boyacá Chicó vs Alianza",
+              "league": "Liga Colombia",
+              "code": "COL",
+              "time": "2026-09-15 19:30",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Boyacá Chicó",
+              "awayTeam": "Alianza",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/boe8tv1677602771.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/efldut1715066310.png/medium",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Win Sports +",
+                  "url": "https://streamxhd.com/live1.php?stream=winplus",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Win Sports",
+                  "url": "https://streamxhd.com/live1.php?stream=winsports",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 337
             }
           ],
           "flagCode": "",
           "flagUrl": ""
         },
         {
-          "name": "AFC Champions League",
+          "name": "Champions League",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
             {
-              "title": "Al Shamal vs Al Ittihad",
-              "league": "AFC Champions League",
+              "title": "Beijing Guoan vs Pohang Steelers",
+              "league": "Champions League",
               "code": "AFCCHA",
-              "time": "2026-09-14 11:00",
+              "time": "2026-09-15 07:15",
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
-              "homeTeam": "Al Shamal",
-              "awayTeam": "Al Ittihad",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/qghkxn1720532526.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/8n1t1j1755192418.png",
+              "homeTeam": "Beijing Guoan",
+              "awayTeam": "Pohang Steelers",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/cdkguq1652626854.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/63jst01769097748.png",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -885,20 +750,55 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": "",
-              "agendaOrder": 330
+              "agendaOrder": 338
             },
             {
-              "title": "Al-Ahli vs Pakhtakor",
-              "league": "AFC Champions League",
+              "title": "Al Ain vs Al Nassr",
+              "league": "Champions League",
               "code": "AFCCHA",
-              "time": "2026-09-14 13:15",
+              "time": "2026-09-15 11:00",
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
-              "homeTeam": "Al-Ahli",
-              "awayTeam": "Pakhtakor",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/1bbtgb1755192301.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/k0d31l1782687509.png",
+              "homeTeam": "Al Ain",
+              "awayTeam": "Al Nassr",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/0w2bk51747334688.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/84yvqi1748524565.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 339
+            },
+            {
+              "title": "Al Hilal vs Al Gharafa",
+              "league": "Champions League",
+              "code": "AFCCHA",
+              "time": "2026-09-15 13:15",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Al Hilal",
+              "awayTeam": "Al Gharafa",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/yan4hx1617909550.png",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -920,7 +820,512 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": "",
-              "agendaOrder": 331
+              "agendaOrder": 340
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Copa Italia",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Genoa vs Südtirol",
+              "league": "Copa Italia",
+              "code": "IT",
+              "time": "2026-09-15 11:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Genoa",
+              "awayTeam": "Südtirol",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/52s8dn1655553600.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/8fico41579725098.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "DSports Plus",
+                  "url": "https://streamxhd.com/live1.php?stream=dsportsplus",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 341
+            },
+            {
+              "title": "Fiorentina vs Pisa",
+              "league": "Copa Italia",
+              "code": "IT",
+              "time": "2026-09-15 14:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Fiorentina",
+              "awayTeam": "Pisa",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/hc8nhu1656098030.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/2eso9w1579708309.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "DSports Plus",
+                  "url": "https://streamxhd.com/live1.php?stream=dsportsplus",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 342
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Eredivisie",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Ajax vs Willem II",
+              "league": "Eredivisie",
+              "code": "HOL",
+              "time": "2026-09-15 13:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Ajax",
+              "awayTeam": "Willem II",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/zg9tii1755495289.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ushlnc1666107465.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney4",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 343
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Carabao Cup",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "West Ham United vs Fulham",
+              "league": "Carabao Cup",
+              "code": "ENG",
+              "time": "2026-09-15 13:45",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "West Ham United",
+              "awayTeam": "Fulham",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney6",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 344
+            },
+            {
+              "title": "Liverpool vs Tottenham Hotspur",
+              "league": "Carabao Cup",
+              "code": "ENG",
+              "time": "2026-09-15 14:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Liverpool",
+              "awayTeam": "Tottenham Hotspur",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney7",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 345
+            },
+            {
+              "title": "Reading vs Brentford",
+              "league": "Carabao Cup",
+              "code": "ENG",
+              "time": "2026-09-15 14:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Reading",
+              "awayTeam": "Brentford",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney8",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 346
+            },
+            {
+              "title": "Ipswich Town vs Arsenal",
+              "league": "Carabao Cup",
+              "code": "ENG",
+              "time": "2026-09-15 14:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Ipswich Town",
+              "awayTeam": "Arsenal",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney9",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 347
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Copa Sudamericana",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Vasco da Gama vs Santa Fe",
+              "league": "Copa Sudamericana",
+              "code": "SUD",
+              "time": "2026-09-15 17:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Vasco da Gama",
+              "awayTeam": "Santa Fe",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/ynqlxo1630521109.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/16vs771629122765.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney10",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "DSports AR",
+                  "url": "https://streamxhd.com/live1.php?stream=dsportsar",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN 2",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 348
+            },
+            {
+              "title": "São Paulo vs Boca Juniors",
+              "league": "Copa Sudamericana",
+              "code": "SUD",
+              "time": "2026-09-15 19:30",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "São Paulo",
+              "awayTeam": "Boca Juniors",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/bm7krb1775741582.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "DSports Global",
+                  "url": "https://streamxhd.click/channel/?id=dsports",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "DSports",
+                  "url": "https://streamxhd.com/live1.php?stream=dsports",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Disney + BR",
+                  "url": "https://streamxhd.com/live1.php?stream=disney",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 349
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Copa Libertadores",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Platense vs Fluminense",
+              "league": "Copa Libertadores",
+              "code": "LIB",
+              "time": "2026-09-15 17:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Platense",
+              "awayTeam": "Fluminense",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney11",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Fox Sports 1 AR",
+                  "url": "https://streamxhd.com/live1.php?stream=fox1ar",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN",
+                  "url": "https://streamxhd.com/live1.php?stream=espn",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 350
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Liga de Expansión MX",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Dorados vs Cancún",
+              "league": "Liga de Expansión MX",
+              "code": "MEX",
+              "time": "2026-09-15 20:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Dorados",
+              "awayTeam": "Cancún",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/ofmki71580499474.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/qiw3ef1655120930.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney12",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 351
             }
           ],
           "flagCode": "",
@@ -973,6 +1378,41 @@
               "homeCountryCode": "",
               "awayCountryCode": "",
               "agendaOrder": 333
+            },
+            {
+              "title": "Texas Rangers vs Boston Red Sox",
+              "league": "MLB",
+              "code": "MLB",
+              "time": "2026-09-15 19:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Texas Rangers",
+              "awayTeam": "Boston Red Sox",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png",
+              "imageMode": "teams",
+              "duration": 210,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "ESPN 2",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 352
             }
           ],
           "flagCode": "",
