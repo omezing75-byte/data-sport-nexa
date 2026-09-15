@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15 07:18:55",
+  "updated": "2026-09-14 19:12:07",
   "sports": [
     {
       "id": "boxing",
@@ -719,7 +719,7 @@
           "events": [
             {
               "title": "Beijing Guoan vs Pohang Steelers",
-              "league": "Champions League",
+              "league": "AFC Champions League",
               "code": "AFCCHA",
               "time": "2026-09-15 07:15",
               "timezone": "America/Lima",
@@ -754,7 +754,7 @@
             },
             {
               "title": "Al Ain vs Al Nassr",
-              "league": "Champions League",
+              "league": "AFC Champions League",
               "code": "AFCCHA",
               "time": "2026-09-15 11:00",
               "timezone": "America/Lima",
@@ -789,7 +789,7 @@
             },
             {
               "title": "Al Hilal vs Al Gharafa",
-              "league": "Champions League",
+              "league": "AFC Champions League",
               "code": "AFCCHA",
               "time": "2026-09-15 13:15",
               "timezone": "America/Lima",
