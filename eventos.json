@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16 09:40:46",
+  "updated": "2026-09-16 23:41:10",
   "sports": [
     {
       "id": "boxing",
@@ -338,51 +338,6 @@
           "background": "",
           "events": [
             {
-              "title": "Boyacá Chicó vs Alianza",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-09-15 19:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Boyacá Chicó",
-              "awayTeam": "Alianza",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/boe8tv1677602771.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/efldut1715066310.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Win Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=winsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 337
-            },
-            {
               "title": "Once Caldas vs Deportes Tolima",
               "league": "Liga Colombia",
               "code": "COL",
@@ -462,61 +417,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "São Paulo vs Boca Juniors",
-              "league": "Copa Sudamericana",
-              "code": "SUD",
-              "time": "2026-09-15 19:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "São Paulo",
-              "awayTeam": "Boca Juniors",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/sxpupx1473538135.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/bm7krb1775741582.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports Global",
-                  "url": "https://streamxhd.click/channel/?id=dsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "DSports",
-                  "url": "https://streamxhd.com/live1.php?stream=dsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Disney + BR",
-                  "url": "https://streamxhd.com/live1.php?stream=disney1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 349
-            },
             {
               "title": "Atlético Mineiro vs Santos",
               "league": "Copa Sudamericana",
@@ -677,136 +577,11 @@
           "flagUrl": ""
         },
         {
-          "name": "Liga de Expansión MX",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Dorados vs Cancún",
-              "league": "Liga de Expansión MX",
-              "code": "MEX",
-              "time": "2026-09-15 20:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Dorados",
-              "awayTeam": "Cancún",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/ofmki71580499474.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/qiw3ef1655120930.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney12",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 351
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Copa Mundial Sub-20 (F)",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Argentina vs Corea del Sur",
-              "league": "Copa Mundial Sub-20 (F)",
-              "code": "FIFA",
-              "time": "2026-09-16 08:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Argentina",
-              "awayTeam": "Corea del Sur",
-              "homeLogo": "https://flagcdn.com/w320/ar.png",
-              "awayLogo": "https://flagcdn.com/w320/kr.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports 2",
-                  "url": "https://streamxhd.com/live1.php?stream=dsports2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 366
-            },
-            {
-              "title": "Brasil vs Estados Unidos",
-              "league": "Copa Mundial Sub-20 (F)",
-              "code": "FIFA",
-              "time": "2026-09-16 08:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Brasil",
-              "awayTeam": "Estados Unidos",
-              "homeLogo": "https://flagcdn.com/w320/br.png",
-              "awayLogo": "https://flagcdn.com/w320/us.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports Plus",
-                  "url": "https://streamxhd.com/live1.php?stream=dsportsplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN MX",
-                  "url": "https://streamxhd.com/live1.php?stream=tudnmx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 367
-            },
             {
               "title": "España vs Portugal",
               "league": "Copa Mundial Sub-20 (F)",
@@ -863,7 +638,7 @@
               "homeTeam": "Progreso",
               "awayTeam": "Nacional",
               "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/oh4ksb1621865842.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/uv7z921579989369.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png/medium",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -1759,41 +1534,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Texas Rangers vs Boston Red Sox",
-              "league": "MLB",
-              "code": "MLB",
-              "time": "2026-09-15 19:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Texas Rangers",
-              "awayTeam": "Boston Red Sox",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png",
-              "imageMode": "teams",
-              "duration": 210,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 352
-            },
             {
               "title": "Arizona Diamondbacks vs Miami Marlins",
               "league": "MLB",
