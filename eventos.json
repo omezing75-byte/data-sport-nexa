@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17 08:42:34",
+  "updated": "2026-09-17 22:11:51",
   "sports": [
     {
       "id": "boxing",
@@ -187,90 +187,11 @@
           "flagUrl": ""
         },
         {
-          "name": "Brasileirão",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Liga Colombia",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Once Caldas vs Deportes Tolima",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-09-16 18:15",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Once Caldas",
-              "awayTeam": "Deportes Tolima",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/nuh9kd1778085916.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/4bscjt1766423328.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 358
-            },
-            {
-              "title": "Inter Bogotá vs Atlético Nacional",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-09-16 20:20",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Inter Bogotá",
-              "awayTeam": "Atlético Nacional",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/jujchi1767716318.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/efl4o41576157720.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 359
-            },
             {
               "title": "Atlético Bucaramanga vs Medellín",
               "league": "Liga Colombia",
@@ -371,51 +292,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Corinthians vs Estudiantes",
-              "league": "Copa Libertadores",
-              "code": "LIB",
-              "time": "2026-09-16 19:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Corinthians",
-              "awayTeam": "Estudiantes",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/vvuvps1473538042.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney18",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.com/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 365
-            },
             {
               "title": "Flamengo vs Independiente del Valle",
               "league": "Copa Libertadores",
@@ -566,229 +442,11 @@
           "flagUrl": ""
         },
         {
-          "name": "Copa Uruguay",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Copa Argentina",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Copa Ecuador",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "LDU Portoviejo vs Delfín",
-              "league": "Copa Ecuador",
-              "code": "ECUA",
-              "time": "2026-09-16 19:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "LDU Portoviejo",
-              "awayTeam": "Delfín",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/hx2kfl1607457968.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/drhsv91579961166.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports Eventos",
-                  "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 380
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Campeones Cup",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Inter Miami vs Cruz Azul",
-              "league": "Campeones Cup",
-              "code": "FUT",
-              "time": "2026-09-16 19:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Inter Miami",
-              "awayTeam": "Cruz Azul",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/wcd2yi1781543370.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TUDN MX",
-                  "url": "https://streamxhd.com/live1.php?stream=tudnmx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Canal 5 MX",
-                  "url": "https://streamxhd.com/live1.php?stream=canal5mx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 381
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Copa Centroamericana",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Cartaginés vs Deportivo Saprissa",
-              "league": "Copa Centroamericana",
-              "code": "CONCACAF",
-              "time": "2026-09-16 19:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Cartaginés",
-              "awayTeam": "Deportivo Saprissa",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/0mo64x1589122311.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/tvj33z1707630611.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney19",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX One",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 382
-            },
-            {
-              "title": "Alianza vs Motagua",
-              "league": "Copa Centroamericana",
-              "code": "CONCACAF",
-              "time": "2026-09-16 22:15",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Alianza",
-              "awayTeam": "Motagua",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/ghlv261609881539.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/zi6mw31581857175.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney20",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX One",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 383
-            },
             {
               "title": "Alajuelense vs Marathón",
               "league": "Copa Centroamericana",
@@ -925,15 +583,6 @@
               "agendaOrder": 394
             }
           ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Europa League",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -1338,53 +987,7 @@
       "id": "baseball",
       "name": "Baseball",
       "icon": "⚾",
-      "leagues": [
-        {
-          "name": "MLB",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Arizona Diamondbacks vs Miami Marlins",
-              "league": "MLB",
-              "code": "MLB",
-              "time": "2026-09-16 20:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Arizona Diamondbacks",
-              "awayTeam": "Miami Marlins",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/ari.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/mia.png",
-              "imageMode": "teams",
-              "duration": 210,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.com/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 384
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
+      "leagues": []
     },
     {
       "id": "motor",
