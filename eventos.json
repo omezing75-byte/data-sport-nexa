@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18 05:37:07",
+  "updated": "2026-09-18 07:34:38",
   "sports": [
     {
       "id": "boxing",
@@ -37,91 +37,6 @@
       "icon": "⚽",
       "leagues": [
         {
-          "name": "LaLiga",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Málaga vs Villarreal",
-              "league": "LaLiga",
-              "code": "ES",
-              "time": "2026-09-17 14:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Málaga",
-              "awayTeam": "Villarreal",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/upqyvr1473502952.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney11",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN +",
-                  "url": "https://streamxhd.com/live1.php?stream=espnplus2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "DAZN LaLiga",
-                  "url": "https://streamxhd.com/live1.php?stream=daznlaliga",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 4",
-                  "url": "https://streamxhd.com/live1.php?stream=espn4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN Deportes",
-                  "url": "https://streamxhd.com/live1.php?stream=espndeportes",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 386
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Liga Colombia",
           "logo": "",
           "image": "",
@@ -131,7 +46,7 @@
               "title": "Atlético Bucaramanga vs Medellín",
               "league": "Liga Colombia",
               "code": "COL",
-              "time": "2026-09-17 18:00",
+              "time": "2026-09-17 19:00",
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
@@ -277,15 +192,6 @@
           "flagUrl": ""
         },
         {
-          "name": "Copa Mundial Sub-20 (F)",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Copa Centroamericana",
           "logo": "",
           "image": "",
@@ -384,24 +290,6 @@
           ],
           "flagCode": "",
           "flagUrl": ""
-        },
-        {
-          "name": "Carabao Cup",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "UEFA Europa League",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
         }
       ]
     },
@@ -440,7 +328,7 @@
               "title": "Buffalo Bills vs Detroit Lions",
               "league": "NFL",
               "code": "NFL",
-              "time": "2026-09-17 19:00",
+              "time": "2026-09-17 19:15",
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
