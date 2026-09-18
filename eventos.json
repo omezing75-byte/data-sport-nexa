@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17 23:42:20",
+  "updated": "2026-09-18 17:30:40",
   "sports": [
     {
       "id": "boxing",
@@ -1060,6 +1060,16 @@
                   "languages": [],
                   "customLanguages": "",
                   "channelLogo": ""
+                },
+                {
+                  "type": "iframe",
+                  "active": true,
+                  "channelLogo": "",
+                  "name": "Dsports Eventos",
+                  "url": "https://streamxhd.com/live1.php?stream=evento2",
+                  "quality": "",
+                  "customLanguages": "",
+                  "languages": []
                 }
               ],
               "flagCode": "",
