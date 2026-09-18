@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18 12:33:57",
+  "updated": "2026-09-17 23:42:20",
   "sports": [
     {
       "id": "boxing",
@@ -8,7 +8,7 @@
       "leagues": [
         {
           "name": "ESPN Knockout",
-          "logo": "",
+          "logo": "https://static.vecteezy.com/system/resources/thumbnails/027/128/144/small/the-bright-red-boxing-gloves-collided-png.png",
           "image": "",
           "background": "",
           "events": [
@@ -142,7 +142,7 @@
       "leagues": [
         {
           "name": "Copa Davis",
-          "logo": "https://images.seeklogo.com/logo-png/53/2/davis-cup-logo-png_seeklogo-532122.png",
+          "logo": "https://r2.thesportsdb.com/images/media/league/badge/i0qscy1672325773.png",
           "flagCode": "",
           "flagUrl": "",
           "image": "",
@@ -1132,6 +1132,16 @@
               "note": "",
               "servers": [
                 {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
                   "name": "TNT Sports",
                   "url": "https://streamxhd.com/live1.php?stream=tntsports",
                   "type": "iframe",
@@ -1152,14 +1162,14 @@
                   "channelLogo": ""
                 },
                 {
+                  "type": "iframe",
+                  "active": true,
+                  "channelLogo": "",
                   "name": "FOX Deportes USA",
                   "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa",
-                  "type": "iframe",
                   "quality": "",
-                  "active": true,
-                  "languages": [],
                   "customLanguages": "",
-                  "channelLogo": ""
+                  "languages": []
                 }
               ],
               "flagCode": "",
