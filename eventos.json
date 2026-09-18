@@ -1,93 +1,6 @@
 {
-  "updated": "2026-09-19 07:04:10",
+  "updated": "2026-09-19 07:14:02",
   "sports": [
-    {
-      "id": "boxing",
-      "name": "Boxing",
-      "icon": "🥊",
-      "leagues": [
-        {
-          "name": "ESPN Knockout",
-          "logo": "https://static.vecteezy.com/system/resources/thumbnails/027/128/144/small/the-bright-red-boxing-gloves-collided-png.png",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Devon Lozéj vs Davi Bittencourt",
-              "league": "ESPN Knockout",
-              "code": "BOX",
-              "time": "2026-09-18 20:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 394
-            },
-            {
-              "title": "Isaac Cruz vs Nestor Bravo",
-              "league": "ESPN Knockout",
-              "code": "BOX",
-              "time": "2026-09-19 19:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.com/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 421
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
-    },
     {
       "id": "basketball",
       "name": "Basketball",
@@ -171,7 +84,7 @@
       "leagues": [
         {
           "name": "MotoGP",
-          "logo": "",
+          "logo": "https://r2.thesportsdb.com/images/media/league/badge/gg3c201768486075.png/medium",
           "image": "",
           "background": "",
           "events": [
@@ -258,23 +171,21 @@
       "leagues": []
     },
     {
-      "id": "tennis",
-      "name": "Tennis",
-      "icon": "🎾",
+      "id": "boxing",
+      "name": "Boxing",
+      "icon": "🥊",
       "leagues": [
         {
-          "name": "Copa Davis",
-          "logo": "https://r2.thesportsdb.com/images/media/league/badge/i0qscy1672325773.png",
-          "flagCode": "",
-          "flagUrl": "",
+          "name": "ESPN Knockout",
+          "logo": "https://static.vecteezy.com/system/resources/thumbnails/027/128/144/small/the-bright-red-boxing-gloves-collided-png.png",
           "image": "",
           "background": "",
           "events": [
             {
-              "title": "Uruguay vs Estonia",
-              "league": "Copa Davis",
-              "code": "COPADAVIS",
-              "time": "2026-09-18 14:00",
+              "title": "Devon Lozéj vs Davi Bittencourt",
+              "league": "ESPN Knockout",
+              "code": "BOX",
+              "time": "2026-09-18 20:00",
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
@@ -289,8 +200,8 @@
               "note": "",
               "servers": [
                 {
-                  "name": "DSports +",
-                  "url": "https://streamxhd.com/live1.php?stream=dsportsplus",
+                  "name": "ESPN 2",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -303,8 +214,194 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": "",
-              "agendaOrder": 398
+              "agendaOrder": 394
             },
+            {
+              "title": "Isaac Cruz vs Nestor Bravo",
+              "league": "ESPN Knockout",
+              "code": "BOX",
+              "time": "2026-09-19 19:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "",
+              "awayTeam": "",
+              "homeLogo": "",
+              "awayLogo": "",
+              "imageMode": "",
+              "duration": 240,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "ESPN",
+                  "url": "https://streamxhd.com/live1.php?stream=espn",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 421
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "UFC",
+          "logo": "https://r2.thesportsdb.com/images/media/league/badge/bewnz31717531281.png/small",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Preliminares",
+              "league": "UFC",
+              "code": "UFC",
+              "time": "2026-09-19 16:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "",
+              "awayTeam": "",
+              "homeLogo": "",
+              "awayLogo": "",
+              "imageMode": "",
+              "duration": 240,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Paramount+",
+                  "url": "https://streamxhd.com/live1.php?stream=paramount1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [
+                    "Español"
+                  ],
+                  "customLanguages": "Español",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Paramount+",
+                  "url": "https://streamxhd.com/live1.php?stream=paramount2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [
+                    "Inglés"
+                  ],
+                  "customLanguages": "Inglés",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Paramount+",
+                  "url": "https://streamxhd.com/live1.php?stream=paramount3",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [
+                    "Portugués"
+                  ],
+                  "customLanguages": "Portugués",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 512
+            },
+            {
+              "title": "J. Van vs A. Pantoja",
+              "league": "UFC",
+              "code": "UFC",
+              "time": "2026-09-19 18:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "J. Van",
+              "awayTeam": "A. Pantoja",
+              "homeLogo": "",
+              "awayLogo": "",
+              "imageMode": "",
+              "duration": 240,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Paramount+",
+                  "url": "https://streamxhd.com/live1.php?stream=paramount1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [
+                    "Español"
+                  ],
+                  "customLanguages": "Español",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Paramount+",
+                  "url": "https://streamxhd.com/live1.php?stream=paramount2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [
+                    "Inglés"
+                  ],
+                  "customLanguages": "Inglés",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Paramount+",
+                  "url": "https://streamxhd.com/live1.php?stream=paramount3",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [
+                    "Portugués"
+                  ],
+                  "customLanguages": "Portugués",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 513
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        }
+      ]
+    },
+    {
+      "id": "tennis",
+      "name": "Tennis",
+      "icon": "🎾",
+      "leagues": [
+        {
+          "name": "Copa Davis",
+          "logo": "https://r2.thesportsdb.com/images/media/league/badge/i0qscy1672325773.png",
+          "flagCode": "",
+          "flagUrl": "",
+          "image": "",
+          "background": "",
+          "events": [
             {
               "title": "Perú vs Paraguay",
               "league": "Copa Davis",
@@ -2461,41 +2558,6 @@
           "background": "",
           "events": [
             {
-              "title": "Central Córdoba SdE vs Defensa y Justicia",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-09-18 16:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Central Córdoba SdE",
-              "awayTeam": "Defensa y Justicia",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/d62xkc1576101576.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/3guvlh1775778978.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN Premium",
-                  "url": "https://streamxhd.com/live1.php?stream=espnpremium",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 413
-            },
-            {
               "title": "Racing Club vs Sarmiento",
               "league": "Liga Profesional",
               "code": "AR",
@@ -2786,51 +2848,6 @@
           "background": "",
           "events": [
             {
-              "title": "Rionegro Águilas vs Deportivo Pereira",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-09-18 16:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Rionegro Águilas",
-              "awayTeam": "Deportivo Pereira",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/6d7qas1703002070.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/elw7as1629122545.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Win Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=winsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 415
-            },
-            {
               "title": "Millonarios vs Boyacá Chicó",
               "league": "Liga Colombia",
               "code": "COL",
@@ -2885,7 +2902,7 @@
               "logo": "",
               "homeTeam": "Alianza",
               "awayTeam": "Santa Fe",
-              "homeLogo": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/efldut1715066310.png/medium",
               "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/16vs771629122765.png",
               "imageMode": "teams",
               "duration": 130,
@@ -3081,7 +3098,7 @@
               "homeTeam": "Guayaquil City",
               "awayTeam": "Leones del Norte",
               "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/9lgwun1740586446.png",
-              "awayLogo": "",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/q8yw9a1734021908.png/small",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -3116,7 +3133,7 @@
               "homeTeam": "Emelec",
               "awayTeam": "Libertad",
               "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/15ovlq1579959696.png",
-              "awayLogo": "",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/cqkwxs1675845340.png/medium",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -3315,7 +3332,7 @@
               "logo": "",
               "homeTeam": "Atlético San Luis",
               "awayTeam": "Necaxa",
-              "homeLogo": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/9kgjme1593448412.png/medium",
               "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqdk9e1779772432.png",
               "imageMode": "teams",
               "duration": 130,
@@ -3406,7 +3423,7 @@
               "homeTeam": "América",
               "awayTeam": "Guadalajara",
               "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/amy1xs1581857392.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/qt2hk81757606691.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png/medium",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -4016,7 +4033,7 @@
               "homeTeam": "Tijuana",
               "awayTeam": "Guadalajara",
               "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/b0mky81779772352.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/qt2hk81757606691.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png/medium",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -4050,6 +4067,41 @@
           "image": "",
           "background": "",
           "events": [
+            {
+              "title": "New York City vs New York RB",
+              "league": "MLS",
+              "code": "MLS",
+              "time": "2026-09-18 18:30",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "New York City",
+              "awayTeam": "New York RB",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/m9vis71735140655.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/suytvy1473536462.png/medium",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Apple TV Español",
+                  "url": "https://streamxhd.com/live1.php?stream=appletv1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "us",
+              "awayCountryCode": "",
+              "agendaOrder": 514
+            },
             {
               "title": "CF Montréal vs Columbus Crew",
               "league": "MLS",
@@ -4130,7 +4182,7 @@
               "logo": "",
               "homeTeam": "SJ Earthquakes",
               "awayTeam": "Los Angeles FC",
-              "homeLogo": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/xyrqqt1420781048.png/medium",
               "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/7nbj2a1602103638.png",
               "imageMode": "teams",
               "duration": 130,
@@ -4305,7 +4357,7 @@
               "logo": "",
               "homeTeam": "Sporting KC",
               "awayTeam": "Philadelphia Union",
-              "homeLogo": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqupxw1473536504.png/medium",
               "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/gyznyo1602103682.png",
               "imageMode": "teams",
               "duration": 130,
@@ -4410,7 +4462,7 @@
               "logo": "",
               "homeTeam": "Nashville SC",
               "awayTeam": "Chicago Fire",
-              "homeLogo": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/znrwt71602103062.png/medium",
               "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/8xuc781639493166.png",
               "imageMode": "teams",
               "duration": 130,
