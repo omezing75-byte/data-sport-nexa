@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19 07:14:02",
+  "updated": "2026-09-19 18:39:16",
   "sports": [
     {
       "id": "basketball",
@@ -29,53 +29,7 @@
       "id": "baseball",
       "name": "Baseball",
       "icon": "⚾",
-      "leagues": [
-        {
-          "name": "MLB",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Tampa Bay Rays vs Boston Red Sox",
-              "league": "MLB",
-              "code": "MLB",
-              "time": "2026-09-18 18:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Tampa Bay Rays",
-              "awayTeam": "Boston Red Sox",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png",
-              "imageMode": "teams",
-              "duration": 210,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 5",
-                  "url": "https://streamxhd.com/live1.php?stream=espn5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 420
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
+      "leagues": []
     },
     {
       "id": "motor",
@@ -181,41 +135,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Devon Lozéj vs Davi Bittencourt",
-              "league": "ESPN Knockout",
-              "code": "BOX",
-              "time": "2026-09-18 20:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 394
-            },
             {
               "title": "Isaac Cruz vs Nestor Bravo",
               "league": "ESPN Knockout",
@@ -403,80 +322,10 @@
           "background": "",
           "events": [
             {
-              "title": "Perú vs Paraguay",
-              "league": "Copa Davis",
-              "code": "COPADAVIS",
-              "time": "2026-09-18 16:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports PE",
-                  "url": "https://streamxhd.com/live1.php?stream=dsportspe",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 399
-            },
-            {
-              "title": "Canadá vs Francia",
-              "league": "Copa Davis",
-              "code": "COPADAVIS",
-              "time": "2026-09-18 16:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports 2",
-                  "url": "https://streamxhd.com/live1.php?stream=dsports2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 400
-            },
-            {
               "title": "República Checa vs Estados Unidos",
               "league": "Copa Davis",
               "code": "COPADAVIS",
-              "time": "2026-09-19 06:00",
+              "time": "2026-09-19 07:00",
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
@@ -485,7 +334,7 @@
               "homeLogo": "",
               "awayLogo": "",
               "imageMode": "",
-              "duration": 240,
+              "duration": 360,
               "extraTime": 0,
               "status": "",
               "note": "",
@@ -1838,41 +1687,6 @@
           "background": "",
           "events": [
             {
-              "title": "Nacional Asunción vs 2 de Mayo",
-              "league": "Liga Paraguay",
-              "code": "LIGAPY",
-              "time": "2026-09-18 16:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Nacional Asunción",
-              "awayTeam": "2 de Mayo",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/uv7z921579989369.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/1xw1cj1705639376.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Tigo Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=tigo1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 408
-            },
-            {
               "title": "Libertad vs Sportivo Ameliano",
               "league": "Liga Paraguay",
               "code": "LIGAPY",
@@ -2353,61 +2167,6 @@
           "background": "",
           "events": [
             {
-              "title": "Alianza Lima vs ADT",
-              "league": "Liga 1",
-              "code": "PE",
-              "time": "2026-09-18 20:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Alianza Lima",
-              "awayTeam": "ADT",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/y5wov41580040189.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/gliwig1768234286.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Fanatiz",
-                  "url": "https://streamxhd.com/live1.php?stream=fanatiz1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "L1 Max",
-                  "url": "https://streamxhd.com/live1.php?stream=l1max",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "type": "iframe",
-                  "active": true,
-                  "channelLogo": "",
-                  "name": "Dsports Eventos",
-                  "url": "https://streamxhd.com/live1.php?stream=evento8",
-                  "quality": "",
-                  "customLanguages": "",
-                  "languages": []
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 412
-            },
-            {
               "title": "FC Cajamarca vs Cusco",
               "league": "Liga 1",
               "code": "PE",
@@ -2557,71 +2316,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Racing Club vs Sarmiento",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-09-18 19:15",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Racing Club",
-              "awayTeam": "Sarmiento",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/xxofu71677634191.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TNT Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=tntsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Vix 1",
-                  "url": "https://streamxhd.com/live1.php?stream=vix1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "type": "iframe",
-                  "active": true,
-                  "channelLogo": "",
-                  "name": "FOX Deportes USA",
-                  "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa",
-                  "quality": "",
-                  "customLanguages": "",
-                  "languages": []
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 414
-            },
             {
               "title": "Gimnasia La Plata vs Banfield",
               "league": "Liga Profesional",
@@ -3018,41 +2712,6 @@
           "background": "",
           "events": [
             {
-              "title": "Aucas vs Macará",
-              "league": "Liga Ecuador",
-              "code": "ECUA",
-              "time": "2026-09-18 19:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Aucas",
-              "awayTeam": "Macará",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/6vf1py1770395139.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/bretri1579959665.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Zapping EC",
-                  "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 416
-            },
-            {
               "title": "Manta vs Orense",
               "league": "Liga Ecuador",
               "code": "ECUA",
@@ -3167,106 +2826,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Puebla vs Atlante",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-09-18 20:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Puebla",
-              "awayTeam": "Atlante",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/h0jgg51593451845.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/wcf2r51754018201.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney6",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 417
-            },
-            {
-              "title": "Juárez vs Tigres UANL",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-09-18 22:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Juárez",
-              "awayTeam": "Tigres UANL",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/b4oy071567446336.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/lh80fx1701423708.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX One",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Universo",
-                  "url": "https://streamxhd.com/live1.php?stream=universo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX Deportes USA",
-                  "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 418
-            },
             {
               "title": "Atlas vs Pumas UNAM",
               "league": "Liga MX",
@@ -3466,51 +3025,6 @@
               "homeCountryCode": "",
               "awayCountryCode": "",
               "agendaOrder": 477
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga Guatemala",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Comunicaciones vs Guastatoya",
-              "league": "Liga Guatemala",
-              "code": "GUA",
-              "time": "2026-09-18 21:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Comunicaciones",
-              "awayTeam": "Guastatoya",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/svx7ji1580931084.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/179jmc1751391444.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Eventos 2",
-                  "url": "https://streamxhd.com/live1.php?stream=evento2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 419
             }
           ],
           "flagCode": "",
@@ -4067,41 +3581,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "New York City vs New York RB",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-09-18 18:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "New York City",
-              "awayTeam": "New York RB",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/m9vis71735140655.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/suytvy1473536462.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "us",
-              "awayCountryCode": "",
-              "agendaOrder": 514
-            },
             {
               "title": "CF Montréal vs Columbus Crew",
               "league": "MLS",
