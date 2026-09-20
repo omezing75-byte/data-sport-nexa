@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20 18:14:29",
+  "updated": "2026-09-20 22:44:25",
   "sports": [
     {
       "id": "basketball",
@@ -75,120 +75,19 @@
       "id": "motor",
       "name": "Motor",
       "icon": "🏎️",
-      "leagues": [
-        {
-          "name": "MotoGP",
-          "logo": "https://r2.thesportsdb.com/images/media/league/badge/gg3c201768486075.png/medium",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "GP Austria - Carrera Moto3/Moto2/MotoGP",
-              "league": "MotoGP",
-              "code": "MOTOGP",
-              "time": "2026-09-20 03:45",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 515
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
+      "leagues": []
     },
     {
       "id": "boxing",
       "name": "Boxing",
       "icon": "🥊",
-      "leagues": [
-        {
-          "name": "ESPN Knockout",
-          "logo": "https://static.vecteezy.com/system/resources/thumbnails/027/128/144/small/the-bright-red-boxing-gloves-collided-png.png",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
+      "leagues": []
     },
     {
       "id": "football",
       "name": "Football",
       "icon": "⚽",
       "leagues": [
-        {
-          "name": "Bundesliga 2",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Hannover 96 vs Bochum",
-              "league": "Bundesliga 2",
-              "code": "ALE",
-              "time": "2026-09-20 06:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Hannover 96",
-              "awayTeam": "Bochum",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqpqqv1473454148.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/kag3jy1599821108.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX Sports 2 AR",
-                  "url": "https://streamxhd.com/live1.php?stream=fox2ar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 516
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
         {
           "name": "Bundesliga",
           "logo": "",
@@ -320,41 +219,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Sabadell vs Real Oviedo",
-              "league": "LaLiga Hypermotion",
-              "code": "ES",
-              "time": "2026-09-20 07:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Sabadell",
-              "awayTeam": "Real Oviedo",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/21mapu1690094066.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/yuwqus1447590681.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "LaLiga Hypermotion",
-                  "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 520
-            },
             {
               "title": "Ceuta vs Real Valladolid",
               "league": "LaLiga Hypermotion",
@@ -505,61 +369,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Fiorentina vs Napoli",
-              "league": "Serie A",
-              "code": "IT",
-              "time": "2026-09-20 05:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Fiorentina",
-              "awayTeam": "Napoli",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/hc8nhu1656098030.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.com/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Universo",
-                  "url": "https://streamxhd.com/live1.php?stream=universo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 525
-            },
             {
               "title": "Frosinone vs Como",
               "league": "Serie A",
@@ -1120,131 +929,11 @@
           "flagUrl": ""
         },
         {
-          "name": "Championship",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Wolverhampton Wanderers vs West Bromwich Albion",
-              "league": "Championship",
-              "code": "ENG",
-              "time": "2026-09-20 06:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Wolverhampton Wanderers",
-              "awayTeam": "West Bromwich Albion",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/rsvuxw1448813527.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 5",
-                  "url": "https://streamxhd.com/live1.php?stream=espn5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 539
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "LaLiga",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Getafe vs Málaga",
-              "league": "LaLiga",
-              "code": "ES",
-              "time": "2026-09-20 07:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Getafe",
-              "awayTeam": "Málaga",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/eyh2891655594452.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/upqyvr1473502952.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN +",
-                  "url": "https://streamxhd.com/live1.php?stream=espnplus1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "DAZN LaLiga",
-                  "url": "https://streamxhd.com/live1.php?stream=daznlaliga",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 4",
-                  "url": "https://streamxhd.com/live1.php?stream=espn4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN Deportes",
-                  "url": "https://streamxhd.com/live1.php?stream=espndeportes",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 540
-            },
             {
               "title": "Atlético Madrid vs Real Madrid",
               "league": "LaLiga",
@@ -1263,16 +952,6 @@
               "status": "",
               "note": "",
               "servers": [
-                {
-                  "name": "CazéTV",
-                  "url": "https://streamxhd.click/channel/?id=cazetv",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
                 {
                   "name": "Disney +",
                   "url": "https://streamxhd.com/live1.php?stream=disney14",
@@ -2489,121 +2168,6 @@
               "homeCountryCode": "",
               "awayCountryCode": "",
               "agendaOrder": 567
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Eredivisie",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Feyenoord vs Utrecht",
-              "league": "Eredivisie",
-              "code": "HOL",
-              "time": "2026-09-20 05:15",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Feyenoord",
-              "awayTeam": "Utrecht",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/uturtx1473534803.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/yuhha71625167104.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 568
-            },
-            {
-              "title": "AZ vs Telstar",
-              "league": "Eredivisie",
-              "code": "HOL",
-              "time": "2026-09-20 07:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "AZ",
-              "awayTeam": "Telstar",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/wtqwvv1473534757.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/xg1ss31579463659.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 569
-            },
-            {
-              "title": "Twente vs PSV",
-              "league": "Eredivisie",
-              "code": "HOL",
-              "time": "2026-09-20 07:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Twente",
-              "awayTeam": "PSV",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/rsrxrt1473534783.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 570
             }
           ],
           "flagCode": "",
