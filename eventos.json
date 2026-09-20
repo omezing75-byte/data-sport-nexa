@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20 11:23:32",
+  "updated": "2026-09-20 18:14:29",
   "sports": [
     {
       "id": "basketball",
@@ -133,43 +133,7 @@
           "logo": "https://static.vecteezy.com/system/resources/thumbnails/027/128/144/small/the-bright-red-boxing-gloves-collided-png.png",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Isaac Cruz vs Nestor Bravo",
-              "league": "ESPN Knockout",
-              "code": "BOX",
-              "time": "2026-09-19 19:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.com/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 421
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         }
@@ -1572,41 +1536,6 @@
           "background": "",
           "events": [
             {
-              "title": "Melgar vs Sport Boys",
-              "league": "Liga 1",
-              "code": "PE",
-              "time": "2026-09-19 20:15",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Melgar",
-              "awayTeam": "Sport Boys",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/0puqm41765861529.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/uybvv01580040173.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "L1 Max",
-                  "url": "https://streamxhd.com/live1.php?stream=l1max",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 461
-            },
-            {
               "title": "Sport Huancayo vs UTC Cajamarca",
               "league": "Liga 1",
               "code": "PE",
@@ -1932,41 +1861,6 @@
           "background": "",
           "events": [
             {
-              "title": "Deportivo Pasto vs Once Caldas",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-09-19 20:15",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Deportivo Pasto",
-              "awayTeam": "Once Caldas",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/zlmyh31576159327.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/nuh9kd1778085916.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 470
-            },
-            {
               "title": "Fortaleza CEIF vs Junior",
               "league": "Liga Colombia",
               "code": "COL",
@@ -2241,116 +2135,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Monterrey vs Cruz Azul",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-09-19 20:10",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Monterrey",
-              "awayTeam": "Cruz Azul",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/yglj911721542561.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/wcd2yi1781543370.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TUDN MX",
-                  "url": "https://streamxhd.com/live1.php?stream=tudnmx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Canal 5 MX",
-                  "url": "https://streamxhd.com/live1.php?stream=canal5mx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 476
-            },
-            {
-              "title": "América vs Guadalajara",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-09-19 22:15",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "América",
-              "awayTeam": "Guadalajara",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/amy1xs1581857392.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TUDN MX",
-                  "url": "https://streamxhd.com/live1.php?stream=tudnmx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Canal 5 MX",
-                  "url": "https://streamxhd.com/live1.php?stream=canal5mx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 477
-            },
             {
               "title": "Pachuca vs Tijuana",
               "league": "Liga MX",
@@ -3072,146 +2856,6 @@
           "background": "",
           "events": [
             {
-              "title": "Colorado Rapids vs Seattle Sounders FC",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-09-19 20:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Colorado Rapids",
-              "awayTeam": "Seattle Sounders FC",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/uppupv1473536412.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/2dy5cx1706711036.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv10",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 505
-            },
-            {
-              "title": "Nashville SC vs Chicago Fire",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-09-19 20:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Nashville SC",
-              "awayTeam": "Chicago Fire",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/znrwt71602103062.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/8xuc781639493166.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv11",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 506
-            },
-            {
-              "title": "Real Salt Lake vs Vancouver Whitecaps",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-09-19 20:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Real Salt Lake",
-              "awayTeam": "Vancouver Whitecaps",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/kkjlfa1556488022.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/tpwxpy1473536521.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv12",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 507
-            },
-            {
-              "title": "Portland Timbers vs Atlanta United",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-09-19 21:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Portland Timbers",
-              "awayTeam": "Atlanta United",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/skm30j1557953559.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ej091x1602103070.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv13",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 508
-            },
-            {
               "title": "Inter Miami vs San Diego",
               "league": "MLS",
               "code": "MLS",
@@ -3267,41 +2911,6 @@
           "background": "",
           "events": [
             {
-              "title": "Real España vs Motagua",
-              "league": "Liga Nacional",
-              "code": "HON",
-              "time": "2026-09-19 20:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Real España",
-              "awayTeam": "Motagua",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/i28zh01589120247.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/zi6mw31581857175.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Deportes TVC",
-                  "url": "https://streamxhd.com/live1.php?stream=deportestvc",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 509
-            },
-            {
               "title": "Olimpia vs Atlético Independiente",
               "league": "Liga Nacional",
               "code": "HON",
@@ -3346,41 +2955,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Deportivo Saprissa vs Herediano",
-              "league": "Primera División",
-              "code": "CR",
-              "time": "2026-09-19 21:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Deportivo Saprissa",
-              "awayTeam": "Herediano",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/tvj33z1707630611.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/20qq911582143301.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FUTV",
-                  "url": "https://streamxhd.com/live1.php?stream=futv",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 510
-            },
             {
               "title": "Alajuelense vs Inter San Carlos",
               "league": "Primera División",
