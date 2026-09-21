@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21 09:01:51",
+  "updated": "2026-09-21 20:47:29",
   "sports": [
     {
       "id": "basketball",
@@ -30,41 +30,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Baltimore Orioles vs Milwaukee Brewers",
-              "league": "MLB",
-              "code": "MLB",
-              "time": "2026-09-20 18:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Baltimore Orioles",
-              "awayTeam": "Milwaukee Brewers",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/bal.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/mil.png",
-              "imageMode": "teams",
-              "duration": 210,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.com/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 514
-            },
             {
               "title": "San Francisco Giants vs Minnesota Twins",
               "league": "MLB",
@@ -129,41 +94,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Vélez Sarsfield vs Tigre",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-09-20 19:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Vélez Sarsfield",
-              "awayTeam": "Tigre",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/jo98m71517769587.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=tntsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 551
-            },
             {
               "title": "Aldosivi vs Atlético Tucumán",
               "league": "Liga Profesional",
@@ -278,78 +208,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Deportes Tolima vs América de Cali",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-09-20 18:10",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Deportes Tolima",
-              "awayTeam": "América de Cali",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/4bscjt1766423328.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/lwxcn71576156105.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 554
-            },
-            {
-              "title": "Llaneros vs Atlético Nacional",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-09-20 20:15",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Llaneros",
-              "awayTeam": "Atlético Nacional",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/q1w56m1615832197.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/efl4o41576157720.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 555
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -359,41 +218,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "LDU Quito vs Universidad Católica",
-              "league": "Liga Ecuador",
-              "code": "ECUA",
-              "time": "2026-09-20 18:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "LDU Quito",
-              "awayTeam": "Universidad Católica",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/5tf5ch1736404372.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/25pb661770394991.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Zapping EC",
-                  "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 558
-            },
             {
               "title": "Manta vs Orense",
               "league": "Liga Ecuador",
@@ -473,133 +297,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Pachuca vs Tijuana",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-09-20 19:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Pachuca",
-              "awayTeam": "Tijuana",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/k9duyw1747334895.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/b0mky81779772352.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX One",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 559
-            },
-            {
-              "title": "Toluca vs Santos Laguna",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-09-20 19:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Toluca",
-              "awayTeam": "Santos Laguna",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/y64wy91523913186.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/kg9gzh1779771734.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Vix 3",
-                  "url": "https://streamxhd.com/live1.php?stream=vix3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 560
-            },
-            {
-              "title": "Querétaro vs León",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-09-20 21:10",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Querétaro",
-              "awayTeam": "León",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/024n481781543211.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/pc9gro1752393439.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX One",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 561
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -609,41 +307,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Liverpool vs Racing",
-              "league": "Liga Uruguay",
-              "code": "URU",
-              "time": "2026-09-20 18:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Liverpool",
-              "awayTeam": "Racing",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/0xat6f1678717839.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/rtsusv1473541178.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney27",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 565
-            },
             {
               "title": "Central Español vs Torque",
               "league": "Liga Uruguay",
@@ -688,53 +351,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Inter Miami vs San Diego",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-09-20 18:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Inter Miami",
-              "awayTeam": "San Diego",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/7ka2xd1734621068.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Apple TV English",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 577
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -743,43 +360,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Olimpia vs Atlético Independiente",
-              "league": "Liga Nacional",
-              "code": "HON",
-              "time": "2026-09-20 18:15",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Olimpia",
-              "awayTeam": "Atlético Independiente",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/a8229b1580931621.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/gqqxs91784224443.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Deportes TVC",
-                  "url": "https://streamxhd.com/live1.php?stream=deportestvc",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 578
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -788,43 +369,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Alajuelense vs Inter San Carlos",
-              "league": "Primera División",
-              "code": "CRC",
-              "time": "2026-09-20 18:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Alajuelense",
-              "awayTeam": "Inter San Carlos",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/zi9ft21707630526.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/9doqdz1781200489.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FUTV",
-                  "url": "https://streamxhd.com/live1.php?stream=futv",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 579
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -929,51 +474,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Kansas City Chiefs vs Indianapolis Colts",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-09-20 19:00",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Kansas City Chiefs",
-              "awayTeam": "Indianapolis Colts",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Universo",
-                  "url": "https://streamxhd.com/live1.php?stream=universo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 591
-            },
             {
               "title": "Los Angeles Rams vs New York Giants",
               "league": "NFL",
