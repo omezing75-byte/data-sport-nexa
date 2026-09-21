@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21 09:00:43",
+  "updated": "2026-09-21 09:01:51",
   "sports": [
     {
       "id": "basketball",
@@ -75,9 +75,9 @@
               "logo": "",
               "homeTeam": "San Francisco Giants",
               "awayTeam": "Minnesota Twins",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png",
+              "imageMode": "teams",
               "duration": 210,
               "extraTime": 0,
               "status": "",
@@ -123,78 +123,6 @@
       "name": "Football",
       "icon": "⚽",
       "leagues": [
-        {
-          "name": "Bundesliga",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "LaLiga Hypermotion",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Serie A",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Ligue 1",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Premier League",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga Paraguay",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "LaLiga",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga 1",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
         {
           "name": "Liga Profesional",
           "logo": "",
@@ -246,9 +174,9 @@
               "logo": "",
               "homeTeam": "Aldosivi",
               "awayTeam": "Atlético Tucumán",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/nqrjqb1517767667.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/m5i2q21775755577.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -281,9 +209,9 @@
               "logo": "",
               "homeTeam": "Barracas Central",
               "awayTeam": "Independiente Rivadavia",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/rbkjba1707458543.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/qgzi2b1769406125.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -316,9 +244,9 @@
               "logo": "",
               "homeTeam": "Lanús",
               "awayTeam": "Estudiantes",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -476,9 +404,9 @@
               "logo": "",
               "homeTeam": "Manta",
               "awayTeam": "Orense",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/mwnqej1614891525.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/0pishb1734023740.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -511,9 +439,9 @@
               "logo": "",
               "homeTeam": "Barcelona",
               "awayTeam": "Independiente del Valle",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/c5yr001653075296.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/qku0lv1737622736.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -726,9 +654,9 @@
               "logo": "",
               "homeTeam": "Central Español",
               "awayTeam": "Torque",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/nu9wnd1624645331.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/v7urjn1580234584.png/medium",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -752,33 +680,6 @@
               "agendaOrder": 598
             }
           ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Super Lig",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Brasileirão",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Primeira Liga",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -943,9 +844,9 @@
               "logo": "",
               "homeTeam": "Real Cundinamarca",
               "awayTeam": "Deportes Quindío",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/3c46781721453110.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/dw28nd1778086348.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -978,9 +879,9 @@
               "logo": "",
               "homeTeam": "Real Cartagena",
               "awayTeam": "Envigado",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/1galb31615832205.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/h1x0ic1629122571.png",
+              "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
               "status": "",
@@ -1083,9 +984,9 @@
               "logo": "",
               "homeTeam": "Los Angeles Rams",
               "awayTeam": "New York Giants",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png",
+              "imageMode": "teams",
               "duration": 180,
               "extraTime": 0,
               "status": "",
@@ -1116,17 +1017,7 @@
       "id": "tennis",
       "name": "Tennis",
       "icon": "🎾",
-      "leagues": [
-        {
-          "name": "Copa Davis",
-          "logo": "https://r2.thesportsdb.com/images/media/league/badge/i0qscy1672325773.png",
-          "flagCode": "",
-          "flagUrl": "",
-          "image": "",
-          "background": "",
-          "events": []
-        }
-      ]
+      "leagues": []
     }
   ]
 }
