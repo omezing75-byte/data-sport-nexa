@@ -1,11 +1,92 @@
 {
-  "updated": "2026-09-21 20:47:29",
+  "updated": "2026-09-22 07:38:56",
   "sports": [
     {
       "id": "basketball",
       "name": "Basketball",
       "icon": "🏀",
-      "leagues": []
+      "leagues": [
+        {
+          "name": "WNBA",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Indiana vs Minnesota",
+              "league": "WNBA",
+              "code": "WNBA",
+              "time": "2026-09-22 19:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Indiana",
+              "awayTeam": "Minnesota",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/leseip1580247171.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/dg5fps1583937118.png",
+              "imageMode": "teams",
+              "duration": 180,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "ESPN 2",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 602
+            },
+            {
+              "title": "Las Vegas vs Los Angeles",
+              "league": "WNBA",
+              "code": "WNBA",
+              "time": "2026-09-22 21:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Las Vegas",
+              "awayTeam": "Los Angeles",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/jnvk6x1741462255.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/j70g2o1624031498.png/medium",
+              "imageMode": "teams",
+              "duration": 180,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "ESPN 2",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 603
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        }
+      ]
     },
     {
       "id": "cycling",
@@ -64,6 +145,41 @@
               "homeCountryCode": "",
               "awayCountryCode": "",
               "agendaOrder": 592
+            },
+            {
+              "title": "NY Yankees vs Tampa Bay Rays",
+              "league": "MLB",
+              "code": "MLB",
+              "time": "2026-09-22 12:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "NY Yankees",
+              "awayTeam": "Tampa Bay Rays",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png",
+              "imageMode": "teams",
+              "duration": 210,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "ESPN 5",
+                  "url": "https://streamxhd.com/live1.php?stream=espn5",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 604
             }
           ],
           "flagCode": "",
@@ -94,41 +210,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Aldosivi vs Atlético Tucumán",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-09-21 12:30",
-              "timezone": "America/Lima",
-              "image": "",
-              "logo": "",
-              "homeTeam": "Aldosivi",
-              "awayTeam": "Atlético Tucumán",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/nqrjqb1517767667.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/m5i2q21775755577.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=tntsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "agendaOrder": 593
-            },
             {
               "title": "Barracas Central vs Independiente Rivadavia",
               "league": "Liga Profesional",
@@ -208,28 +289,19 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga Ecuador",
-          "logo": "",
-          "image": "",
-          "background": "",
           "events": [
             {
-              "title": "Manta vs Orense",
-              "league": "Liga Ecuador",
-              "code": "ECUA",
-              "time": "2026-09-21 14:00",
+              "title": "Medellín vs Jaguares de Córdoba",
+              "league": "Liga Colombia",
+              "code": "COL",
+              "time": "2026-09-22 18:00",
               "timezone": "America/Lima",
               "image": "",
               "logo": "",
-              "homeTeam": "Manta",
-              "awayTeam": "Orense",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/mwnqej1614891525.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/0pishb1734023740.png",
+              "homeTeam": "Medellín",
+              "awayTeam": "Jaguares de Córdoba",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/mzezh31783226830.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/7ypl1y1629122579.png",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -237,8 +309,18 @@
               "note": "",
               "servers": [
                 {
-                  "name": "Zapping EC",
-                  "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
+                  "name": "Win Sports +",
+                  "url": "https://streamxhd.com/live1.php?stream=winplus",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Win Sports",
+                  "url": "https://streamxhd.com/live1.php?stream=winsports",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -251,8 +333,53 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": "",
-              "agendaOrder": 596
+              "agendaOrder": 605
             },
+            {
+              "title": "Santa Fe vs Deportivo Cali",
+              "league": "Liga Colombia",
+              "code": "COL",
+              "time": "2026-09-22 20:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Santa Fe",
+              "awayTeam": "Deportivo Cali",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/16vs771629122765.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/isc2yu1580833286.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Win Sports +",
+                  "url": "https://streamxhd.com/live1.php?stream=winplus",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 606
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Liga Ecuador",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
             {
               "title": "Barcelona vs Independiente del Valle",
               "league": "Liga Ecuador",
@@ -289,15 +416,6 @@
               "agendaOrder": 597
             }
           ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga MX",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -343,33 +461,6 @@
               "agendaOrder": 598
             }
           ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "MLS",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga Nacional",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Primera División",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -452,6 +543,336 @@
           ],
           "flagCode": "",
           "flagUrl": ""
+        },
+        {
+          "name": "UEFA Champions League Femenina",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Bayern vs Manchester City",
+              "league": "UEFA Champions League Femenina",
+              "code": "CHA",
+              "time": "2026-09-22 11:45",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Bayern",
+              "awayTeam": "Manchester City",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/o7u7qi1630021067.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "ESPN 2",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN Deportes",
+                  "url": "https://streamxhd.com/live1.php?stream=espndeportes",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 607
+            },
+            {
+              "title": "Inter Milano vs Häcken",
+              "league": "UEFA Champions League Femenina",
+              "code": "CHA",
+              "time": "2026-09-22 11:45",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Inter Milano",
+              "awayTeam": "Häcken",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/59ms3c1641958694.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/zyl9m01523905866.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 608
+            },
+            {
+              "title": "Arsenal vs Køge",
+              "league": "UEFA Champions League Femenina",
+              "code": "CHA",
+              "time": "2026-09-22 14:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Arsenal",
+              "awayTeam": "Køge",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/gglzbg1782014174.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney3",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 609
+            },
+            {
+              "title": "Juventus vs SL Benfica",
+              "league": "UEFA Champions League Femenina",
+              "code": "CHA",
+              "time": "2026-09-22 14:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Juventus",
+              "awayTeam": "SL Benfica",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/us0tam1742983749.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/kziiv51785775800.png/medium",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney4",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 610
+            },
+            {
+              "title": "Real Madrid vs PSG",
+              "league": "UEFA Champions League Femenina",
+              "code": "CHA",
+              "time": "2026-09-22 14:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Real Madrid",
+              "awayTeam": "PSG",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/yziio51629235082.png/medium",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "ESPN 2",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney5",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 611
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Copa Chile",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Puerto Montt vs Ñublense",
+              "league": "Copa Chile",
+              "code": "CH",
+              "time": "2026-09-22 16:00",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Puerto Montt",
+              "awayTeam": "Ñublense",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/k1wdah1677471408.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/0jpiwm1610649915.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "TNT Sports Chile",
+                  "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 612
+            },
+            {
+              "title": "Audax Italiano vs Colo-Colo",
+              "league": "Copa Chile",
+              "code": "CH",
+              "time": "2026-09-22 18:30",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Audax Italiano",
+              "awayTeam": "Colo-Colo",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/xbowln1672950178.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/s41be31578347962.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "HBO Max 1",
+                  "url": "https://streamxhd.com/live1.php?stream=max1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 613
+            },
+            {
+              "title": "Cobreloa vs Coquimbo Unido",
+              "league": "Copa Chile",
+              "code": "CH",
+              "time": "2026-09-22 18:30",
+              "timezone": "America/Lima",
+              "image": "",
+              "logo": "",
+              "homeTeam": "Cobreloa",
+              "awayTeam": "Coquimbo Unido",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/y971we1756782437.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/b2cnht1602186172.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "TNT Sports Chile",
+                  "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": "",
+              "agendaOrder": 614
+            }
+          ],
+          "flagCode": "cl",
+          "flagUrl": "https://flagcdn.com/w320/cl.png"
         }
       ]
     },
