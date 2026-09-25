@@ -9,10 +9,10 @@
           "name": "F1",
           "events": [
             {
-              "title": "GP Azerbaiyán - Práctica #1",
+              "title": "GP Azerbaiyán - Práctica #3",
               "league": "F1",
               "code": "F1",
-              "time": "2026-09-24T03:30:00-05:00",
+              "time": "2026-09-25T03:30:00-05:00",
               "timezone": "America/Lima",
               "agendaOrder": 0,
               "servers": [
@@ -22,7 +22,7 @@
                   "active": true
                 },
                 {
-                  "name": "Fox Sports 1 AR",
+                  "name": "FOX Sports 1 AR",
                   "url": "https://streamxhd.com/live1.php?stream=fox1ar",
                   "active": true
                 },
@@ -30,15 +30,20 @@
                   "name": "DAZN F1",
                   "url": "https://streamxhd.com/live1.php?stream=daznf1",
                   "active": true
+                },
+                {
+                  "name": "SporTV 3",
+                  "url": "https://streamxhd.com/live1.php?stream=sporttvbr3",
+                  "active": true
                 }
               ],
               "image": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/medium"
             },
             {
-              "title": "GP Azerbaiyán - Práctica #1 - On Board Colapinto",
+              "title": "GP Azerbaiyán - Práctica #3 - On Board Colapinto",
               "league": "F1",
               "code": "F1",
-              "time": "2026-09-24T03:30:00-05:00",
+              "time": "2026-09-25T03:30:00-05:00",
               "timezone": "America/Lima",
               "agendaOrder": 1,
               "servers": [
@@ -51,10 +56,10 @@
               "image": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/medium"
             },
             {
-              "title": "GP Azerbaiyán - Práctica #1 - On Board Verstappen",
+              "title": "GP Azerbaiyán - Práctica #3 - On Board Verstappen",
               "league": "F1",
               "code": "F1",
-              "time": "2026-09-24T03:30:00-05:00",
+              "time": "2026-09-25T03:30:00-05:00",
               "timezone": "America/Lima",
               "agendaOrder": 2,
               "servers": [
@@ -67,10 +72,10 @@
               "image": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/medium"
             },
             {
-              "title": "GP Azerbaiyán - Práctica #2",
+              "title": "GP Azerbaiyán - Clasificación",
               "league": "F1",
               "code": "F1",
-              "time": "2026-09-24T07:00:00-05:00",
+              "time": "2026-09-25T07:00:00-05:00",
               "timezone": "America/Lima",
               "agendaOrder": 5,
               "servers": [
@@ -80,7 +85,7 @@
                   "active": true
                 },
                 {
-                  "name": "Fox Sports 1 AR",
+                  "name": "FOX Sports 1 AR",
                   "url": "https://streamxhd.com/live1.php?stream=fox1ar",
                   "active": true
                 },
@@ -88,15 +93,20 @@
                   "name": "DAZN F1",
                   "url": "https://streamxhd.com/live1.php?stream=daznf1",
                   "active": true
+                },
+                {
+                  "name": "SporTV 3",
+                  "url": "https://streamxhd.com/live1.php?stream=sporttvbr3",
+                  "active": true
                 }
               ],
               "image": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/medium"
             },
             {
-              "title": "GP Azerbaiyán - Práctica #2 - Cámara On Board",
+              "title": "GP Azerbaiyán - Clasificación - Cámara On Board",
               "league": "F1",
               "code": "F1",
-              "time": "2026-09-24T07:00:00-05:00",
+              "time": "2026-09-25T07:00:00-05:00",
               "timezone": "America/Lima",
               "agendaOrder": 6,
               "servers": [
@@ -109,10 +119,10 @@
               "image": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/medium"
             },
             {
-              "title": "GP Azerbaiyán - Práctica #2 - On Board Colapinto",
+              "title": "GP Azerbaiyán - Clasificación - On Board Colapinto",
               "league": "F1",
               "code": "F1",
-              "time": "2026-09-24T07:00:00-05:00",
+              "time": "2026-09-25T07:00:00-05:00",
               "timezone": "America/Lima",
               "agendaOrder": 7,
               "servers": [
@@ -125,10 +135,10 @@
               "image": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/medium"
             },
             {
-              "title": "GP Azerbaiyán - Práctica #2 - On Board Verstappen",
+              "title": "GP Azerbaiyán - Clasificación - On Board Verstappen",
               "league": "F1",
               "code": "F1",
-              "time": "2026-09-24T07:00:00-05:00",
+              "time": "2026-09-25T07:00:00-05:00",
               "timezone": "America/Lima",
               "agendaOrder": 8,
               "servers": [
@@ -153,42 +163,42 @@
           "name": "Amistoso Internacional",
           "events": [
             {
-              "title": "Japón vs Uruguay",
+              "title": "Australia vs Brasil",
               "league": "Amistoso Internacional",
               "code": "FIFA",
-              "time": "2026-09-24T05:05:00-05:00",
+              "time": "2026-09-25T05:00:00-05:00",
               "timezone": "America/Lima",
               "agendaOrder": 3,
               "servers": [
                 {
-                  "name": "DSports Eventos 1",
-                  "url": "https://streamxhd.com/live1.php?stream=evento1",
+                  "name": "SporTV 1",
+                  "url": "https://streamxhd.com/live1.php?stream=sporttvbr1",
                   "active": true
                 }
               ],
-              "homeTeam": "Japón",
-              "awayTeam": "Uruguay",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Japan.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Uruguay.svg"
+              "homeTeam": "Australia",
+              "awayTeam": "Brasil",
+              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Australia.svg",
+              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Brazil.svg"
             },
             {
-              "title": "Corea del Sur vs Ecuador",
+              "title": "India vs Panamá",
               "league": "Amistoso Internacional",
               "code": "FIFA",
-              "time": "2026-09-24T06:00:00-05:00",
+              "time": "2026-09-25T09:00:00-05:00",
               "timezone": "America/Lima",
-              "agendaOrder": 4,
+              "agendaOrder": 9,
               "servers": [
                 {
-                  "name": "Teleamazonas",
+                  "name": "TVN Mas",
                   "url": "https://streamxhd.com/live1.php?stream=evento2",
                   "active": true
                 }
               ],
-              "homeTeam": "Corea del Sur",
-              "awayTeam": "Ecuador",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/South-Korea.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Ecuador.svg"
+              "homeTeam": "India",
+              "awayTeam": "Panamá",
+              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/India.svg",
+              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Panama.svg"
             }
           ]
         },
@@ -196,12 +206,12 @@
           "name": "Liga de Naciones",
           "events": [
             {
-              "title": "Andorra vs Malta",
+              "title": "Armenia vs Letonia",
               "league": "Liga de Naciones",
               "code": "NATIONSLEAGUE",
-              "time": "2026-09-24T11:00:00-05:00",
+              "time": "2026-09-25T11:00:00-05:00",
               "timezone": "America/Lima",
-              "agendaOrder": 9,
+              "agendaOrder": 10,
               "servers": [
                 {
                   "name": "Disney +",
@@ -209,21 +219,21 @@
                   "active": true
                 },
                 {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
+                  "name": "SporTV 2",
+                  "url": "https://streamxhd.com/live1.php?stream=sporttvbr2",
                   "active": true
                 }
               ],
-              "homeTeam": "Andorra",
-              "awayTeam": "Malta",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Andorra.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Malta.svg"
+              "homeTeam": "Armenia",
+              "awayTeam": "Letonia",
+              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Armenia.svg",
+              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Latvia.svg"
             },
             {
-              "title": "Serbia vs Grecia",
+              "title": "Georgia vs Irlanda del Norte",
               "league": "Liga de Naciones",
               "code": "NATIONSLEAGUE",
-              "time": "2026-09-24T13:45:00-05:00",
+              "time": "2026-09-25T11:00:00-05:00",
               "timezone": "America/Lima",
               "agendaOrder": 11,
               "servers": [
@@ -231,20 +241,25 @@
                   "name": "Disney +",
                   "url": "https://streamxhd.com/live1.php?stream=disney2",
                   "active": true
+                },
+                {
+                  "name": "ESPN 2",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2",
+                  "active": true
                 }
               ],
-              "homeTeam": "Serbia",
-              "awayTeam": "Grecia",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Serbia.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Greece.svg"
+              "homeTeam": "Georgia",
+              "awayTeam": "Irlanda del Norte",
+              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Georgia.svg",
+              "awayLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Northern_Ireland_%281924%E2%80%931953%29.svg/330px-Flag_of_Northern_Ireland_%281924%E2%80%931953%29.svg.png"
             },
             {
-              "title": "Portugal vs Gales",
+              "title": "Hungría vs Ucrania",
               "league": "Liga de Naciones",
               "code": "NATIONSLEAGUE",
-              "time": "2026-09-24T13:45:00-05:00",
+              "time": "2026-09-25T13:45:00-05:00",
               "timezone": "America/Lima",
-              "agendaOrder": 12,
+              "agendaOrder": 13,
               "servers": [
                 {
                   "name": "Disney +",
@@ -252,56 +267,70 @@
                   "active": true
                 },
                 {
-                  "name": "SporTV 1",
-                  "url": "https://streamxhd.com/live1.php?stream=sporttvbr1",
+                  "name": "SporTV 2",
+                  "url": "https://streamxhd.com/live1.php?stream=sporttvbr2",
                   "active": true
                 }
               ],
-              "homeTeam": "Portugal",
-              "awayTeam": "Gales",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Portugal.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Wales.svg"
+              "homeTeam": "Hungría",
+              "awayTeam": "Ucrania",
+              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Hungary.svg",
+              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Ukraine.svg"
             },
             {
-              "title": "Noruega vs Dinamarca",
+              "title": "Polonia vs Bosnia-Herzegovina",
               "league": "Liga de Naciones",
               "code": "NATIONSLEAGUE",
-              "time": "2026-09-24T13:45:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 13,
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney4",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "active": true
-                },
-                {
-                  "name": "ESPN 2 AR",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2ar",
-                  "active": true
-                }
-              ],
-              "homeTeam": "Noruega",
-              "awayTeam": "Dinamarca",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Norway.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Denmark.svg"
-            },
-            {
-              "title": "Países Bajos vs Alemania",
-              "league": "Liga de Naciones",
-              "code": "NATIONSLEAGUE",
-              "time": "2026-09-24T13:45:00-05:00",
+              "time": "2026-09-25T13:45:00-05:00",
               "timezone": "America/Lima",
               "agendaOrder": 14,
               "servers": [
                 {
                   "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney4",
+                  "active": true
+                }
+              ],
+              "homeTeam": "Polonia",
+              "awayTeam": "Bosnia-Herzegovina",
+              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Poland.svg",
+              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Bosnia-and-Herzegovina.svg"
+            },
+            {
+              "title": "Suecia vs Rumania",
+              "league": "Liga de Naciones",
+              "code": "NATIONSLEAGUE",
+              "time": "2026-09-25T13:45:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 15,
+              "servers": [
+                {
+                  "name": "Disney +",
                   "url": "https://streamxhd.com/live1.php?stream=disney5",
+                  "active": true
+                },
+                {
+                  "name": "ESPN 5",
+                  "url": "https://streamxhd.com/live1.php?stream=espn5",
+                  "active": true
+                }
+              ],
+              "homeTeam": "Suecia",
+              "awayTeam": "Rumania",
+              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Sweden.svg",
+              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Romania.svg"
+            },
+            {
+              "title": "Italia vs Bélgica",
+              "league": "Liga de Naciones",
+              "code": "NATIONSLEAGUE",
+              "time": "2026-09-25T13:45:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 16,
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney6",
                   "active": true
                 },
                 {
@@ -315,37 +344,18 @@
                   "active": true
                 }
               ],
-              "homeTeam": "Países Bajos",
-              "awayTeam": "Alemania",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/The-Netherlands.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Germany.svg"
+              "homeTeam": "Italia",
+              "awayTeam": "Bélgica",
+              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Italy.svg",
+              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Belgium.svg"
             },
             {
-              "title": "Kosovo vs República de Irlanda",
+              "title": "Turquía vs Francia",
               "league": "Liga de Naciones",
               "code": "NATIONSLEAGUE",
-              "time": "2026-09-24T13:45:00-05:00",
+              "time": "2026-09-25T13:45:00-05:00",
               "timezone": "America/Lima",
-              "agendaOrder": 15,
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney6",
-                  "active": true
-                }
-              ],
-              "homeTeam": "Kosovo",
-              "awayTeam": "República de Irlanda",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Kosovo.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Ireland.svg"
-            },
-            {
-              "title": "Austria vs Israel",
-              "league": "Liga de Naciones",
-              "code": "NATIONSLEAGUE",
-              "time": "2026-09-24T13:45:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 16,
+              "agendaOrder": 17,
               "servers": [
                 {
                   "name": "Disney +",
@@ -353,63 +363,58 @@
                   "active": true
                 },
                 {
-                  "name": "SporTV 2",
-                  "url": "https://streamxhd.com/live1.php?stream=sporttvbr2",
+                  "name": "SporTV 1",
+                  "url": "https://streamxhd.com/live1.php?stream=sporttvbr1",
                   "active": true
                 }
               ],
-              "homeTeam": "Austria",
-              "awayTeam": "Israel",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Austria.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Israel.svg"
+              "homeTeam": "Turquía",
+              "awayTeam": "Francia",
+              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Turkey.svg",
+              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/France.svg"
             },
             {
-              "title": "Liechtenstein vs Lituania",
+              "title": "Montenegro vs Chipre",
               "league": "Liga de Naciones",
               "code": "NATIONSLEAGUE",
-              "time": "2026-09-24T13:45:00-05:00",
+              "time": "2026-09-25T13:45:00-05:00",
               "timezone": "America/Lima",
-              "agendaOrder": 17,
+              "agendaOrder": 18,
               "servers": [
                 {
                   "name": "Disney +",
                   "url": "https://streamxhd.com/live1.php?stream=disney8",
                   "active": true
-                },
-                {
-                  "name": "SporTV 3",
-                  "url": "https://streamxhd.com/live1.php?stream=sporttvbr3",
-                  "active": true
                 }
               ],
-              "homeTeam": "Liechtenstein",
-              "awayTeam": "Lituania",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Liechtenstein.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Lithuania.svg"
+              "homeTeam": "Montenegro",
+              "awayTeam": "Chipre",
+              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Montenegro.svg",
+              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Cyprus.svg"
             }
           ]
         },
         {
-          "name": "Copa Uruguay",
+          "name": "LaLiga Hypermotion",
           "events": [
             {
-              "title": "Danubio vs Peñarol",
-              "league": "Copa Uruguay",
-              "code": "URU",
-              "time": "2026-09-24T13:30:00-05:00",
+              "title": "Girona vs Albacete",
+              "league": "LaLiga Hypermotion",
+              "code": "ES",
+              "time": "2026-09-25T13:30:00-05:00",
               "timezone": "America/Lima",
-              "agendaOrder": 10,
+              "agendaOrder": 12,
               "servers": [
                 {
-                  "name": "Eventos 1",
-                  "url": "https://streamxhd.com/live1.php?stream=evento1",
+                  "name": "LaLiga Hypermotion",
+                  "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
                   "active": true
                 }
               ],
-              "homeTeam": "Danubio",
-              "awayTeam": "Peñarol",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/vtryqv1473541135.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/uuwpux1473541171.png/medium"
+              "homeTeam": "Girona",
+              "awayTeam": "Albacete",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/kfu7zu1659897499.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/17oqja1616436316.png/medium"
             }
           ]
         },
@@ -417,12 +422,12 @@
           "name": "Liga de Naciones CONCACAF",
           "events": [
             {
-              "title": "Puerto Rico vs Guyana",
+              "title": "Bermudas vs Guadalupe",
               "league": "Liga de Naciones CONCACAF",
               "code": "NATIONESCAF",
-              "time": "2026-09-24T14:00:00-05:00",
+              "time": "2026-09-25T14:00:00-05:00",
               "timezone": "America/Lima",
-              "agendaOrder": 18,
+              "agendaOrder": 19,
               "servers": [
                 {
                   "name": "Vix +",
@@ -430,37 +435,18 @@
                   "active": true
                 }
               ],
-              "homeTeam": "Puerto Rico",
-              "awayTeam": "Guyana",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Puerto-Rico.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Guyana.svg"
+              "homeTeam": "Bermudas",
+              "awayTeam": "Guadalupe",
+              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Bermuda.svg",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/logo/o59awl1740106091.png/medium"
             },
             {
-              "title": "República Dominicana vs Nicaragua",
+              "title": "Granada vs Cuba",
               "league": "Liga de Naciones CONCACAF",
               "code": "NATIONESCAF",
-              "time": "2026-09-24T19:00:00-05:00",
+              "time": "2026-09-25T16:00:00-05:00",
               "timezone": "America/Lima",
               "agendaOrder": 21,
-              "servers": [
-                {
-                  "name": "Vix +",
-                  "url": "https://streamxhd.com/live1.php?stream=vix1",
-                  "active": true
-                }
-              ],
-              "homeTeam": "República Dominicana",
-              "awayTeam": "Nicaragua",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Dominican-Republic.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Nicaragua.svg"
-            },
-            {
-              "title": "Islas Caimán vs Dominica",
-              "league": "Liga de Naciones CONCACAF",
-              "code": "NATIONESCAF",
-              "time": "2026-09-24T19:10:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 24,
               "servers": [
                 {
                   "name": "Vix +",
@@ -468,18 +454,56 @@
                   "active": true
                 }
               ],
-              "homeTeam": "Islas Caimán",
-              "awayTeam": "Dominica",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Cayman-Islands.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Dominica.svg"
+              "homeTeam": "Granada",
+              "awayTeam": "Cuba",
+              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Grenada.svg",
+              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Cuba.svg"
             },
             {
-              "title": "Haití vs Trinidad y Tobago",
+              "title": "Jamaica vs Guatemala",
               "league": "Liga de Naciones CONCACAF",
               "code": "NATIONESCAF",
-              "time": "2026-09-24T19:20:00-05:00",
+              "time": "2026-09-25T19:00:00-05:00",
               "timezone": "America/Lima",
-              "agendaOrder": 25,
+              "agendaOrder": 26,
+              "servers": [
+                {
+                  "name": "Vix +",
+                  "url": "https://streamxhd.com/live1.php?stream=vix1",
+                  "active": true
+                }
+              ],
+              "homeTeam": "Jamaica",
+              "awayTeam": "Guatemala",
+              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Jamaica.svg",
+              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Guatemala.svg"
+            },
+            {
+              "title": "Bonaire vs St. Kitts and Nevis",
+              "league": "Liga de Naciones CONCACAF",
+              "code": "NATIONESCAF",
+              "time": "2026-09-25T19:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 27,
+              "servers": [
+                {
+                  "name": "Vix +",
+                  "url": "https://streamxhd.com/live1.php?stream=vix2",
+                  "active": true
+                }
+              ],
+              "homeTeam": "Bonaire",
+              "awayTeam": "St. Kitts and Nevis",
+              "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Bonaire.svg",
+              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Saint-Kitts-and-Nevis.svg"
+            },
+            {
+              "title": "Barbados vs St. Lucia",
+              "league": "Liga de Naciones CONCACAF",
+              "code": "NATIONESCAF",
+              "time": "2026-09-25T19:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 28,
               "servers": [
                 {
                   "name": "Vix +",
@@ -487,22 +511,209 @@
                   "active": true
                 }
               ],
-              "homeTeam": "Haití",
-              "awayTeam": "Trinidad y Tobago",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Haiti.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Trinidad-and-Tobago.svg"
+              "homeTeam": "Barbados",
+              "awayTeam": "St. Lucia",
+              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Barbados.svg",
+              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Saint-Lucia.svg"
             },
             {
-              "title": "Costa Rica vs Curazao",
+              "title": "Honduras vs Surinam",
               "league": "Liga de Naciones CONCACAF",
               "code": "NATIONESCAF",
-              "time": "2026-09-24T21:00:00-05:00",
+              "time": "2026-09-25T20:00:00-05:00",
               "timezone": "America/Lima",
-              "agendaOrder": 28,
+              "agendaOrder": 29,
               "servers": [
                 {
                   "name": "Vix +",
                   "url": "https://streamxhd.com/live1.php?stream=vix4",
+                  "active": true
+                }
+              ],
+              "homeTeam": "Honduras",
+              "awayTeam": "Surinam",
+              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Honduras.svg",
+              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Suriname.svg"
+            },
+            {
+              "title": "El Salvador vs Martinica",
+              "league": "Liga de Naciones CONCACAF",
+              "code": "NATIONESCAF",
+              "time": "2026-09-25T22:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 33,
+              "servers": [
+                {
+                  "name": "Vix +",
+                  "url": "https://streamxhd.com/live1.php?stream=vix1",
+                  "active": true
+                }
+              ],
+              "homeTeam": "El Salvador",
+              "awayTeam": "Martinica",
+              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/El-Salvador.svg",
+              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Martinique.svg"
+            }
+          ]
+        },
+        {
+          "name": "Liga Paraguay",
+          "events": [
+            {
+              "title": "Sportivo Luqueño vs Guaraní",
+              "league": "Liga Paraguay",
+              "code": "LIGAPY",
+              "time": "2026-09-25T14:30:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 20,
+              "servers": [
+                {
+                  "name": "Tigo Sports",
+                  "url": "https://streamxhd.com/live1.php?stream=tigo1",
+                  "active": true
+                }
+              ],
+              "homeTeam": "Sportivo Luqueño",
+              "awayTeam": "Guaraní",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/nsmlja1579991077.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/rlsr7u1579989354.png/medium"
+            },
+            {
+              "title": "Nacional Asunción vs Sportivo Ameliano",
+              "league": "Liga Paraguay",
+              "code": "LIGAPY",
+              "time": "2026-09-25T17:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 22,
+              "servers": [
+                {
+                  "name": "Tigo Sports",
+                  "url": "https://streamxhd.com/live1.php?stream=tigo1",
+                  "active": true
+                }
+              ],
+              "homeTeam": "Nacional Asunción",
+              "awayTeam": "Sportivo Ameliano",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/uv7z921579989369.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/g16ua11611773197.png/medium"
+            }
+          ]
+        },
+        {
+          "name": "Copa Chile",
+          "events": [
+            {
+              "title": "Colo-Colo vs Audax Italiano",
+              "league": "Copa Chile",
+              "code": "CH",
+              "time": "2026-09-25T18:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 23,
+              "servers": [
+                {
+                  "name": "TNT Sports Chile",
+                  "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
+                  "active": true
+                }
+              ],
+              "homeTeam": "Colo-Colo",
+              "awayTeam": "Audax Italiano",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/s41be31578347962.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/xbowln1672950178.png/medium"
+            }
+          ]
+        },
+        {
+          "name": "Liga Colombia",
+          "events": [
+            {
+              "title": "Boyacá Chicó vs Deportivo Pasto",
+              "league": "Liga Colombia",
+              "code": "COL",
+              "time": "2026-09-25T18:10:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 25,
+              "servers": [
+                {
+                  "name": "Win Sports +",
+                  "url": "https://streamxhd.com/live1.php?stream=winplus",
+                  "active": true
+                },
+                {
+                  "name": "Win Sports",
+                  "url": "https://streamxhd.com/live1.php?stream=winsports",
+                  "active": true
+                }
+              ],
+              "homeTeam": "Boyacá Chicó",
+              "awayTeam": "Deportivo Pasto",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/boe8tv1677602771.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/zlmyh31576159327.png/medium"
+            },
+            {
+              "title": "Once Caldas vs Atlético Bucaramanga",
+              "league": "Liga Colombia",
+              "code": "COL",
+              "time": "2026-09-25T20:15:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 32,
+              "servers": [
+                {
+                  "name": "Win Sports +",
+                  "url": "https://streamxhd.com/live1.php?stream=winplus",
+                  "active": true
+                },
+                {
+                  "name": "Win Sports",
+                  "url": "https://streamxhd.com/live1.php?stream=winsports",
+                  "active": true
+                }
+              ],
+              "homeTeam": "Once Caldas",
+              "awayTeam": "Atlético Bucaramanga",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/nuh9kd1778085916.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/rtjs411576157184.png/medium"
+            }
+          ]
+        },
+        {
+          "name": "Liga de Expansión MX",
+          "events": [
+            {
+              "title": "Correcaminos UAT vs CDS Tampico Madero",
+              "league": "Liga de Expansión MX",
+              "code": "MEX",
+              "time": "2026-09-25T20:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 30,
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney1",
+                  "active": true
+                }
+              ],
+              "homeTeam": "Correcaminos UAT",
+              "awayTeam": "CDS Tampico Madero",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/ivjbcy1655568374.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ibcdf31754019410.png/medium"
+            }
+          ]
+        },
+        {
+          "name": "Liga MX",
+          "events": [
+            {
+              "title": "Atlante vs Monterrey",
+              "league": "Liga MX",
+              "code": "LIGAMX",
+              "time": "2026-09-25T20:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 31,
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney2",
                   "active": true
                 },
                 {
@@ -511,169 +722,54 @@
                   "active": true
                 }
               ],
-              "homeTeam": "Costa Rica",
-              "awayTeam": "Curazao",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Costa-Rica.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Curacao.svg"
-            }
-          ]
-        },
-        {
-          "name": "Copa Chile",
-          "events": [
-            {
-              "title": "O'Higgins vs Deportes Santa Cruz",
-              "league": "Copa Chile",
-              "code": "CH",
-              "time": "2026-09-24T16:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 19,
-              "servers": [
-                {
-                  "name": "TNT Sports Chile",
-                  "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
-                  "active": true
-                }
-              ],
-              "homeTeam": "O'Higgins",
-              "awayTeam": "Deportes Santa Cruz",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/g44b1l1756095484.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/15m53x1610649871.png/medium"
+              "homeTeam": "Atlante",
+              "awayTeam": "Monterrey",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/wcf2r51754018201.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/yglj911721542561.png/medium"
             },
             {
-              "title": "Everton vs Universidad Chile",
-              "league": "Copa Chile",
-              "code": "CH",
-              "time": "2026-09-24T18:30:00-05:00",
+              "title": "Tijuana vs Atlas",
+              "league": "Liga MX",
+              "code": "LIGAMX",
+              "time": "2026-09-25T22:00:00-05:00",
               "timezone": "America/Lima",
-              "agendaOrder": 20,
+              "agendaOrder": 34,
               "servers": [
                 {
-                  "name": "TNT Sports Chile",
-                  "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
+                  "name": "FOX One",
+                  "url": "https://streamxhd.com/live1.php?stream=foxone",
+                  "active": true
+                },
+                {
+                  "name": "TUDN USA",
+                  "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
                   "active": true
                 }
               ],
-              "homeTeam": "Everton",
-              "awayTeam": "Universidad Chile",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/3yo4ag1779074331.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/po0o3c1578347873.png/medium"
-            }
-          ]
-        },
-        {
-          "name": "Copa Ecuador",
-          "events": [
-            {
-              "title": "Gualaceo vs Independiente del Valle",
-              "league": "Copa Ecuador",
-              "code": "ECUA",
-              "time": "2026-09-24T19:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 22,
-              "servers": [
-                {
-                  "name": "DSports Eventos",
-                  "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
-                  "active": true
-                }
-              ],
-              "homeTeam": "Gualaceo",
-              "awayTeam": "Independiente del Valle",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/p5xd5w1644246493.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/qku0lv1737622736.png/medium"
-            }
-          ]
-        },
-        {
-          "name": "Liga Colombia",
-          "events": [
-            {
-              "title": "Atlético Nacional vs Millonarios",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-09-24T19:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 26,
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "active": true
-                }
-              ],
-              "homeTeam": "Atlético Nacional",
-              "awayTeam": "Millonarios",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/efl4o41576157720.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/mc73ix1629122587.png/medium"
-            }
-          ]
-        },
-        {
-          "name": "Liga de Expansión MX",
-          "events": [
-            {
-              "title": "Alebrijes de Oaxaca vs CA La Paz",
-              "league": "Liga de Expansión MX",
-              "code": "MEX",
-              "time": "2026-09-24T20:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 27,
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney1",
-                  "active": true
-                }
-              ],
-              "homeTeam": "Alebrijes de Oaxaca",
-              "awayTeam": "CA La Paz",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/xkxjzy1754018543.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/5qh7ci1655569387.png/medium"
-            }
-          ]
-        },
-        {
-          "name": "Liga Guatemala",
-          "events": [
-            {
-              "title": "Municipal vs Suchitepéquez",
-              "league": "Liga Guatemala",
-              "code": "GUA",
-              "time": "2026-09-24T21:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 29,
-              "servers": [
-                {
-                  "name": "FOX Deportes USA",
-                  "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa",
-                  "active": true
-                }
-              ],
-              "homeTeam": "Municipal",
-              "awayTeam": "Suchitepéquez",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/9phgwv1589210412.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/16mzln1782187409.png/medium"
+              "homeTeam": "Tijuana",
+              "awayTeam": "Atlas",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/b0mky81779772352.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/svvyvw1473541813.png/medium"
             }
           ]
         }
       ]
     },
     {
-      "id": "futbol-americano",
-      "name": "Fútbol americano",
-      "icon": "🏈",
+      "id": "tenis",
+      "name": "Tenis",
+      "icon": "🎾",
       "leagues": [
         {
-          "name": "NFL",
+          "name": "Laver Cup",
           "events": [
             {
-              "title": "Green Bay Packers vs Atlanta Falcons",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-09-24T19:00:00-05:00",
+              "title": "Día 1",
+              "league": "Laver Cup",
+              "code": "LAVERCUP",
+              "time": "2026-09-25T06:30:00-05:00",
               "timezone": "America/Lima",
-              "agendaOrder": 23,
+              "agendaOrder": 4,
               "servers": [
                 {
                   "name": "ESPN 5",
@@ -681,10 +777,38 @@
                   "active": true
                 }
               ],
-              "homeTeam": "Green Bay Packers",
-              "awayTeam": "Atlanta Falcons",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png/medium"
+              "image": "https://r2.thesportsdb.com/images/media/league/badge/pd74m91572093834.png/medium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "beisbol",
+      "name": "Béisbol",
+      "icon": "⚾",
+      "leagues": [
+        {
+          "name": "MLB",
+          "events": [
+            {
+              "title": "Boston Red Sox vs Chicago Cubs",
+              "league": "MLB",
+              "code": "MLB",
+              "time": "2026-09-25T18:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 24,
+              "servers": [
+                {
+                  "name": "ESPN 5",
+                  "url": "https://streamxhd.com/live1.php?stream=espn5",
+                  "active": true
+                }
+              ],
+              "homeTeam": "Boston Red Sox",
+              "awayTeam": "Chicago Cubs",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png/medium"
             }
           ]
         }
