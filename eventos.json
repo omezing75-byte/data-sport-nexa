@@ -1745,87 +1745,6 @@
           "background": "",
           "events": [
             {
-              "title": "Jamaica vs Guatemala",
-              "league": "Liga de Naciones CONCACAF",
-              "code": "NATIONESCAF",
-              "time": "2026-09-25T19:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 4,
-              "servers": [
-                {
-                  "name": "Vix +",
-                  "url": "https://streamxhd.com/live1.php?stream=vix1",
-                  "active": true,
-                  "channelLogo": ""
-                }
-              ],
-              "homeTeam": "Jamaica",
-              "awayTeam": "Guatemala",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Jamaica.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Guatemala.svg",
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "image": "",
-              "logo": "",
-              "duration": 130
-            },
-            {
-              "title": "Bonaire vs St. Kitts and Nevis",
-              "league": "Liga de Naciones CONCACAF",
-              "code": "NATIONESCAF",
-              "time": "2026-09-25T19:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 5,
-              "servers": [
-                {
-                  "name": "Vix +",
-                  "url": "https://streamxhd.com/live1.php?stream=vix2",
-                  "active": true,
-                  "channelLogo": ""
-                }
-              ],
-              "homeTeam": "Bonaire",
-              "awayTeam": "St. Kitts and Nevis",
-              "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Bonaire.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Saint-Kitts-and-Nevis.svg",
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "image": "",
-              "logo": "",
-              "duration": 130
-            },
-            {
-              "title": "Barbados vs St. Lucia",
-              "league": "Liga de Naciones CONCACAF",
-              "code": "NATIONESCAF",
-              "time": "2026-09-25T19:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 6,
-              "servers": [
-                {
-                  "name": "Vix +",
-                  "url": "https://streamxhd.com/live1.php?stream=vix3",
-                  "active": true,
-                  "channelLogo": ""
-                }
-              ],
-              "homeTeam": "Barbados",
-              "awayTeam": "St. Lucia",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Barbados.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Saint-Lucia.svg",
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "image": "",
-              "logo": "",
-              "duration": 130
-            },
-            {
               "title": "Honduras vs Surinam",
               "league": "Liga de Naciones CONCACAF",
               "code": "NATIONESCAF",
@@ -2033,6 +1952,41 @@
               "awayCountryCode": ""
             },
             {
+              "title": "Canadá vs Chile",
+              "league": "Amistoso Internacional",
+              "code": "FIFA",
+              "time": "2026-09-26 18:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 46,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Canadá",
+              "awayTeam": "Chile",
+              "homeLogo": "https://flagcdn.com/w320/ca.png",
+              "awayLogo": "https://flagcdn.com/w320/cl.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Eventos 2",
+                  "url": "https://streamxhd.com/live1.php?stream=evento2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
               "title": "México vs Colombia",
               "league": "Amistoso Internacional",
               "code": "FIFA",
@@ -2074,41 +2028,6 @@
                 {
                   "name": "Caracol TV",
                   "url": "https://streamxhd.com/live1.php?stream=evento1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Canadá vs Chile",
-              "league": "Amistoso Internacional",
-              "code": "FIFA",
-              "time": "2026-09-26T18:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 46,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Canadá",
-              "awayTeam": "Chile",
-              "homeLogo": "https://flagcdn.com/w320/ca.png",
-              "awayLogo": "https://flagcdn.com/w320/cl.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Eventos 1",
-                  "url": "https://streamxhd.com/live1.php?stream=evento2",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -2774,38 +2693,10 @@
           "flagUrl": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Boston Red Sox vs Chicago Cubs",
-              "league": "MLB",
-              "code": "MLB",
-              "time": "2026-09-25T18:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 2,
-              "servers": [
-                {
-                  "name": "ESPN 5",
-                  "url": "https://streamxhd.com/live1.php?stream=espn5",
-                  "active": true,
-                  "channelLogo": ""
-                }
-              ],
-              "homeTeam": "Boston Red Sox",
-              "awayTeam": "Chicago Cubs",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png/medium",
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": "",
-              "image": "",
-              "logo": "",
-              "duration": 210
-            }
-          ]
+          "events": []
         }
       ]
     }
   ],
-  "updated": "2026-09-25 21:05:18"
+  "updated": "2026-09-25 21:45:35"
 }
