@@ -31,7 +31,7 @@
       "leagues": [
         {
           "name": "F2 Bakú",
-          "logo": "",
+          "logo": "https://r2.thesportsdb.com/images/media/league/badge/6pfj0e1768918080.png/medium",
           "image": "",
           "background": "",
           "events": [
@@ -76,10 +76,45 @@
         },
         {
           "name": "F1",
-          "logo": "",
+          "logo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/medium",
           "image": "",
           "background": "",
           "events": [
+            {
+              "title": "GP Azerbaiyán - Carrera - Cámara On Board",
+              "league": "F1",
+              "code": "F1",
+              "time": "2026-09-26 06:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 19,
+              "image": "",
+              "logo": "",
+              "homeTeam": "",
+              "awayTeam": "",
+              "homeLogo": "",
+              "awayLogo": "",
+              "imageMode": "",
+              "duration": 150,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney5",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
             {
               "title": "GP Azerbaiyán - Carrera",
               "league": "F1",
@@ -249,41 +284,6 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": ""
-            },
-            {
-              "title": "GP Azerbaiyán - Carrera - Cámara On Board",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-09-26T06:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 19,
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
             }
           ],
           "flagCode": "",
@@ -298,7 +298,7 @@
       "leagues": [
         {
           "name": "Laver Cup",
-          "logo": "",
+          "logo": "https://r2.thesportsdb.com/images/media/league/badge/pd74m91572093834.png/medium",
           "image": "",
           "background": "",
           "events": [
@@ -1511,6 +1511,146 @@
               "awayCountryCode": ""
             },
             {
+              "title": "Austin vs San Diego",
+              "league": "MLS",
+              "code": "MLS",
+              "time": "2026-09-26 19:30",
+              "timezone": "America/Lima",
+              "agendaOrder": 57,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Austin",
+              "awayTeam": "San Diego",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/9y5mkc1679308384.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/7ka2xd1734621068.png/medium",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Apple TV Español",
+                  "url": "https://streamxhd.com/live1.php?stream=appletv7",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Dallas vs Los Angeles FC",
+              "league": "MLS",
+              "code": "MLS",
+              "time": "2026-09-26 19:30",
+              "timezone": "America/Lima",
+              "agendaOrder": 58,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Dallas",
+              "awayTeam": "Los Angeles FC",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/vxy8xy1602103187.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/7nbj2a1602103638.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Apple TV Español",
+                  "url": "https://streamxhd.com/live1.php?stream=appletv8",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Houston Dynamo vs Sporting KC",
+              "league": "MLS",
+              "code": "MLS",
+              "time": "2026-09-26 19:30",
+              "timezone": "America/Lima",
+              "agendaOrder": 59,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Houston Dynamo",
+              "awayTeam": "Sporting KC",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvz9dq1707631352.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqupxw1473536504.png/medium",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Apple TV Español",
+                  "url": "https://streamxhd.com/live1.php?stream=appletv9",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "SJ Earthquakes vs Portland Timbers",
+              "league": "MLS",
+              "code": "MLS",
+              "time": "2026-09-26 21:30",
+              "timezone": "America/Lima",
+              "agendaOrder": 67,
+              "image": "",
+              "logo": "",
+              "homeTeam": "SJ Earthquakes",
+              "awayTeam": "Portland Timbers",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/onpjpf1769273202.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/skm30j1557953559.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Apple TV Español",
+                  "url": "https://streamxhd.com/live1.php?stream=appletv14",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
               "title": "Atlanta United vs New York City",
               "league": "MLS",
               "code": "MLS",
@@ -1651,111 +1791,6 @@
               "awayCountryCode": ""
             },
             {
-              "title": "Austin vs San Diego",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-09-26T19:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 57,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Austin",
-              "awayTeam": "San Diego",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/9y5mkc1679308384.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/r1kbgy1564357684.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Dallas vs Los Angeles FC",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-09-26T19:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 58,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Dallas",
-              "awayTeam": "Los Angeles FC",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/pq52co1724083922.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/7nbj2a1602103638.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv8",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Houston Dynamo vs Sporting KC",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-09-26T19:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 59,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Houston Dynamo",
-              "awayTeam": "Sporting KC",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/yvz9dq1707631352.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/5hiuk71783137875.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv9",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Nashville SC vs Toronto FC",
               "league": "MLS",
               "code": "MLS",
@@ -1882,41 +1917,6 @@
                 {
                   "name": "Apple TV Español",
                   "url": "https://streamxhd.com/live1.php?stream=appletv13",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "SJ Earthquakes vs Portland Timbers",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-09-26T21:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 67,
-              "image": "",
-              "logo": "",
-              "homeTeam": "SJ Earthquakes",
-              "awayTeam": "Portland Timbers",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/onpjpf1769273202.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/skm30j1557953559.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv14",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -2294,6 +2294,51 @@
               "duration": 130
             },
             {
+              "title": "Guadalajara vs Querétaro",
+              "league": "Liga MX",
+              "code": "LIGAMX",
+              "time": "2026-09-26 18:07",
+              "timezone": "America/Lima",
+              "agendaOrder": 47,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Guadalajara",
+              "awayTeam": "Querétaro",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png/medium",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/024n481781543211.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Prime Video",
+                  "url": "https://streamxhd.com/live1.php?stream=amazon1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Telemundo",
+                  "url": "https://streamxhd.com/live1.php?stream=telemundo",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
               "title": "Cruz Azul vs Toluca",
               "league": "Liga MX",
               "code": "LIGAMX",
@@ -2335,51 +2380,6 @@
                 {
                   "name": "TUDN USA",
                   "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Guadalajara vs Querétaro",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-09-26T18:07:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 47,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Guadalajara",
-              "awayTeam": "Querétaro",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/qt2hk81757606691.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/024n481781543211.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Prime Video",
-                  "url": "https://streamxhd.com/live1.php?stream=amazon1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Telemundo",
-                  "url": "https://streamxhd.com/live1.php?stream=telemundo",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -2533,10 +2533,45 @@
       "leagues": [
         {
           "name": "ESPN Knockout",
-          "logo": "",
+          "logo": "https://static.vecteezy.com/system/resources/thumbnails/027/128/144/small/the-bright-red-boxing-gloves-collided-png.png",
           "image": "",
           "background": "",
           "events": [
+            {
+              "title": "Jorge Adriano Sayu vs Emiliano Aguillon Castro",
+              "league": "ESPN Knockout",
+              "code": "BOX",
+              "time": "2026-09-26 20:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 62,
+              "image": "",
+              "logo": "",
+              "homeTeam": "",
+              "awayTeam": "",
+              "homeLogo": "",
+              "awayLogo": "",
+              "imageMode": "",
+              "duration": 240,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "ESPN",
+                  "url": "https://streamxhd.com/live1.php?stream=espn",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
             {
               "title": "Gerome Warburton vs Nathan Heaney",
               "league": "ESPN Knockout",
@@ -2571,41 +2606,6 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": ""
-            },
-            {
-              "title": "Jorge Adriano Sayu vs Emiliano Aguillon Castro",
-              "league": "ESPN Knockout",
-              "code": "BOX",
-              "time": "2026-09-26T20:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 62,
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.com/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
             }
           ],
           "flagCode": "",
@@ -2620,17 +2620,17 @@
       "leagues": [
         {
           "name": "UFC",
-          "logo": "",
+          "logo": "https://r2.thesportsdb.com/images/media/league/badge/bewnz31717531281.png/medium",
           "image": "",
           "background": "",
           "events": [
             {
-              "title": "Preliminares",
+              "title": "Raul Rosas Jr. vs Raoni Barcelos",
               "league": "UFC",
               "code": "UFC",
-              "time": "2026-09-26T16:00:00-05:00",
+              "time": "2026-09-26 19:00",
               "timezone": "America/Lima",
-              "agendaOrder": 40,
+              "agendaOrder": 54,
               "image": "",
               "logo": "",
               "homeTeam": "",
@@ -2686,12 +2686,12 @@
               "awayCountryCode": ""
             },
             {
-              "title": "Raul Rosas Jr. vs Raoni Barcelos",
+              "title": "Preliminares",
               "league": "UFC",
               "code": "UFC",
-              "time": "2026-09-26T19:00:00-05:00",
+              "time": "2026-09-26T16:00:00-05:00",
               "timezone": "America/Lima",
-              "agendaOrder": 54,
+              "agendaOrder": 40,
               "image": "",
               "logo": "",
               "homeTeam": "",
@@ -2797,5 +2797,5 @@
       ]
     }
   ],
-  "updated": "2026-09-25 20:18:50"
+  "updated": "2026-09-25 20:24:02"
 }
