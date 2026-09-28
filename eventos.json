@@ -461,78 +461,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Fortaleza CEIF vs Deportes Tolima",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-09-27 18:05",
-              "timezone": "America/Lima",
-              "agendaOrder": 36,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Fortaleza CEIF",
-              "awayTeam": "Deportes Tolima",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/w1c6ix1769101721.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/4bscjt1766423328.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Deportivo Cali vs Rionegro Águilas",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-09-27T20:10:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 42,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Deportivo Cali",
-              "awayTeam": "Rionegro Águilas",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/isc2yu1580833286.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/6d7qas1703002070.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -541,53 +470,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Columbus Crew vs Inter Miami",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-09-27T18:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 33,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Columbus Crew",
-              "awayTeam": "Inter Miami",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/dzs8cp1629059854.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/m4it3e1602103647.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Apple TV English",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -599,146 +482,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Curazao vs Nicaragua",
-              "league": "Liga de Naciones CONCACAF",
-              "code": "NATIONESCAF",
-              "time": "2026-09-27 19:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 38,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Curazao",
-              "awayTeam": "Nicaragua",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Curacao.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Nicaragua.svg",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Vix +",
-                  "url": "https://streamxhd.com/live1.php?stream=vix4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Haití vs Costa Rica",
-              "league": "Liga de Naciones CONCACAF",
-              "code": "NATIONESCAF",
-              "time": "2026-09-27T18:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 34,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Haití",
-              "awayTeam": "Costa Rica",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/gml8wx1598135302.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/bss90a1637840151.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Vix +",
-                  "url": "https://streamxhd.com/live1.php?stream=vix2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Dominica vs Puerto Rico",
-              "league": "Liga de Naciones CONCACAF",
-              "code": "NATIONESCAF",
-              "time": "2026-09-27T19:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 37,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Dominica",
-              "awayTeam": "Puerto Rico",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/jor1nx1728748936.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/k5yg341718413296.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Vix +",
-                  "url": "https://streamxhd.com/live1.php?stream=vix3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Trinidad y Tobago vs República Dominicana",
-              "league": "Liga de Naciones CONCACAF",
-              "code": "NATIONESCAF",
-              "time": "2026-09-27T20:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 40,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Trinidad y Tobago",
-              "awayTeam": "República Dominicana",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/x0uq8u1598135774.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/tnvu6e1774758597.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Vix +",
-                  "url": "https://streamxhd.com/live1.php?stream=vix5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "St. Kitts and Nevis vs Granada",
               "league": "Liga de Naciones CONCACAF",
@@ -968,43 +711,7 @@
           "flagUrl": "https://flagcdn.com/w320/cl.png",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Deportes Santa Cruz vs O'Higgins",
-              "league": "Copa Chile",
-              "code": "CH",
-              "time": "2026-09-27 18:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 35,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Deportes Santa Cruz",
-              "awayTeam": "O'Higgins",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/15m53x1610649871.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/g44b1l1756095484.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports Chile",
-                  "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "cl",
-              "flagUrl": "https://flagcdn.com/w320/cl.png",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ]
+          "events": []
         },
         {
           "name": "Amistoso Internacional",
@@ -1091,98 +798,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "León vs Juárez",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-09-27T20:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 41,
-              "image": "",
-              "logo": "",
-              "homeTeam": "León",
-              "awayTeam": "Juárez",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/pc9gro1752393439.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/b4oy071567446336.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX One",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Necaxa vs América",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-09-27T22:10:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 43,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Necaxa",
-              "awayTeam": "América",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/tqdk9e1779772432.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/amy1xs1581857392.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX One",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX Deportes USA",
-                  "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -1394,71 +1010,6 @@
           "background": "",
           "events": [
             {
-              "title": "Denver Broncos vs Los Angeles Rams",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-09-27 19:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 39,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Denver Broncos",
-              "awayTeam": "Los Angeles Rams",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Universo",
-                  "url": "https://streamxhd.com/live1.php?stream=universo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Espn MX",
-                  "url": "https://streamxhd.com/live1.php?stream=espnmx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "SporTV 1",
-                  "url": "https://streamxhd.com/live1.php?stream=sporttvbr1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Chicago Bears vs Philadelphia Eagles",
               "league": "NFL",
               "code": "NFL",
@@ -1500,5 +1051,5 @@
       ]
     }
   ],
-  "updated": "2026-09-27 18:58:24"
+  "updated": "2026-09-28 05:54:08"
 }
