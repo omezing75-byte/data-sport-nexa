@@ -718,78 +718,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Japón vs Venezuela",
-              "league": "Amistoso Internacional",
-              "code": "FIFA",
-              "time": "2026-09-28T05:25:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 44,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Japón",
-              "awayTeam": "Venezuela",
-              "homeLogo": "https://flagcdn.com/w320/jp.png",
-              "awayLogo": "https://flagcdn.com/w320/ve.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Telemundo Deportes Ahora",
-                  "url": "https://streamxhd.com/live1.php?stream=evento1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Corea del Sur vs Uruguay",
-              "league": "Amistoso Internacional",
-              "code": "FIFA",
-              "time": "2026-09-28T06:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 45,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Corea del Sur",
-              "awayTeam": "Uruguay",
-              "homeLogo": "https://flagcdn.com/w320/kr.png",
-              "awayLogo": "https://flagcdn.com/w320/uy.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Eventos 2",
-                  "url": "https://streamxhd.com/live1.php?stream=evento2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -1051,5 +980,5 @@
       ]
     }
   ],
-  "updated": "2026-09-28 05:54:08"
+  "updated": "2026-09-28 10:55:22"
 }
