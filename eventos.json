@@ -93,76 +93,6 @@
           "background": "",
           "events": [
             {
-              "title": "Deportivo Pereira vs Santa Fe",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-09-29 15:30",
-              "timezone": "America/Lima",
-              "agendaOrder": 11,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Deportivo Pereira",
-              "awayTeam": "Santa Fe",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/elw7as1629122545.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/16vs771629122765.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Medellín vs Millonarios",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-09-29T20:05:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 17,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Medellín",
-              "awayTeam": "Millonarios",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/mzezh31783226830.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/mc73ix1629122587.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Atlético Nacional vs Junior",
               "league": "Liga Colombia",
               "code": "COL",
@@ -207,136 +137,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "EE. UU. vs Chile",
-              "league": "Amistoso Internacional",
-              "code": "FIFA",
-              "time": "2026-09-29 19:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 14,
-              "image": "",
-              "logo": "",
-              "homeTeam": "EE. UU.",
-              "awayTeam": "Chile",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/United-States.svg",
-              "awayLogo": "https://flagcdn.com/w320/cl.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney11",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Universo",
-                  "url": "https://streamxhd.com/live1.php?stream=universo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Max 1",
-                  "url": "https://streamxhd.com/live1.php?stream=max1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "México vs Perú",
-              "league": "Amistoso Internacional",
-              "code": "FIFA",
-              "time": "2026-09-29T20:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 16,
-              "image": "",
-              "logo": "",
-              "homeTeam": "México",
-              "awayTeam": "Perú",
-              "homeLogo": "https://flagcdn.com/w320/mx.png",
-              "awayLogo": "https://flagcdn.com/w320/pe.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "América TV",
-                  "url": "https://streamxhd.com/live1.php?stream=americatv",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Canal 5 MX",
-                  "url": "https://streamxhd.com/live1.php?stream=canal5mx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Prime Video",
-                  "url": "https://streamxhd.com/live1.php?stream=amazon1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Azteca 7",
-                  "url": "https://streamxhd.com/live1.php?stream=azteca7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Lituania vs Andorra",
               "league": "Amistoso Internacional",
@@ -457,41 +257,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "D. Puerto Montt vs Colo Colo",
-              "league": "Copa Chile",
-              "code": "CH",
-              "time": "2026-09-29 16:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 12,
-              "image": "",
-              "logo": "",
-              "homeTeam": "D. Puerto Montt",
-              "awayTeam": "Colo Colo",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/k1wdah1677471408.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/s41be31578347962.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports CL",
-                  "url": "https://streamxhd.com/live1.php?stream=tntsporschile",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "cl",
-              "flagUrl": "https://flagcdn.com/w320/cl.png",
-              "homeCountryCode": "cl",
-              "awayCountryCode": "cl"
-            },
             {
               "title": "Deportes Concepción vs O'Higgins",
               "league": "Copa Chile",
@@ -932,41 +697,6 @@
           "background": "",
           "events": [
             {
-              "title": "Boston Red Sox vs New York Yankees",
-              "league": "MLB",
-              "code": "MLB",
-              "time": "2026-09-29T18:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 13,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Boston Red Sox",
-              "awayTeam": "New York Yankees",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
-              "imageMode": "teams",
-              "duration": 210,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Chicago White Sox vs Houston Astros",
               "league": "MLB",
               "code": "MLB",
@@ -1110,48 +840,12 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "New York Rangers vs Boston Bruins",
-              "league": "NHL",
-              "code": "NHL",
-              "time": "2026-09-29 19:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 15,
-              "image": "",
-              "logo": "",
-              "homeTeam": "New York Rangers",
-              "awayTeam": "Boston Bruins",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/ts2nhq1763454676.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/b1r86e1720023232.png",
-              "imageMode": "teams",
-              "duration": 160,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.com/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         }
       ]
     }
   ],
-  "updated": "2026-09-29 16:45:08"
+  "updated": "2026-09-30 09:04:31"
 }
