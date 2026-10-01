@@ -249,41 +249,6 @@
           "background": "",
           "events": [
             {
-              "title": "Atlético Nacional vs Junior",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-09-30T20:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 16,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Atlético Nacional",
-              "awayTeam": "Junior",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/efl4o41576157720.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/zzarls1576161686.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Inter Bogotá vs Once Caldas",
               "league": "Liga Colombia",
               "code": "COL",
@@ -328,116 +293,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Argentina vs Bolivia",
-              "league": "Amistoso Internacional",
-              "code": "FIFA",
-              "time": "2026-09-30 19:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 15,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Argentina",
-              "awayTeam": "Bolivia",
-              "homeLogo": "https://flagcdn.com/w320/ar.png",
-              "awayLogo": "https://flagcdn.com/w320/bo.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TyC Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=tycsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Dsports",
-                  "url": "https://streamxhd.com/live1.php?stream=dsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Vix +",
-                  "url": "https://streamxhd.com/live1.php?stream=vix1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "M Liga Campeones",
-                  "url": "https://streamxhd.com/live1.php?stream=mligacampeones",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "SporTV 1",
-                  "url": "https://streamxhd.com/live1.php?stream=sporttvbr1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Japón vs Ecuador",
-              "league": "Amistoso Internacional",
-              "code": "FIFA",
-              "time": "2026-10-01T05:10:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 18,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Japón",
-              "awayTeam": "Ecuador",
-              "homeLogo": "https://flagcdn.com/w320/jp.png",
-              "awayLogo": "https://flagcdn.com/w320/ec.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Eventos 1",
-                  "url": "https://streamxhd.com/live1.php?stream=evento1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Cruz Azul vs América",
               "league": "Amistoso Internacional",
@@ -708,41 +563,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "New York RB vs St. Louis City",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-09-30T18:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 14,
-              "image": "",
-              "logo": "",
-              "homeTeam": "New York RB",
-              "awayTeam": "St. Louis City",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/9rwpj71738560198.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ntufpz1690267770.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Seattle Sounders FC vs Sporting KC",
               "league": "MLS",
@@ -1438,78 +1258,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Atlanta Dream vs Washington Mystics",
-              "league": "WNBA",
-              "code": "WNBA",
-              "time": "2026-09-30T18:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 13,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Atlanta Dream",
-              "awayTeam": "Washington Mystics",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/wtqjpk1702757695.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/2n9gep1552586413.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Golden State Valkyries vs Dallas Wings",
-              "league": "WNBA",
-              "code": "WNBA",
-              "time": "2026-09-30T20:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 17,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Golden State Valkyries",
-              "awayTeam": "Dallas Wings",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/24p2fj1738315525.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/vg11pw1552585970.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         }
@@ -1584,5 +1333,5 @@
       "leagues": []
     }
   ],
-  "updated": "2026-09-30 20:31:08"
+  "updated": "2026-10-01 08:53:03"
 }
