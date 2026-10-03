@@ -239,51 +239,6 @@
           "background": "",
           "events": [
             {
-              "title": "India vs Brazil",
-              "league": "Amistoso Internacional",
-              "code": "FIFA",
-              "time": "2026-10-03 09:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 3,
-              "image": "",
-              "logo": "",
-              "homeTeam": "India",
-              "awayTeam": "Brazil",
-              "homeLogo": "https://flagcdn.com/w320/in.png",
-              "awayLogo": "https://flagcdn.com/w320/br.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "M Liga de Campeones",
-                  "url": "https://streamxhd.com/live1.php?stream=mligacampeones",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Sportv 1",
-                  "url": "https://streamxhd.com/live1.php?stream=sporttvbr1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "in",
-              "awayCountryCode": "br"
-            },
-            {
               "title": "EE. UU. vs México",
               "league": "Amistoso Internacional",
               "code": "FIFA",
@@ -484,76 +439,6 @@
           "background": "",
           "events": [
             {
-              "title": "Albacete vs Eibar",
-              "league": "LaLiga SmartBank",
-              "code": "ES",
-              "time": "2026-10-03T07:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 1,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Albacete",
-              "awayTeam": "Eibar",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/17oqja1616436316.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/hccive1680933599.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "LaLiga Hypermotion",
-                  "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Almería vs Burgos",
-              "league": "LaLiga SmartBank",
-              "code": "ES",
-              "time": "2026-10-03T09:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 5,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Almería",
-              "awayTeam": "Burgos",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/yswsww1473503818.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/79h3ul1708150894.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "LaLiga Hypermotion",
-                  "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Cádiz vs Leganés",
               "league": "LaLiga SmartBank",
               "code": "ES",
@@ -633,41 +518,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Finlandia vs Albania",
-              "league": "UEFA Nations League",
-              "code": "NATIONSLEAGUE",
-              "time": "2026-10-03T08:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 2,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Finlandia",
-              "awayTeam": "Albania",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/wgvfd21730303889.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/vonacg1717365654.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Islandia vs Bulgaria",
               "league": "UEFA Nations League",
@@ -963,41 +813,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Liverpool vs Progreso",
-              "league": "Liga Uruguay",
-              "code": "URU",
-              "time": "2026-10-03 09:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 4,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Liverpool",
-              "awayTeam": "Progreso",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/0xat6f1678717839.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/oh4ksb1621865842.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney6",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Albion vs Defensor Sporting",
               "league": "Liga Uruguay",
@@ -1550,5 +1365,5 @@
       "leagues": []
     }
   ],
-  "updated": "2026-10-03 08:14:06"
+  "updated": "2026-10-03 13:05:49"
 }
