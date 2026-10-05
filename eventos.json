@@ -48,111 +48,6 @@
           "background": "",
           "events": [
             {
-              "title": "Deportivo Pasto vs Fortaleza CEIF",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-10-04 14:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 9,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Deportivo Pasto",
-              "awayTeam": "Fortaleza CEIF",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/zlmyh31576159327.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/w1c6ix1769101721.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Inter Bogotá vs Once Caldas",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-10-04 16:05",
-              "timezone": "America/Lima",
-              "agendaOrder": 15,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Inter Bogotá",
-              "awayTeam": "Once Caldas",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/njfros1678411321.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/nuh9kd1778085916.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "co",
-              "flagUrl": "https://flagcdn.com/w320/co.png",
-              "homeCountryCode": "co",
-              "awayCountryCode": "co"
-            },
-            {
-              "title": "Cúcuta Deportivo vs Deportivo Pereira",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-10-04 16:05",
-              "timezone": "America/Lima",
-              "agendaOrder": 16,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Cúcuta Deportivo",
-              "awayTeam": "Deportivo Pereira",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/petg3h1778087075.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/elw7as1629122545.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=winsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Atlético Bucaramanga vs Junior",
               "league": "Liga Colombia",
               "code": "COL",
@@ -633,41 +528,6 @@
           "background": "",
           "events": [
             {
-              "title": "Cerro vs Wanderers",
-              "league": "Primera División",
-              "code": "URU",
-              "time": "2026-10-04 14:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 10,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Cerro",
-              "awayTeam": "Wanderers",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/wtuxsq1464887392.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/3i6k5s1766114857.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney17",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Racing vs Peñarol",
               "league": "Primera División",
               "code": "URU",
@@ -747,96 +607,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Talleres Córdoba vs Belgrano",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-10-04T15:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 11,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Talleres Córdoba",
-              "awayTeam": "Belgrano",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/7hum2t1769310938.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN Premium",
-                  "url": "https://streamxhd.com/live1.php?stream=espnpremium",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney18",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Vix +",
-                  "url": "https://streamxhd.com/live1.php?stream=vix2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Argentinos Juniors vs Tigre",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-10-04T17:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 18,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Argentinos Juniors",
-              "awayTeam": "Tigre",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/uqfjuo1769234850.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN Premium",
-                  "url": "https://streamxhd.com/live1.php?stream=espnpremium",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Estudiantes Río Cuarto vs Racing Club",
               "league": "Liga Profesional",
@@ -1071,7 +841,7 @@
               "title": "Pachuca vs Toluca",
               "league": "Liga MX Femenil",
               "code": "MEX",
-              "time": "2026-10-04T18:06:00-05:00",
+              "time": "2026-10-04 20:06",
               "timezone": "America/Lima",
               "agendaOrder": 22,
               "image": "",
@@ -1112,41 +882,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Puerto Rico vs Islas Caimán",
-              "league": "Liga de Naciones de la CONCACAF",
-              "code": "NATIONESCAF",
-              "time": "2026-10-04 17:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 17,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Puerto Rico",
-              "awayTeam": "Islas Caimán",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/k5yg341718413296.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/i7n45x1600955238.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Vix",
-                  "url": "https://streamxhd.com/live1.php?stream=vix1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Costa Rica vs Haití",
               "league": "Liga de Naciones de la CONCACAF",
@@ -1826,76 +1561,6 @@
           "background": "",
           "events": [
             {
-              "title": "Seattle Seahawks vs Los Angeles Chargers",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-10-04T15:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 12,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Seattle Seahawks",
-              "awayTeam": "Los Angeles Chargers",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 5",
-                  "url": "https://streamxhd.com/live1.php?stream=espn5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "San Francisco 49ers vs Denver Broncos",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-10-04T15:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 13,
-              "image": "",
-              "logo": "",
-              "homeTeam": "San Francisco 49ers",
-              "awayTeam": "Denver Broncos",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 7",
-                  "url": "https://streamxhd.com/live1.php?stream=espn7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Carolina Panthers vs Detroit Lions",
               "league": "NFL",
               "code": "NFL",
@@ -1978,5 +1643,5 @@
       "leagues": []
     }
   ],
-  "updated": "2026-10-04 16:25:36"
+  "updated": "2026-10-04 19:27:07"
 }
