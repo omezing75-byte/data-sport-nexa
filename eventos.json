@@ -48,41 +48,6 @@
           "background": "",
           "events": [
             {
-              "title": "Atlético Bucaramanga vs Junior",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-10-04T18:10:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 23,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Atlético Bucaramanga",
-              "awayTeam": "Junior",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/rtjs411576157184.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/zzarls1576161686.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Llaneros vs América de Cali",
               "league": "Liga Colombia",
               "code": "COL",
@@ -528,41 +493,6 @@
           "background": "",
           "events": [
             {
-              "title": "Racing vs Peñarol",
-              "league": "Primera División",
-              "code": "URU",
-              "time": "2026-10-04T17:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 19,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Racing",
-              "awayTeam": "Peñarol",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/rtsusv1473541178.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/uuwpux1473541171.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney19",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Nacional vs Torque",
               "league": "Primera División",
               "code": "URU",
@@ -802,41 +732,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Chivas Guadalajara vs FC Juárez",
-              "league": "Liga MX Femenil",
-              "code": "MEX",
-              "time": "2026-10-04 18:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 14,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Chivas Guadalajara",
-              "awayTeam": "FC Juárez",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/ickwhs1626631485.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/b4oy071567446336.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX One 4",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Pachuca vs Toluca",
               "league": "Liga MX Femenil",
@@ -1643,5 +1538,5 @@
       "leagues": []
     }
   ],
-  "updated": "2026-10-04 19:27:07"
+  "updated": "2026-10-04 20:52:12"
 }
