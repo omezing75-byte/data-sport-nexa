@@ -48,41 +48,6 @@
           "background": "",
           "events": [
             {
-              "title": "Llaneros vs América de Cali",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-10-04T20:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 28,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Llaneros",
-              "awayTeam": "América de Cali",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/q1w56m1615832197.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/lwxcn71576156105.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Medellín vs Santa Fe",
               "league": "Liga Colombia",
               "code": "COL",
@@ -126,43 +91,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Guadalajara vs América",
-              "league": "Amistoso Internacional",
-              "code": "FIFA",
-              "time": "2026-10-04 20:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 27,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Guadalajara",
-              "awayTeam": "América",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/mp1box1593452087.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/amy1xs1581857392.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Telemundo",
-                  "url": "https://streamxhd.com/live1.php?stream=telemundo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "es",
-              "awayCountryCode": "mx"
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -538,41 +467,6 @@
           "background": "",
           "events": [
             {
-              "title": "Estudiantes Río Cuarto vs Racing Club",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-10-04T19:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 26,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Estudiantes Río Cuarto",
-              "awayTeam": "Racing Club",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/391thp1775793121.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=tntsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Deportivo Riestra vs Central Córdoba SdE",
               "league": "Liga Profesional",
               "code": "AR",
@@ -731,43 +625,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Pachuca vs Toluca",
-              "league": "Liga MX Femenil",
-              "code": "MEX",
-              "time": "2026-10-04 20:06",
-              "timezone": "America/Lima",
-              "agendaOrder": 22,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Pachuca",
-              "awayTeam": "Toluca",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/k9duyw1747334895.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/y64wy91523913186.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX One 4",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -777,76 +635,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Costa Rica vs Haití",
-              "league": "Liga de Naciones de la CONCACAF",
-              "code": "NATIONESCAF",
-              "time": "2026-10-04T19:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 24,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Costa Rica",
-              "awayTeam": "Haití",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/bss90a1637840151.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/gml8wx1598135302.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Vix",
-                  "url": "https://streamxhd.com/live1.php?stream=vix2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Nicaragua vs República Dominicana",
-              "league": "Liga de Naciones de la CONCACAF",
-              "code": "NATIONESCAF",
-              "time": "2026-10-04T21:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 29,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Nicaragua",
-              "awayTeam": "República Dominicana",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/up3xrd1718413389.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/tnvu6e1774758597.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Vix",
-                  "url": "https://streamxhd.com/live1.php?stream=vix3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Cuba vs San Cristóbal y Nieves",
               "league": "Liga de Naciones de la CONCACAF",
@@ -1194,76 +982,6 @@
           "background": "",
           "events": [
             {
-              "title": "Jazz vs Nuggets",
-              "league": "NBA Pretemporada",
-              "code": "NBA",
-              "time": "2026-10-04 18:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 20,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Jazz",
-              "awayTeam": "Nuggets",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/trct8w1778198868.png/medium",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.com/live1.php?stream=nba1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Warriors vs Clippers",
-              "league": "NBA Pretemporada",
-              "code": "NBA",
-              "time": "2026-10-04T18:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 21,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Warriors",
-              "awayTeam": "Clippers",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.com/live1.php?stream=nba2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Los Angeles Lakers vs Sacramento Kings",
               "league": "NBA Pretemporada",
               "code": "NBA",
@@ -1456,41 +1174,6 @@
           "background": "",
           "events": [
             {
-              "title": "Carolina Panthers vs Detroit Lions",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-10-04T19:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 25,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Carolina Panthers",
-              "awayTeam": "Detroit Lions",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "New Orleans Saints vs Atlanta Falcons",
               "league": "NFL",
               "code": "NFL",
@@ -1538,5 +1221,5 @@
       "leagues": []
     }
   ],
-  "updated": "2026-10-04 20:52:12"
+  "updated": "2026-10-05 08:19:03"
 }
