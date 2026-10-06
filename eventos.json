@@ -42,15 +42,6 @@
       "icon": "⚽",
       "leagues": [
         {
-          "name": "Liga Colombia",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Amistoso Internacional",
           "logo": "",
           "image": "",
@@ -108,76 +99,6 @@
                 {
                   "name": "Vix",
                   "url": "https://streamxhd.com/live1.php?stream=vix2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "India vs Uruguay",
-              "league": "Amistoso Internacional",
-              "code": "FIFA",
-              "time": "2026-10-06T09:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 29,
-              "image": "",
-              "logo": "",
-              "homeTeam": "India",
-              "awayTeam": "Uruguay",
-              "homeLogo": "https://flagcdn.com/w320/in.png",
-              "awayLogo": "https://flagcdn.com/w320/uy.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Eventos 1",
-                  "url": "https://streamxhd.com/live1.php?stream=evento1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Jordania vs Venezuela",
-              "league": "Amistoso Internacional",
-              "code": "FIFA",
-              "time": "2026-10-06T12:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 31,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Jordania",
-              "awayTeam": "Venezuela",
-              "homeLogo": "https://flagcdn.com/w320/jo.png",
-              "awayLogo": "https://flagcdn.com/w320/ve.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Eventos 2",
-                  "url": "https://streamxhd.com/live1.php?stream=evento2",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -326,51 +247,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Kazajistán vs Islas Feroe",
-              "league": "Liga de Naciones de la UEFA",
-              "code": "NATIONSLEAGUE",
-              "time": "2026-10-06 09:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 30,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Kazajistán",
-              "awayTeam": "Islas Feroe",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Kazakhstan.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Faroe-Islands.svg",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Luxemburgo vs Bulgaria",
               "league": "Liga de Naciones de la UEFA",
@@ -721,33 +597,6 @@
           "flagUrl": ""
         },
         {
-          "name": "Primera División",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga Profesional",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga de Naciones de la CONCACAF",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Copa de la Liga",
           "logo": "",
           "image": "",
@@ -980,33 +829,13 @@
       "id": "baseball",
       "name": "Baseball",
       "icon": "⚾",
-      "leagues": [
-        {
-          "name": "MLB",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
+      "leagues": []
     },
     {
       "id": "nfl",
       "name": "American Football",
       "icon": "🏈",
-      "leagues": [
-        {
-          "name": "NFL",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
+      "leagues": []
     },
     {
       "id": "basketball",
@@ -1218,5 +1047,5 @@
       ]
     }
   ],
-  "updated": "2026-10-06 08:28:40"
+  "updated": "2026-10-06 15:04:02"
 }
