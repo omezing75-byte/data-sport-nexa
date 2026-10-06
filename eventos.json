@@ -46,43 +46,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Medellín vs Santa Fe",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-10-05 19:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 18,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Medellín",
-              "awayTeam": "Santa Fe",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/mzezh31783226830.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/16vs771629122765.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -761,43 +725,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Nacional vs Torque",
-              "league": "Primera División",
-              "code": "URU",
-              "time": "2026-10-05 18:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 17,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Nacional",
-              "awayTeam": "Torque",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/yxi2wi1736387630.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/v7urjn1580234584.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney10",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -806,123 +734,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Vélez Sarsfield vs Platense",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-10-05T17:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 14,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Vélez Sarsfield",
-              "awayTeam": "Platense",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/jo98m71517769587.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=tntsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Estudiantes vs Gimnasia Mendoza",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-10-05T17:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 15,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Estudiantes",
-              "awayTeam": "Gimnasia Mendoza",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/pf08dq1760634366.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/h11mlf1677636958.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Espn Premiun",
-                  "url": "https://streamxhd.com/live1.php?stream=espnpremiun",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney9",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Banfield vs Rosario Central",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-10-05T19:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 25,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Banfield",
-              "awayTeam": "Rosario Central",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/c2ea011775756104.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/y6q1ds1769660256.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Espn Premiun",
-                  "url": "https://streamxhd.com/live1.php?stream=espnpremiun",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -931,113 +743,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Martinica vs El Salvador",
-              "league": "Liga de Naciones de la CONCACAF",
-              "code": "NATIONESCAF",
-              "time": "2026-10-05 17:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 16,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Martinica",
-              "awayTeam": "El Salvador",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/eka0vx1728750119.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/gjc22e1598134820.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Vix",
-                  "url": "https://streamxhd.com/live1.php?stream=vix2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Guatemala vs Surinam",
-              "league": "Liga de Naciones de la CONCACAF",
-              "code": "NATIONESCAF",
-              "time": "2026-10-05T19:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 19,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Guatemala",
-              "awayTeam": "Surinam",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/fvq74e1749157510.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/fpwsu31600976268.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Vix",
-                  "url": "https://streamxhd.com/live1.php?stream=vix3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Honduras vs Jamaica",
-              "league": "Liga de Naciones de la CONCACAF",
-              "code": "NATIONESCAF",
-              "time": "2026-10-05T21:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 27,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Honduras",
-              "awayTeam": "Jamaica",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/wuu4fp1718413719.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/v6mk4r1594321722.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Vix",
-                  "url": "https://streamxhd.com/live1.php?stream=vix4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -1176,7 +882,7 @@
               "title": "Colo-Colo vs Puerto Montt",
               "league": "Copa Chile",
               "code": "CH",
-              "time": "2026-10-06T18:30:00-05:00",
+              "time": "2026-10-06 18:30",
               "timezone": "America/Lima",
               "agendaOrder": 48,
               "image": "",
@@ -1202,8 +908,8 @@
                   "channelLogo": ""
                 }
               ],
-              "flagCode": "",
-              "flagUrl": "",
+              "flagCode": "cl",
+              "flagUrl": "https://flagcdn.com/w320/cl.png",
               "homeCountryCode": "",
               "awayCountryCode": ""
             }
@@ -1280,78 +986,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Chicago White Sox vs Cleveland Guardians",
-              "league": "MLB",
-              "code": "MLB",
-              "time": "2026-10-05T16:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 13,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Chicago White Sox",
-              "awayTeam": "Cleveland Guardians",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/cws.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/cle.png",
-              "imageMode": "teams",
-              "duration": 210,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.com/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "New York Yankees vs Tampa Bay Rays",
-              "league": "MLB",
-              "code": "MLB",
-              "time": "2026-10-05T19:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 20,
-              "image": "",
-              "logo": "",
-              "homeTeam": "New York Yankees",
-              "awayTeam": "Tampa Bay Rays",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png",
-              "imageMode": "teams",
-              "duration": 210,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.com/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         }
@@ -1367,43 +1002,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "New Orleans Saints vs Atlanta Falcons",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-10-05 19:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 24,
-              "image": "",
-              "logo": "",
-              "homeTeam": "New Orleans Saints",
-              "awayTeam": "Atlanta Falcons",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         }
@@ -1420,181 +1019,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Memphis Grizzlies vs Atlanta Hawks",
-              "league": "NBA Pretemporada",
-              "code": "NBA",
-              "time": "2026-10-05 18:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 21,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Memphis Grizzlies",
-              "awayTeam": "Atlanta Hawks",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.com/live1.php?stream=nba1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Phoenix Suns vs Detroit Pistons",
-              "league": "NBA Pretemporada",
-              "code": "NBA",
-              "time": "2026-10-05 18:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 22,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Phoenix Suns",
-              "awayTeam": "Detroit Pistons",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.com/live1.php?stream=nba2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "New York Knicks vs Philadelphia 76ers",
-              "league": "NBA Pretemporada",
-              "code": "NBA",
-              "time": "2026-10-05 18:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 23,
-              "image": "",
-              "logo": "",
-              "homeTeam": "New York Knicks",
-              "awayTeam": "Philadelphia 76ers",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.com/live1.php?stream=nba3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Minnesota Timberwolves vs Milwaukee Bucks",
-              "league": "NBA Pretemporada",
-              "code": "NBA",
-              "time": "2026-10-05 19:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 26,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Minnesota Timberwolves",
-              "awayTeam": "Milwaukee Bucks",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.com/live1.php?stream=nba4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Los Angeles Lakers vs Sacramento Kings",
-              "league": "NBA Pretemporada",
-              "code": "NBA",
-              "time": "2026-10-05 21:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 28,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Los Angeles Lakers",
-              "awayTeam": "Sacramento Kings",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.com/live1.php?stream=nba5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Denver Nuggets vs Utah Jazz",
               "league": "NBA Pretemporada",
@@ -1794,5 +1218,5 @@
       ]
     }
   ],
-  "updated": "2026-10-05 19:16:27"
+  "updated": "2026-10-06 08:28:40"
 }
