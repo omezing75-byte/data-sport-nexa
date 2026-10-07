@@ -346,6 +346,365 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": ""
+            },
+            {
+              "title": "Athletico-PR vs Atlético Mineiro",
+              "league": "Brasileirão",
+              "code": "BRA",
+              "time": "2026-10-08 18:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 17,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Athletico-PR",
+              "awayTeam": "Atlético Mineiro",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Premiere 3",
+                  "url": "https://streamxhd.com/live1.php?stream=premiere3",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [
+                    "Portugués"
+                  ],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "L1 Max ",
+                  "url": "https://streamxhd.com/live1.php?stream=l1max",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [
+                    "Español"
+                  ],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Santos vs Flamengo",
+              "league": "Brasileirão",
+              "code": "BRA",
+              "time": "2026-10-08T17:30:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 16,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Santos",
+              "awayTeam": "Flamengo",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/j8xk9g1679447486.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Premiere 1",
+                  "url": "https://streamxhd.com/live1.php?stream=premiere1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Fluminense vs Coritiba",
+              "league": "Brasileirão",
+              "code": "BRA",
+              "time": "2026-10-08T19:30:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 25,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Fluminense",
+              "awayTeam": "Coritiba",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/stvvwp1473538082.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ywwsyu1473538050.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Premiere 5",
+                  "url": "https://streamxhd.com/live1.php?stream=premiere5",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Palmeiras vs Bahia",
+              "league": "Brasileirão",
+              "code": "BRA",
+              "time": "2026-10-08T19:30:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 26,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Palmeiras",
+              "awayTeam": "Bahia",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/vsqwqp1473538105.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/xuvtsv1473539308.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Premiere 2",
+                  "url": "https://streamxhd.com/live1.php?stream=premiere2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Liga 1",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "CD Moquegua vs Cienciano",
+              "league": "Liga 1",
+              "code": "PE",
+              "time": "2026-10-08T13:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 14,
+              "image": "",
+              "logo": "",
+              "homeTeam": "CD Moquegua",
+              "awayTeam": "Cienciano",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/et9aaf1768236511.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/yla9k51734242161.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "L1 Max",
+                  "url": "https://streamxhd.com/live1.php?stream=l1max",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Atlético Grau vs CD Los Chankas",
+              "league": "Liga 1",
+              "code": "PE",
+              "time": "2026-10-08T15:30:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 15,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Atlético Grau",
+              "awayTeam": "CD Los Chankas",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/ksemw91678411736.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/rc0rvv1706347088.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "L1 Max",
+                  "url": "https://streamxhd.com/live1.php?stream=l1max",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Liga Colombia",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Atlético Nacional vs Deportes Tolima",
+              "league": "Liga Colombia",
+              "code": "COL",
+              "time": "2026-10-08T18:05:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 19,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Atlético Nacional",
+              "awayTeam": "Deportes Tolima",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/efl4o41576157720.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/4bscjt1766423328.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Win Sports +",
+                  "url": "https://streamxhd.com/live1.php?stream=winplus",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Fortaleza CEIF vs Millonarios",
+              "league": "Liga Colombia",
+              "code": "COL",
+              "time": "2026-10-08T20:10:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 28,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Fortaleza CEIF",
+              "awayTeam": "Millonarios",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/w1c6ix1769101721.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/mc73ix1629122587.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Win Sports +",
+                  "url": "https://streamxhd.com/live1.php?stream=winplus",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Liga de Expansión MX",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Alebrijes de Oaxaca vs Correcaminos UAT",
+              "league": "Liga de Expansión MX",
+              "code": "MEX",
+              "time": "2026-10-08T20:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 27,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Alebrijes de Oaxaca",
+              "awayTeam": "Correcaminos UAT",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/xkxjzy1754018543.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ivjbcy1655568374.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
             }
           ],
           "flagCode": "",
@@ -375,7 +734,53 @@
       "id": "nfl",
       "name": "American Football",
       "icon": "🏈",
-      "leagues": []
+      "leagues": [
+        {
+          "name": "NFL",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Dallas Cowboys vs Tampa Bay Buccaneers",
+              "league": "NFL",
+              "code": "NFL",
+              "time": "2026-10-08T19:15:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 24,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Dallas Cowboys",
+              "awayTeam": "Tampa Bay Buccaneers",
+              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png",
+              "imageMode": "teams",
+              "duration": 180,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "ESPN 5",
+                  "url": "https://streamxhd.com/live1.php?stream=espn5",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        }
+      ]
     },
     {
       "id": "basketball",
@@ -562,6 +967,226 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": ""
+            },
+            {
+              "title": "Sacramento Kings vs Los Angeles Lakers",
+              "league": "NBA Pretemporada",
+              "code": "NBA",
+              "time": "2026-10-08 21:30",
+              "timezone": "America/Lima",
+              "agendaOrder": 29,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Sacramento Kings",
+              "awayTeam": "Los Angeles Lakers",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+              "imageMode": "teams",
+              "duration": 180,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "ESPN 4",
+                  "url": "https://streamxhd.com/live1.php?stream=espn4",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "NBA League Pass",
+                  "url": "https://streamxhd.com/live1.php?stream=nba6",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Boston Celtics vs Cleveland Cavaliers",
+              "league": "NBA Pretemporada",
+              "code": "NBA",
+              "time": "2026-10-08T18:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 18,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Boston Celtics",
+              "awayTeam": "Cleveland Cavaliers",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
+              "imageMode": "teams",
+              "duration": 180,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "NBA League Pass",
+                  "url": "https://streamxhd.com/live1.php?stream=nba1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "New Orleans Pelicans vs Miami Heat",
+              "league": "NBA Pretemporada",
+              "code": "NBA",
+              "time": "2026-10-08T18:30:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 20,
+              "image": "",
+              "logo": "",
+              "homeTeam": "New Orleans Pelicans",
+              "awayTeam": "Miami Heat",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
+              "imageMode": "teams",
+              "duration": 180,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "NBA League Pass",
+                  "url": "https://streamxhd.com/live1.php?stream=nba2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Philadelphia 76ers vs Brooklyn Nets",
+              "league": "NBA Pretemporada",
+              "code": "NBA",
+              "time": "2026-10-08T18:30:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 21,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Philadelphia 76ers",
+              "awayTeam": "Brooklyn Nets",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
+              "imageMode": "teams",
+              "duration": 180,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "NBA League Pass",
+                  "url": "https://streamxhd.com/live1.php?stream=nba3",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Washington Wizards vs New York Knicks",
+              "league": "NBA Pretemporada",
+              "code": "NBA",
+              "time": "2026-10-08T18:30:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 22,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Washington Wizards",
+              "awayTeam": "New York Knicks",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
+              "imageMode": "teams",
+              "duration": 180,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "NBA League Pass",
+                  "url": "https://streamxhd.com/live1.php?stream=nba4",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Atlanta Hawks vs San Antonio Spurs",
+              "league": "NBA Pretemporada",
+              "code": "NBA",
+              "time": "2026-10-08T19:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 23,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Atlanta Hawks",
+              "awayTeam": "San Antonio Spurs",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
+              "imageMode": "teams",
+              "duration": 180,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "NBA League Pass",
+                  "url": "https://streamxhd.com/live1.php?stream=nba5",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
             }
           ],
           "flagCode": "",
@@ -576,5 +1201,5 @@
       "leagues": []
     }
   ],
-  "updated": "2026-10-07 09:37:34"
+  "updated": "2026-10-07 17:49:11"
 }
