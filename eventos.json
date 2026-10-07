@@ -48,110 +48,10 @@
           "background": "",
           "events": [
             {
-              "title": "Argentina vs Benín",
-              "league": "Amistoso Internacional",
-              "code": "FIFA",
-              "time": "2026-10-06 18:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 46,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Argentina",
-              "awayTeam": "Benín",
-              "homeLogo": "https://flagcdn.com/w320/ar.png",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Benin.svg",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Dsports Global",
-                  "url": "https://streamxhd.click/channel/?id=dsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Dsports",
-                  "url": "https://streamxhd.com/live1.php?stream=dsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TyC Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=tycsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Vix",
-                  "url": "https://streamxhd.com/live1.php?stream=vix2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Colombia vs Perú",
-              "league": "Amistoso Internacional",
-              "code": "FIFA",
-              "time": "2026-10-06T18:45:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 49,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Colombia",
-              "awayTeam": "Perú",
-              "homeLogo": "https://flagcdn.com/w320/co.png",
-              "awayLogo": "https://flagcdn.com/w320/pe.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "América TV",
-                  "url": "https://streamxhd.com/live1.php?stream=americatv",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Estados Unidos vs Canadá",
               "league": "Amistoso Internacional",
               "code": "FIFA",
-              "time": "2026-10-06T19:00:00-05:00",
+              "time": "2026-10-06 19:00",
               "timezone": "America/Lima",
               "agendaOrder": 50,
               "image": "",
@@ -255,43 +155,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Alianza Atlético vs Sport Boys A.",
-              "league": "Copa de la Liga",
-              "code": "PE",
-              "time": "2026-10-06 15:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 32,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Alianza Atlético",
-              "awayTeam": "Sport Boys A.",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/wu4g171615130421.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/uybvv01580040173.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Eventos 1",
-                  "url": "https://streamxhd.com/live1.php?stream=evento1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -300,78 +164,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Sportivo Ameliano vs Rubio Ñú",
-              "league": "Primera División de Paraguay",
-              "code": "LIGAPY",
-              "time": "2026-10-06T15:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 44,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Sportivo Ameliano",
-              "awayTeam": "Rubio Ñú",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/g16ua11611773197.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/7ekav81786254985.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Tigo Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=tigo1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Olimpia vs Nacional Asunción",
-              "league": "Primera División de Paraguay",
-              "code": "LIGAPY",
-              "time": "2026-10-06T17:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 45,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Olimpia",
-              "awayTeam": "Nacional Asunción",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/iabxfn1774236701.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/uv7z921579989369.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Tigo Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=tigo1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -380,43 +173,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Colo-Colo vs Puerto Montt",
-              "league": "Copa Chile",
-              "code": "CH",
-              "time": "2026-10-06 18:30",
-              "timezone": "America/Lima",
-              "agendaOrder": 48,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Colo-Colo",
-              "awayTeam": "Puerto Montt",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/s41be31578347962.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/k1wdah1677471408.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports Chile",
-                  "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "cl",
-              "flagUrl": "https://flagcdn.com/w320/cl.png",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -701,5 +458,5 @@
       ]
     }
   ],
-  "updated": "2026-10-06 16:38:44"
+  "updated": "2026-10-06 20:55:39"
 }
