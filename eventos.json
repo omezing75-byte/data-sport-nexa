@@ -103,41 +103,6 @@
           "background": "",
           "events": [
             {
-              "title": "ADT vs FC Cajamarca",
-              "league": "Liga 1",
-              "code": "PE",
-              "time": "2026-10-10T13:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 34,
-              "image": "",
-              "logo": "",
-              "homeTeam": "ADT",
-              "awayTeam": "FC Cajamarca",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/gliwig1768234286.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/fl9mlx1768236425.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "L1 Max",
-                  "url": "https://streamxhd.com/live1.php?stream=l1max",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Comerciantes Unidos vs Juan Pablo II College",
               "league": "Liga 1",
               "code": "PE",
@@ -296,43 +261,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Al Hilal vs Al Ittihad",
-              "league": "Saudi Pro League",
-              "code": "ARA",
-              "time": "2026-10-10 13:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 35,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Al Hilal",
-              "awayTeam": "Al Ittihad",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/8n1t1j1755192418.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX One",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -341,43 +270,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Nürnberg vs VfL Wolfsburg",
-              "league": "Bundesliga 2",
-              "code": "ALE",
-              "time": "2026-10-10T13:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 38,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Nürnberg",
-              "awayTeam": "VfL Wolfsburg",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/wtj8rd1659904028.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ci9trv1778399557.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX Sports 2 AR",
-                  "url": "https://streamxhd.com/live1.php?stream=fox2ar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -418,61 +311,6 @@
                 {
                   "name": "TNT Sports",
                   "url": "https://streamxhd.com/live1.php?stream=tntsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Barracas Central vs Huracán",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-10-10T13:45:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 41,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Barracas Central",
-              "awayTeam": "Huracán",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/rbkjba1707458543.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/kppi2b1775776550.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney6",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN Premium",
-                  "url": "https://streamxhd.com/live1.php?stream=espnpremium",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN AR",
-                  "url": "https://streamxhd.com/live1.php?stream=espnar",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -604,158 +442,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Brest vs Angers SCO",
-              "league": "Ligue 1",
-              "code": "FRA",
-              "time": "2026-10-10 13:45",
-              "timezone": "America/Lima",
-              "agendaOrder": 42,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Brest",
-              "awayTeam": "Angers SCO",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/z69be41598797026.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ix6q4w1678808069.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Lorient vs Paris",
-              "league": "Ligue 1",
-              "code": "FRA",
-              "time": "2026-10-10 13:45",
-              "timezone": "America/Lima",
-              "agendaOrder": 43,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Lorient",
-              "awayTeam": "Paris",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/sxsttw1473504748.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/yuvtsy1447594254.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Monaco vs Toulouse",
-              "league": "Ligue 1",
-              "code": "FRA",
-              "time": "2026-10-10 13:45",
-              "timezone": "America/Lima",
-              "agendaOrder": 44,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Monaco",
-              "awayTeam": "Toulouse",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/17eqox1688449282.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "PSG vs Le Mans",
-              "league": "Ligue 1",
-              "code": "FRA",
-              "time": "2026-10-10 13:45",
-              "timezone": "America/Lima",
-              "agendaOrder": 45,
-              "image": "",
-              "logo": "",
-              "homeTeam": "PSG",
-              "awayTeam": "Le Mans",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/wjhziv1700145026.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.com/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -764,83 +451,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Real Madrid vs Villarreal",
-              "league": "LaLiga",
-              "code": "ES",
-              "time": "2026-10-10T14:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 47,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Real Madrid",
-              "awayTeam": "Villarreal",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports Global",
-                  "url": "https://streamxhd.click/channel/?id=dsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN +",
-                  "url": "https://streamxhd.com/live1.php?stream=espnplus4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN Deportes",
-                  "url": "https://streamxhd.com/live1.php?stream=espndeportes",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "DSports",
-                  "url": "https://streamxhd.com/live1.php?stream=dsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "M LaLiga",
-                  "url": "https://streamxhd.com/live1.php?stream=mlaliga",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -858,43 +469,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Marítimo vs Porto",
-              "league": "Primeira Liga",
-              "code": "POR",
-              "time": "2026-10-10T12:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 32,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Marítimo",
-              "awayTeam": "Porto",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/xlr0tw1656336618.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/xu47rb1628855600.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports 2",
-                  "url": "https://streamxhd.com/live1.php?stream=dsports2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -903,43 +478,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Wanderers vs Boston River",
-              "league": "Primera División",
-              "code": "URU",
-              "time": "2026-10-10T13:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 36,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Wanderers",
-              "awayTeam": "Boston River",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/3i6k5s1766114857.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/8zq9n91736218442.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney29",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -1187,53 +726,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Napoli vs Frosinone",
-              "league": "Serie A",
-              "code": "IT",
-              "time": "2026-10-10T13:45:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 46,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Napoli",
-              "awayTeam": "Frosinone",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/a7xa151603170120.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -1242,43 +735,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Celta de Vigo II vs Real Sociedad II",
-              "league": "LaLiga SmartBank",
-              "code": "ES",
-              "time": "2026-10-10T14:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 48,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Celta de Vigo II",
-              "awayTeam": "Real Sociedad II",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/xfjtku1690436219.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "LaLiga Hypermotion",
-                  "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -1425,76 +882,6 @@
                 {
                   "name": "Apple TV Español",
                   "url": "https://streamxhd.com/live1.php?stream=appletv7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Toronto FC vs CF Montréal",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-10-10T12:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 33,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Toronto FC",
-              "awayTeam": "CF Montréal",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/rsxyrr1473536512.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/livdl31679344925.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Chicago Fire vs New York City",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-10-10T13:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 39,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Chicago Fire",
-              "awayTeam": "New York City",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/8xuc781639493166.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/9rwpj71738560198.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv2",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -1844,41 +1231,6 @@
           "background": "",
           "events": [
             {
-              "title": "Cobresal vs Univ. Concepción",
-              "league": "Primera División de Chile",
-              "code": "CH",
-              "time": "2026-10-10 13:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 37,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Cobresal",
-              "awayTeam": "Univ. Concepción",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/36tqoo1602187477.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/fyj9u51602187758.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports Chile",
-                  "url": "https://streamxhd.com/live1.php?stream=tntsportschile",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "cl",
-              "flagUrl": "https://flagcdn.com/w320/cl.png",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Huachipato vs O'Higgins",
               "league": "Primera División de Chile",
               "code": "CH",
@@ -1958,76 +1310,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "EE. UU. vs España",
-              "league": "Amistoso Internacional Femenino",
-              "code": "FIFA",
-              "time": "2026-10-10 13:30",
-              "timezone": "America/Lima",
-              "agendaOrder": 40,
-              "image": "",
-              "logo": "",
-              "homeTeam": "EE. UU.",
-              "awayTeam": "España",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/United-States.svg",
-              "awayLogo": "https://flagcdn.com/w320/es.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney30",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Francia vs Letonia",
-              "league": "Amistoso Internacional Femenino",
-              "code": "FIFA",
-              "time": "2026-10-10 14:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 50,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Francia",
-              "awayTeam": "Letonia",
-              "homeLogo": "https://flagcdn.com/w320/fr.png",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Latvia.svg",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Brasil vs Argentina",
               "league": "Amistoso Internacional Femenino",
@@ -2711,5 +1993,5 @@
       "leagues": []
     }
   ],
-  "updated": "2026-10-10 14:08:14"
+  "updated": "2026-10-10 16:37:59"
 }
