@@ -30,51 +30,6 @@
       "icon": "🏎️",
       "leagues": [
         {
-          "name": "MotoGP",
-          "logo": "https://r2.thesportsdb.com/images/media/league/badge/gg3c201768486075.png/medium",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "GP Indonesia - Moto3/Moto2/MotoGP",
-              "league": "MotoGP",
-              "code": "MOTOGP",
-              "time": "2026-10-10T21:45:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 33,
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "F1",
           "logo": "https://r2.thesportsdb.com/images/media/league/badge/g8cofl1513623681.png/medium",
           "image": "",
@@ -780,61 +735,6 @@
           "background": "",
           "events": [
             {
-              "title": "América vs Monterrey",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-10-10T22:10:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 34,
-              "image": "",
-              "logo": "",
-              "homeTeam": "América",
-              "awayTeam": "Monterrey",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/amy1xs1581857392.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/yglj911721542561.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Canal 5 MX",
-                  "url": "https://streamxhd.com/live1.php?stream=canal5mx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN MX",
-                  "url": "https://streamxhd.com/live1.php?stream=tudnmx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Atlético San Luis vs Santos Laguna",
               "league": "Liga MX",
               "code": "LIGAMX",
@@ -1094,76 +994,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Colorado Rapids vs SJ Earthquakes",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-10-10T20:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 30,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Colorado Rapids",
-              "awayTeam": "SJ Earthquakes",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/uppupv1473536412.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/onpjpf1769273202.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv14",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Los Angeles FC vs Vancouver Whitecaps",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-10-10T21:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 31,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Los Angeles FC",
-              "awayTeam": "Vancouver Whitecaps",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/7nbj2a1602103638.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/tpwxpy1473536521.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.com/live1.php?stream=appletv15",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "St. Louis City vs LA Galaxy",
               "league": "MLS",
@@ -1479,101 +1309,11 @@
           "flagUrl": ""
         },
         {
-          "name": "Eredivisie",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Utrecht vs Willem II",
-              "league": "Eredivisie",
-              "code": "HOL",
-              "time": "2026-10-11T05:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 37,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Utrecht",
-              "awayTeam": "Willem II",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/yuhha71625167104.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ushlnc1666107465.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Serie A",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Como vs Roma",
-              "league": "Serie A",
-              "code": "IT",
-              "time": "2026-10-11T05:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 38,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Como",
-              "awayTeam": "Roma",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/jwro2s1760820674.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.com/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Lazio vs Monza",
               "league": "Serie A",
@@ -1721,51 +1461,6 @@
                 {
                   "name": "ESPN",
                   "url": "https://streamxhd.com/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Championship",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Southampton vs Portsmouth",
-              "league": "Championship",
-              "code": "ENG",
-              "time": "2026-10-11T06:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 39,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Southampton",
-              "awayTeam": "Portsmouth",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/ggqtd01621593274.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/j13pfe1601726274.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney3",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -3024,131 +2719,13 @@
       "id": "boxing",
       "name": "Boxing",
       "icon": "🥊",
-      "leagues": [
-        {
-          "name": "ESPN Knockout",
-          "logo": "https://static.vecteezy.com/system/resources/thumbnails/027/128/144/small/the-bright-red-boxing-gloves-collided-png.png",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Floyd Schofield vs Lucas Bahdi",
-              "league": "ESPN Knockout",
-              "code": "BOX",
-              "time": "2026-10-10 19:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 20,
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.com/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
+      "leagues": []
     },
     {
       "id": "mma",
       "name": "MMA / UFC",
       "icon": "🥋",
-      "leagues": [
-        {
-          "name": "UFC",
-          "logo": "https://r2.thesportsdb.com/images/media/league/badge/bewnz31717531281.png/medium",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Brendan Allen vs Christian Leroy Duncan",
-              "league": "UFC",
-              "code": "UFC",
-              "time": "2026-10-10T19:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 21,
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Paramount +",
-                  "url": "https://streamxhd.com/live1.php?stream=paramount1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [
-                    "Español"
-                  ],
-                  "customLanguages": "Español",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Paramount +",
-                  "url": "https://streamxhd.com/live1.php?stream=paramount2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [
-                    "Inglés"
-                  ],
-                  "customLanguages": "Inglés",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Paramount +",
-                  "url": "https://streamxhd.com/live1.php?stream=paramount3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [
-                    "Portugués"
-                  ],
-                  "customLanguages": "Portugués",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
+      "leagues": []
     },
     {
       "id": "baseball",
@@ -3395,111 +2972,6 @@
           "background": "",
           "events": [
             {
-              "title": "Golden State Warriors vs Sacramento Kings",
-              "league": "NBA Pretemporada",
-              "code": "NBA",
-              "time": "2026-10-10T19:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 28,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Golden State Warriors",
-              "awayTeam": "Sacramento Kings",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.com/live1.php?stream=nba5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Phoenix Suns vs San Antonio Spurs",
-              "league": "NBA Pretemporada",
-              "code": "NBA",
-              "time": "2026-10-10T21:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 32,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Phoenix Suns",
-              "awayTeam": "San Antonio Spurs",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.com/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Houston Rockets vs Dallas Mavericks",
-              "league": "NBA Pretemporada",
-              "code": "NBA",
-              "time": "2026-10-11T05:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 36,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Houston Rockets",
-              "awayTeam": "Dallas Mavericks",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 4",
-                  "url": "https://streamxhd.com/live1.php?stream=espn4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Cleveland Cavaliers vs Orlando Magic",
               "league": "NBA Pretemporada",
               "code": "NBA",
@@ -3617,5 +3089,5 @@
       "leagues": []
     }
   ],
-  "updated": "2026-10-10 22:18:06"
+  "updated": "2026-10-11 08:34:50"
 }
