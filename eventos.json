@@ -40,43 +40,7 @@
           "logo": "https://r2.thesportsdb.com/images/media/team/badge/cav6c81546113141.png/medium",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Bergs vs Alcaraz",
-              "league": "ATP Rolex Shanghai Masters",
-              "code": "ATP",
-              "time": "2026-10-12T05:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 9,
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         }
@@ -92,43 +56,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Cusco vs Alianza Lima",
-              "league": "Liga 1",
-              "code": "PE",
-              "time": "2026-10-11 18:30",
-              "timezone": "America/Lima",
-              "agendaOrder": 3,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Cusco",
-              "awayTeam": "Alianza Lima",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/2rxjt61603137804.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/y5wov41580040189.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "L1 Max",
-                  "url": "https://streamxhd.com/live1.php?stream=l1max",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -137,43 +65,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "América de Cali vs Medellín",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-10-11T20:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 7,
-              "image": "",
-              "logo": "",
-              "homeTeam": "América de Cali",
-              "awayTeam": "Medellín",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/lwxcn71576156105.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/mzezh31783226830.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -183,51 +75,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Talleres Córdoba vs Independiente",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-10-11T19:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 5,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Talleres Córdoba",
-              "awayTeam": "Independiente",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/7hum2t1769310938.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=tntsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney26",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Lanús vs Vélez Sarsfield",
               "league": "Liga Profesional",
@@ -327,63 +174,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Pumas UNAM vs Cruz Azul",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-10-11T20:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 8,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Pumas UNAM",
-              "awayTeam": "Cruz Azul",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/o01nvl1695734937.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/wcd2yi1781543370.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Canal 5 MX",
-                  "url": "https://streamxhd.com/live1.php?stream=canal5mx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN MX",
-                  "url": "https://streamxhd.com/live1.php?stream=tudnmx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -774,41 +565,6 @@
           "background": "",
           "events": [
             {
-              "title": "Real Valladolid vs Albacete",
-              "league": "LaLiga SmartBank",
-              "code": "ES",
-              "time": "2026-10-12T07:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 10,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Real Valladolid",
-              "awayTeam": "Albacete",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/bnhu8b1719983736.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/17oqja1616436316.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "LaLiga Hypermotion",
-                  "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Burgos vs Granada",
               "league": "LaLiga SmartBank",
               "code": "ES",
@@ -1172,43 +928,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Atlanta Falcons vs Baltimore Ravens",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-10-11T19:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 4,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Atlanta Falcons",
-              "awayTeam": "Baltimore Ravens",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         }
@@ -1225,76 +945,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Charlotte Hornets vs Milwaukee Bucks",
-              "league": "NBA Pretemporada",
-              "code": "NBA",
-              "time": "2026-10-11T18:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 2,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Charlotte Hornets",
-              "awayTeam": "Milwaukee Bucks",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.com/live1.php?stream=nba1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Denver Nuggets vs Chicago Bulls",
-              "league": "NBA Pretemporada",
-              "code": "NBA",
-              "time": "2026-10-11T20:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 6,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Denver Nuggets",
-              "awayTeam": "Chicago Bulls",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.com/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Utah Jazz vs San Antonio Spurs",
               "league": "NBA Pretemporada",
@@ -1448,5 +1098,5 @@
       "leagues": []
     }
   ],
-  "updated": "2026-10-11 20:35:55"
+  "updated": "2026-10-12 09:47:54"
 }
