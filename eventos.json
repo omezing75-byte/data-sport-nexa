@@ -63,41 +63,6 @@
               "title": "Cleveland Guardians vs Tampa Bay Rays",
               "league": "MLB",
               "code": "MLB",
-              "time": "2026-10-12 19:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 7,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Cleveland Guardians",
-              "awayTeam": "Tampa Bay Rays",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/cle.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png",
-              "imageMode": "teams",
-              "duration": 210,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Cleveland Guardians vs Tampa Bay Rays",
-              "league": "MLB",
-              "code": "MLB",
               "time": "2026-10-13T19:00:00-05:00",
               "timezone": "America/Lima",
               "agendaOrder": 28,
@@ -235,43 +200,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Gimnasia Mendoza vs Newell's Old Boys",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-10-12T16:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 1,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Gimnasia Mendoza",
-              "awayTeam": "Newell's Old Boys",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/h11mlf1677636958.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/23aftf1580842633.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=tntsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -280,43 +209,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Nacional Asunción vs Deportivo Recoleta",
-              "league": "Liga Paraguay",
-              "code": "LIGAPY",
-              "time": "2026-10-12T17:20:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 2,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Nacional Asunción",
-              "awayTeam": "Deportivo Recoleta",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/uv7z921579989369.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/v68cg01735661603.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Tigo Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=tigo1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -325,88 +218,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Chapecoense vs Athletico-PR",
-              "league": "Brasileirão",
-              "code": "BRA",
-              "time": "2026-10-12T17:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 3,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Chapecoense",
-              "awayTeam": "Athletico-PR",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/wy0e1i1765900601.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/irzu1u1554237406.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Premiere 1",
-                  "url": "https://streamxhd.com/live1.php?stream=premiere1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "RB Bragantino vs Cruzeiro",
-              "league": "Brasileirão",
-              "code": "BRA",
-              "time": "2026-10-12T19:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 8,
-              "image": "",
-              "logo": "",
-              "homeTeam": "RB Bragantino",
-              "awayTeam": "Cruzeiro",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/sqwrcu1646600551.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Premiere 2",
-                  "url": "https://streamxhd.com/live1.php?stream=premiere2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "SporTV 1",
-                  "url": "https://streamxhd.com/live1.php?stream=sporttvbr1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -1287,43 +1099,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Buffalo Bills vs Los Angeles Rams",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-10-12 19:15",
-              "timezone": "America/Lima",
-              "agendaOrder": 9,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Buffalo Bills",
-              "awayTeam": "Los Angeles Rams",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "us",
-              "flagUrl": "https://flagcdn.com/w320/us.png",
-              "homeCountryCode": "us",
-              "awayCountryCode": "us"
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         }
@@ -1340,146 +1116,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Utah Jazz vs San Antonio Spurs",
-              "league": "NBA Pretemporada",
-              "code": "NBA",
-              "time": "2026-10-12 20:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 10,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Utah Jazz",
-              "awayTeam": "San Antonio Spurs",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/trct8w1778198868.png/medium",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.com/live1.php?stream=nba4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Atlanta Hawks vs Oklahoma City Thunder",
-              "league": "NBA Pretemporada",
-              "code": "NBA",
-              "time": "2026-10-12T18:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 4,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Atlanta Hawks",
-              "awayTeam": "Oklahoma City Thunder",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.com/live1.php?stream=nba1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Washington Wizards vs Brooklyn Nets",
-              "league": "NBA Pretemporada",
-              "code": "NBA",
-              "time": "2026-10-12T18:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 5,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Washington Wizards",
-              "awayTeam": "Brooklyn Nets",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.com/live1.php?stream=nba2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "New York Knicks vs Minnesota Timberwolves",
-              "league": "NBA Pretemporada",
-              "code": "NBA",
-              "time": "2026-10-12T18:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 6,
-              "image": "",
-              "logo": "",
-              "homeTeam": "New York Knicks",
-              "awayTeam": "Minnesota Timberwolves",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.com/live1.php?stream=nba3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Orlando Magic vs Cleveland Cavaliers",
               "league": "NBA Pretemporada",
@@ -1714,5 +1350,5 @@
       ]
     }
   ],
-  "updated": "2026-10-12 17:45:46"
+  "updated": "2026-10-13 09:13:23"
 }
