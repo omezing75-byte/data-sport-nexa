@@ -60,41 +60,6 @@
           "background": "",
           "events": [
             {
-              "title": "Tampa Bay Rays vs Cleveland Guardians",
-              "league": "MLB",
-              "code": "MLB",
-              "time": "2026-10-15T12:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 44,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Tampa Bay Rays",
-              "awayTeam": "Cleveland Guardians",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/cle.png",
-              "imageMode": "teams",
-              "duration": 210,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney19",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Milwaukee Brewers vs Los Angeles Dodgers",
               "league": "MLB",
               "code": "MLB",
@@ -384,43 +349,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Rodina Moskva vs Spartak Moskva",
-              "league": "Copa de Rusia",
-              "code": "RUS",
-              "time": "2026-10-15 12:45",
-              "timezone": "America/Lima",
-              "agendaOrder": 45,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Rodina Moskva",
-              "awayTeam": "Spartak Moskva",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/ul3ag81784825081.png/medium",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/zpj2el1754674286.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports 2",
-                  "url": "https://streamxhd.com/live1.php?stream=dsports2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -1513,5 +1442,5 @@
       ]
     }
   ],
-  "updated": "2026-10-15 14:42:00"
+  "updated": "2026-10-15 15:57:46"
 }
