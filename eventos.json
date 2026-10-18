@@ -1129,43 +1129,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Groningen vs Ajax",
-              "league": "Eredivisie",
-              "code": "HOL",
-              "time": "2026-10-18T09:45:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 95,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Groningen",
-              "awayTeam": "Ajax",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/145.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney10",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -1175,51 +1139,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Canadá vs Brasil",
-              "league": "Copa Mundial Femenina Sub-17",
-              "code": "FUT",
-              "time": "2026-10-18T10:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 96,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Canadá",
-              "awayTeam": "Brasil",
-              "homeLogo": "https://flagcdn.com/w320/ca.png",
-              "awayLogo": "https://flagcdn.com/w320/br.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TUDN MX",
-                  "url": "https://streamxhd.com/live1.php?stream=tudnmx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "DSports 2",
-                  "url": "https://streamxhd.com/live1.php?stream=dsports2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Francia vs Venezuela",
               "league": "Copa Mundial Femenina Sub-17",
@@ -1275,111 +1194,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Le Havre vs Auxerre",
-              "league": "Ligue 1",
-              "code": "FRA",
-              "time": "2026-10-18T10:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 97,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Le Havre",
-              "awayTeam": "Auxerre",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney11",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Lorient vs Monaco",
-              "league": "Ligue 1",
-              "code": "FRA",
-              "time": "2026-10-18T10:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 98,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Lorient",
-              "awayTeam": "Monaco",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney12",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Paris vs Rennes",
-              "league": "Ligue 1",
-              "code": "FRA",
-              "time": "2026-10-18T10:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 99,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Paris",
-              "awayTeam": "Rennes",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney13",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Olympique Lyonnais vs Nice",
               "league": "Ligue 1",
@@ -2325,5 +2139,5 @@
       ]
     }
   ],
-  "updated": "2026-10-18 11:28:27"
+  "updated": "2026-10-18 12:33:38"
 }
