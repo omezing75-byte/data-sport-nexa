@@ -388,41 +388,6 @@
           "background": "",
           "events": [
             {
-              "title": "Albion vs Torque",
-              "league": "Liga Uruguay",
-              "code": "URU",
-              "time": "2026-10-18T08:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 85,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Albion",
-              "awayTeam": "Torque",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21403.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/19002.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney8",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Danubio vs Central Español",
               "league": "Liga Uruguay",
               "code": "URU",
@@ -670,43 +635,7 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [
-            {
-              "title": "Arminia Bielefeld vs Osnabrück",
-              "league": "Bundesliga 2",
-              "code": "ALE",
-              "time": "2026-10-18T06:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 81,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Arminia Bielefeld",
-              "awayTeam": "Osnabrück",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7013.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX Sports 1 AR",
-                  "url": "https://streamxhd.com/live1.php?stream=fox1ar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
+          "events": [],
           "flagCode": "",
           "flagUrl": ""
         },
@@ -716,151 +645,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "AFC Bournemouth vs Sunderland",
-              "league": "Premier League",
-              "code": "ENG",
-              "time": "2026-10-18T08:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 86,
-              "image": "",
-              "logo": "",
-              "homeTeam": "AFC Bournemouth",
-              "awayTeam": "Sunderland",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Brighton & Hove Albion vs Crystal Palace",
-              "league": "Premier League",
-              "code": "ENG",
-              "time": "2026-10-18T08:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 87,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Brighton & Hove Albion",
-              "awayTeam": "Crystal Palace",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.com/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "HBO Max 1",
-                  "url": "https://streamxhd.com/live1.php?stream=max1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 2 AR",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2ar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Leeds United vs Manchester United",
-              "league": "Premier League",
-              "code": "ENG",
-              "time": "2026-10-18T08:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 88,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Leeds United",
-              "awayTeam": "Manchester United",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Telemundo",
-                  "url": "https://streamxhd.com/live1.php?stream=telemundo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Nottingham Forest vs Arsenal",
               "league": "Premier League",
@@ -926,116 +710,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Osasuna vs Racing Santander",
-              "league": "LaLiga",
-              "code": "ES",
-              "time": "2026-10-18T07:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 82,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Osasuna",
-              "awayTeam": "Racing Santander",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.com/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN +",
-                  "url": "https://streamxhd.com/live1.php?stream=espnplus1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Celta de Vigo vs Deportivo Alavés",
-              "league": "LaLiga",
-              "code": "ES",
-              "time": "2026-10-18T09:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 93,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Celta de Vigo",
-              "awayTeam": "Deportivo Alavés",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports",
-                  "url": "https://streamxhd.com/live1.php?stream=dsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN +",
-                  "url": "https://streamxhd.com/live1.php?stream=espnplus2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "DAZN LaLiga",
-                  "url": "https://streamxhd.com/live1.php?stream=daznlaliga",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Málaga vs Real Sociedad",
               "league": "LaLiga",
@@ -1177,76 +851,6 @@
           "background": "",
           "events": [
             {
-              "title": "Ceuta vs Real Oviedo",
-              "league": "LaLiga SmartBank",
-              "code": "ES",
-              "time": "2026-10-18T07:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 83,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Ceuta",
-              "awayTeam": "Real Oviedo",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5404.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/92.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "LaLiga Hypermotion",
-                  "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Granada vs Cádiz",
-              "league": "LaLiga SmartBank",
-              "code": "ES",
-              "time": "2026-10-18T09:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 94,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Granada",
-              "awayTeam": "Cádiz",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3842.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "LaLiga Hypermotion",
-                  "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Girona vs FC Andorra",
               "league": "LaLiga SmartBank",
               "code": "ES",
@@ -1362,96 +966,6 @@
           "background": "",
           "events": [
             {
-              "title": "Udinese vs Lecce",
-              "league": "Serie A",
-              "code": "IT",
-              "time": "2026-10-18T05:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 80,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Udinese",
-              "awayTeam": "Lecce",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Fiorentina vs Como",
-              "league": "Serie A",
-              "code": "IT",
-              "time": "2026-10-18T08:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 89,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Fiorentina",
-              "awayTeam": "Como",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney6",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.com/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Universo",
-                  "url": "https://streamxhd.com/live1.php?stream=universo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Milan vs Atalanta",
               "league": "Serie A",
               "code": "IT",
@@ -1562,41 +1076,6 @@
           "background": "",
           "events": [
             {
-              "title": "Bayer Leverkusen vs Freiburg",
-              "league": "Bundesliga",
-              "code": "ALE",
-              "time": "2026-10-18T08:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 92,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Bayer Leverkusen",
-              "awayTeam": "Freiburg",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney9",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Borussia Mönchengladbach vs Hoffenheim",
               "league": "Bundesliga",
               "code": "ALE",
@@ -1651,41 +1130,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Cambuur vs AZ",
-              "league": "Eredivisie",
-              "code": "HOL",
-              "time": "2026-10-18T07:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 84,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Cambuur",
-              "awayTeam": "AZ",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3736.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Groningen vs Ajax",
               "league": "Eredivisie",
@@ -1831,41 +1275,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Angers SCO vs Olympique Marseille",
-              "league": "Ligue 1",
-              "code": "FRA",
-              "time": "2026-10-18T08:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 90,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Angers SCO",
-              "awayTeam": "Olympique Marseille",
-              "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Angers_Sporting_Club_de_l%27Ouest_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-              "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Olympique_de_Marseille_2026_logo.svg?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=original",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Le Havre vs Auxerre",
               "league": "Ligue 1",
@@ -2665,41 +2074,6 @@
               "awayCountryCode": ""
             },
             {
-              "title": "Jacksonville Jaguars vs Houston Texans",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-10-18T08:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 91,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Jacksonville Jaguars",
-              "awayTeam": "Houston Texans",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 4",
-                  "url": "https://streamxhd.com/live1.php?stream=espn4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Philadelphia Eagles vs Carolina Panthers",
               "league": "NFL",
               "code": "NFL",
@@ -2951,5 +2325,5 @@
       ]
     }
   ],
-  "updated": "2026-10-18 07:00:36"
+  "updated": "2026-10-18 11:28:27"
 }
