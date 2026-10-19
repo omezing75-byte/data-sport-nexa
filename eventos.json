@@ -1,97 +1,29 @@
 {
   "sports": [
     {
-      "id": "automovilismo",
-      "name": "Automovilismo",
-      "icon": "🏎️",
-      "leagues": []
-    },
-    {
-      "id": "futbol",
-      "name": "Fútbol",
-      "icon": "⚽",
-      "leagues": []
-    },
-    {
-      "id": "tenis",
-      "name": "Tenis",
-      "icon": "🎾",
-      "leagues": []
-    },
-    {
-      "id": "beisbol",
-      "name": "Béisbol",
-      "icon": "⚾",
-      "leagues": []
-    },
-    {
-      "id": "motor",
-      "name": "Motor",
-      "icon": "🏎️",
-      "leagues": []
-    },
-    {
-      "id": "tennis",
-      "name": "Tennis",
-      "icon": "🎾",
-      "leagues": []
-    },
-    {
-      "id": "boxing",
-      "name": "Boxing",
-      "icon": "🥊",
-      "leagues": [
-        {
-          "name": "ESPN Knockout",
-          "logo": "https://static.vecteezy.com/system/resources/thumbnails/027/128/144/small/the-bright-red-boxing-gloves-collided-png.png",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
-    },
-    {
-      "id": "mma",
-      "name": "MMA / UFC",
-      "icon": "🥋",
-      "leagues": [
-        {
-          "name": "UFC",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
-    },
-    {
       "id": "baseball",
       "name": "Baseball",
       "icon": "⚾",
       "leagues": [
         {
           "name": "MLB",
-          "logo": "",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Major_League_Baseball_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
           "image": "",
           "background": "",
           "events": [
             {
-              "title": "Milwaukee Brewers vs Los Angeles Dodgers",
+              "title": "Tampa Bay Rays vs Cleveland Guardians",
               "league": "MLB",
               "code": "MLB",
-              "time": "2026-10-18T19:00:00-05:00",
+              "time": "2026-10-19 19:00",
               "timezone": "America/Lima",
-              "agendaOrder": 140,
+              "agendaOrder": 24,
               "image": "",
               "logo": "",
-              "homeTeam": "Milwaukee Brewers",
-              "awayTeam": "Los Angeles Dodgers",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/mil.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/lad.png",
+              "homeTeam": "Tampa Bay Rays",
+              "awayTeam": "Cleveland Guardians",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/mlb/500/cle.png",
               "imageMode": "teams",
               "duration": 210,
               "extraTime": 0,
@@ -99,8 +31,8 @@
               "note": "",
               "servers": [
                 {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney24",
+                  "name": "ESPN 3",
+                  "url": "https://streamxhd.com/live1.php?stream=espn3",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -121,12 +53,6 @@
       ]
     },
     {
-      "id": "basketball",
-      "name": "Basketball",
-      "icon": "🏀",
-      "leagues": []
-    },
-    {
       "id": "football",
       "name": "Football",
       "icon": "⚽",
@@ -138,18 +64,53 @@
           "background": "",
           "events": [
             {
-              "title": "Belgrano vs River Plate",
+              "title": "Newell's Old Boys vs Central Córdoba SdE",
               "league": "Liga Profesional",
               "code": "AR",
-              "time": "2026-10-18T18:15:00-05:00",
+              "time": "2026-10-19T17:00:00-05:00",
               "timezone": "America/Lima",
-              "agendaOrder": 138,
+              "agendaOrder": 18,
               "image": "",
               "logo": "",
-              "homeTeam": "Belgrano",
-              "awayTeam": "River Plate",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
+              "homeTeam": "Newell's Old Boys",
+              "awayTeam": "Central Córdoba SdE",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/14.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11989.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "TNT Sports",
+                  "url": "https://streamxhd.com/live1.php?stream=tntsports",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Sarmiento vs Barracas Central",
+              "league": "Liga Profesional",
+              "code": "AR",
+              "time": "2026-10-19T17:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 19,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Sarmiento",
+              "awayTeam": "Barracas Central",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10158.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10060.png",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -158,7 +119,52 @@
               "servers": [
                 {
                   "name": "Disney +",
-                  "url": "https://streamxhd.com/live1.php?stream=disney23",
+                  "url": "https://streamxhd.com/live1.php?stream=disney6",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN Premium",
+                  "url": "https://streamxhd.com/live1.php?stream=espnpremium",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Deportivo Riestra vs Unión Santa Fe",
+              "league": "Liga Profesional",
+              "code": "AR",
+              "time": "2026-10-19T19:15:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 26,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Deportivo Riestra",
+              "awayTeam": "Unión Santa Fe",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17702.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney9",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -177,28 +183,8 @@
                   "channelLogo": ""
                 },
                 {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.com/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Vix",
-                  "url": "https://streamxhd.com/live1.php?stream=vix3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX Deportes USA",
-                  "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa",
+                  "name": "ESPN AR",
+                  "url": "https://streamxhd.com/live1.php?stream=espnar",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -221,47 +207,20 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga Paraguay",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Brasileirão",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga MX",
-          "logo": "",
-          "image": "",
-          "background": "",
           "events": [
             {
-              "title": "Monterrey vs Pachuca",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-10-18T20:00:00-05:00",
+              "title": "Nacional vs Deportivo Maldonado",
+              "league": "Liga Uruguay",
+              "code": "URU",
+              "time": "2026-10-19T18:00:00-05:00",
               "timezone": "America/Lima",
-              "agendaOrder": 142,
+              "agendaOrder": 21,
               "image": "",
               "logo": "",
-              "homeTeam": "Monterrey",
-              "awayTeam": "Pachuca",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/220.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/234.png",
+              "homeTeam": "Nacional",
+              "awayTeam": "Deportivo Maldonado",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2684.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10000.png",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -269,8 +228,8 @@
               "note": "",
               "servers": [
                 {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.com/live1.php?stream=tudn_usa",
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney8",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -289,132 +248,24 @@
           "flagUrl": ""
         },
         {
-          "name": "Bundesliga 2",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Premier League",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "LaLiga",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "LaLiga SmartBank",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Serie A",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Bundesliga",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Eredivisie",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Copa Mundial Femenina Sub-17",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Ligue 1",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga Ecuador",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "MLS",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Copa de Portugal",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga 1",
+          "name": "Brasileirão",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
             {
-              "title": "Cienciano vs UTC Cajamarca",
-              "league": "Liga 1",
-              "code": "PE",
-              "time": "2026-10-18 18:30",
+              "title": "Corinthians vs Vitória",
+              "league": "Brasileirão",
+              "code": "BRA",
+              "time": "2026-10-19T18:00:00-05:00",
               "timezone": "America/Lima",
-              "agendaOrder": 139,
+              "agendaOrder": 22,
               "image": "",
               "logo": "",
-              "homeTeam": "Cienciano",
-              "awayTeam": "UTC Cajamarca",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3372.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10122.png",
+              "homeTeam": "Corinthians",
+              "awayTeam": "Vitória",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -422,8 +273,8 @@
               "note": "",
               "servers": [
                 {
-                  "name": "L1 Max",
-                  "url": "https://streamxhd.com/live1.php?stream=l1max",
+                  "name": "Win Sports",
+                  "url": "https://streamxhd.com/live1.php?stream=winsports",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -432,8 +283,503 @@
                   "channelLogo": ""
                 },
                 {
-                  "name": "Movistar Deportes",
-                  "url": "https://streamxhd.com/live1.php?stream=movistarpe",
+                  "name": "SporTV 1",
+                  "url": "https://streamxhd.com/live1.php?stream=sporttvbr1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Premiere 1",
+                  "url": "https://streamxhd.com/live1.php?stream=premiere1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Premier League",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Tottenham Hotspur vs Coventry City",
+              "league": "Premier League",
+              "code": "ENG",
+              "time": "2026-10-19T14:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 10,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Tottenham Hotspur",
+              "awayTeam": "Coventry City",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney4",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN AR",
+                  "url": "https://streamxhd.com/live1.php?stream=espnar",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN",
+                  "url": "https://streamxhd.com/live1.php?stream=espn",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "LaLiga",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Getafe vs Rayo Vallecano",
+              "league": "LaLiga",
+              "code": "ES",
+              "time": "2026-10-19T14:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 11,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Getafe",
+              "awayTeam": "Rayo Vallecano",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "DSports",
+                  "url": "https://streamxhd.com/live1.php?stream=dsports",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN +",
+                  "url": "https://streamxhd.com/live1.php?stream=espnplus1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN Deportes",
+                  "url": "https://streamxhd.com/live1.php?stream=espndeportes",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "DAZN LaLiga",
+                  "url": "https://streamxhd.com/live1.php?stream=daznlaliga",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "LaLiga SmartBank",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Celta de Vigo II vs Tenerife",
+              "league": "LaLiga SmartBank",
+              "code": "ES",
+              "time": "2026-10-19T13:30:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 8,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Celta de Vigo II",
+              "awayTeam": "Tenerife",
+              "homeLogo": "https://upload.wikimedia.org/wikipedia/en/1/12/RC_Celta_de_Vigo_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/245.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "LaLiga Hypermotion",
+                  "url": "https://streamxhd.com/live1.php?stream=laligahypermotion",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Serie A",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Monza vs Cagliari",
+              "league": "Serie A",
+              "code": "IT",
+              "time": "2026-10-19T11:30:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 3,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Monza",
+              "awayTeam": "Cagliari",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN 2",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN 2 AR",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2ar",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Parma vs Torino",
+              "league": "Serie A",
+              "code": "IT",
+              "time": "2026-10-19T13:45:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 9,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Parma",
+              "awayTeam": "Torino",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney3",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN 2",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN 2 AR",
+                  "url": "https://streamxhd.com/live1.php?stream=espn2ar",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Copa Mundial Femenina Sub-17",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Estados Unidos vs Samoa",
+              "league": "Copa Mundial Femenina Sub-17",
+              "code": "MUN17",
+              "time": "2026-10-19 13:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 6,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Estados Unidos",
+              "awayTeam": "Samoa",
+              "homeLogo": "https://flagcdn.com/w320/us.png",
+              "awayLogo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/330px-Flag_of_Samoa.svg.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Universo",
+                  "url": "https://streamxhd.com/live1.php?stream=universo",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "España vs México",
+              "league": "Copa Mundial Femenina Sub-17",
+              "code": "MUN17",
+              "time": "2026-10-19T10:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 1,
+              "image": "",
+              "logo": "",
+              "homeTeam": "España",
+              "awayTeam": "México",
+              "homeLogo": "https://flagcdn.com/w320/es.png",
+              "awayLogo": "https://flagcdn.com/w320/mx.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "DSports 2",
+                  "url": "https://streamxhd.com/live1.php?stream=dsports2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "TUDN MX",
+                  "url": "https://streamxhd.com/live1.php?stream=tudnmx",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "Canal 9 MX",
+                  "url": "https://streamxhd.com/live1.php?stream=canal9mx",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Australia vs Chile",
+              "league": "Copa Mundial Femenina Sub-17",
+              "code": "MUN17",
+              "time": "2026-10-19T13:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 5,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Australia",
+              "awayTeam": "Chile",
+              "homeLogo": "https://flagcdn.com/w320/au.png",
+              "awayLogo": "https://flagcdn.com/w320/cl.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "DSports 2",
+                  "url": "https://streamxhd.com/live1.php?stream=dsports2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Liga Ecuador",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Mushuc Runa vs Orense",
+              "league": "Liga Ecuador",
+              "code": "ECUA",
+              "time": "2026-10-19T15:30:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 16,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Mushuc Runa",
+              "awayTeam": "Orense",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17176.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20695.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Zapping EC",
+                  "url": "https://streamxhd.com/live1.php?stream=zapping_ec",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -458,18 +804,18 @@
           "background": "",
           "events": [
             {
-              "title": "Llaneros vs Santa Fe",
+              "title": "Deportivo Pasto vs Alianza",
               "league": "Liga Colombia",
               "code": "COL",
-              "time": "2026-10-18T18:05:00-05:00",
+              "time": "2026-10-19T20:05:00-05:00",
               "timezone": "America/Lima",
-              "agendaOrder": 137,
+              "agendaOrder": 27,
               "image": "",
               "logo": "",
-              "homeTeam": "Llaneros",
-              "awayTeam": "Santa Fe",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7915.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5488.png",
+              "homeTeam": "Deportivo Pasto",
+              "awayTeam": "Alianza",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5485.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9761.png",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -489,61 +835,6 @@
                 {
                   "name": "Win Sports",
                   "url": "https://streamxhd.com/live1.php?stream=winsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Deportivo Cali vs Junior",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-10-18T20:10:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 143,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Deportivo Cali",
-              "awayTeam": "Junior",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2672.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4815.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Win Sports",
-                  "url": "https://streamxhd.com/live1.php?stream=winsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX Deportes USA",
-                  "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -566,17 +857,452 @@
           "logo": "",
           "image": "",
           "background": "",
-          "events": [],
+          "events": [
+            {
+              "title": "Cruzeiro vs Bolívar",
+              "league": "Copa Libertadores Femenina",
+              "code": "LIB",
+              "time": "2026-10-19T15:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 14,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Cruzeiro",
+              "awayTeam": "Bolívar",
+              "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+              "awayLogo": "https://upload.wikimedia.org/wikipedia/en/1/13/Club_Bol%C3%ADvar_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "SporTV 1",
+                  "url": "https://streamxhd.com/live1.php?stream=sporttvbr1",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Deportivo Cali vs Nacional",
+              "league": "Copa Libertadores Femenina",
+              "code": "LIB",
+              "time": "2026-10-19T15:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 15,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Deportivo Cali",
+              "awayTeam": "Nacional",
+              "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/9/96/Escudo-deportivo-cali-2012.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+              "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Club_Nacional_de_Football.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Win Sports",
+                  "url": "https://streamxhd.com/live1.php?stream=winsports",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Saudi Pro League",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Al Hilal vs Al Hazm",
+              "league": "Saudi Pro League",
+              "code": "ARA",
+              "time": "2026-10-19 13:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 7,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Al Hilal",
+              "awayTeam": "Al Hazm",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/929.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21964.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "X Sports",
+                  "url": "https://streamxhd.com/live1.php?stream=xsports",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Al Feiha vs Al-Ahli Saudi",
+              "league": "Saudi Pro League",
+              "code": "ARA",
+              "time": "2026-10-19T10:05:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 2,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Al Feiha",
+              "awayTeam": "Al-Ahli Saudi",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21827.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "FOX One",
+                  "url": "https://streamxhd.com/live1.php?stream=foxone",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "FOX Deportes USA",
+                  "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "SporTV 2",
+                  "url": "https://streamxhd.com/live1.php?stream=sporttvbr2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Super Lig",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Trabzonspor vs Beşiktaş",
+              "league": "Super Lig",
+              "code": "TUR",
+              "time": "2026-10-19T12:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 4,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Trabzonspor",
+              "awayTeam": "Beşiktaş",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney2",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "ESPN 5",
+                  "url": "https://streamxhd.com/live1.php?stream=espn5",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "FOX Sports 2 AR",
+                  "url": "https://streamxhd.com/live1.php?stream=fox2ar",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Categoria Primera B",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Real Santander vs Leones",
+              "league": "Categoria Primera B",
+              "code": "COL",
+              "time": "2026-10-19T14:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 12,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Real Santander",
+              "awayTeam": "Leones",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9774.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9769.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Win Sports +",
+                  "url": "https://streamxhd.com/live1.php?stream=winplus",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Internacional de Palmira vs Unión Magdalena",
+              "league": "Categoria Primera B",
+              "code": "COL",
+              "time": "2026-10-19T16:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 17,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Internacional de Palmira",
+              "awayTeam": "Unión Magdalena",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/22184.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17374.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Win Sports +",
+                  "url": "https://streamxhd.com/live1.php?stream=winplus",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
+              "title": "Real Cartagena vs Patriotas",
+              "league": "Categoria Primera B",
+              "code": "COL",
+              "time": "2026-10-19T18:00:00-05:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 23,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Real Cartagena",
+              "awayTeam": "Patriotas",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5479.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9773.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Win Sports +",
+                  "url": "https://streamxhd.com/live1.php?stream=winplus",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Primeira Liga",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Sporting Braga vs Gil Vicente",
+              "league": "Primeira Liga",
+              "code": "POR",
+              "time": "2026-10-19 14:15",
+              "timezone": "America/Lima",
+              "agendaOrder": 13,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Sporting Braga",
+              "awayTeam": "Gil Vicente",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2994.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3699.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney5",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            }
+          ],
+          "flagCode": "",
+          "flagUrl": ""
+        },
+        {
+          "name": "Serie B",
+          "logo": "",
+          "image": "",
+          "background": "",
+          "events": [
+            {
+              "title": "Goiás vs Náutico",
+              "league": "Serie B",
+              "code": "BRA",
+              "time": "2026-10-19 17:30",
+              "timezone": "America/Lima",
+              "agendaOrder": 20,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Goiás",
+              "awayTeam": "Náutico",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3395.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7633.png",
+              "imageMode": "teams",
+              "duration": 130,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Disney +",
+                  "url": "https://streamxhd.com/live1.php?stream=disney7",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            }
+          ],
           "flagCode": "",
           "flagUrl": ""
         }
       ]
-    },
-    {
-      "id": "hockey",
-      "name": "Hockey",
-      "icon": "🏒",
-      "leagues": []
     },
     {
       "id": "nfl",
@@ -590,18 +1316,18 @@
           "background": "",
           "events": [
             {
-              "title": "Green Bay Packers vs Dallas Cowboys",
+              "title": "San Francisco 49ers vs Washington Commanders",
               "league": "NFL",
               "code": "NFL",
-              "time": "2026-10-18 19:00",
+              "time": "2026-10-19T19:00:00-05:00",
               "timezone": "America/Lima",
-              "agendaOrder": 141,
+              "agendaOrder": 25,
               "image": "",
               "logo": "",
-              "homeTeam": "Green Bay Packers",
-              "awayTeam": "Dallas Cowboys",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png",
+              "homeTeam": "San Francisco 49ers",
+              "awayTeam": "Washington Commanders",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
               "imageMode": "teams",
               "duration": 180,
               "extraTime": 0,
@@ -631,5 +1357,5 @@
       ]
     }
   ],
-  "updated": "2026-10-18 19:52:09"
+  "updated": "2026-10-18 23:37:15"
 }
