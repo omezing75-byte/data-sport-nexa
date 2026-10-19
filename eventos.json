@@ -659,61 +659,6 @@
               "awayCountryCode": ""
             },
             {
-              "title": "España vs México",
-              "league": "Copa Mundial Femenina Sub-17",
-              "code": "MUN17",
-              "time": "2026-10-19T10:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 1,
-              "image": "",
-              "logo": "",
-              "homeTeam": "España",
-              "awayTeam": "México",
-              "homeLogo": "https://flagcdn.com/w320/es.png",
-              "awayLogo": "https://flagcdn.com/w320/mx.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports 2",
-                  "url": "https://streamxhd.com/live1.php?stream=dsports2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN MX",
-                  "url": "https://streamxhd.com/live1.php?stream=tudnmx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Canal 9 MX",
-                  "url": "https://streamxhd.com/live1.php?stream=canal9mx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Australia vs Chile",
               "league": "Copa Mundial Femenina Sub-17",
               "code": "MUN17",
@@ -960,61 +905,6 @@
                 {
                   "name": "X Sports",
                   "url": "https://streamxhd.com/live1.php?stream=xsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Al Feiha vs Al-Ahli Saudi",
-              "league": "Saudi Pro League",
-              "code": "ARA",
-              "time": "2026-10-19T10:05:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 2,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Al Feiha",
-              "awayTeam": "Al-Ahli Saudi",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21827.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/8346.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX One",
-                  "url": "https://streamxhd.com/live1.php?stream=foxone",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX Deportes USA",
-                  "url": "https://streamxhd.com/live1.php?stream=fox_deportes_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "SporTV 2",
-                  "url": "https://streamxhd.com/live1.php?stream=sporttvbr2",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -1357,5 +1247,5 @@
       ]
     }
   ],
-  "updated": "2026-10-18 23:37:15"
+  "updated": "2026-10-19 12:46:22"
 }
