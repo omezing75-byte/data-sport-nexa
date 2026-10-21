@@ -12,45 +12,10 @@
           "background": "",
           "events": [
             {
-              "title": "Deportivo Pereira vs Boyacá Chicó",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-10-20 16:30",
-              "timezone": "America/Lima",
-              "agendaOrder": 28,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Deportivo Pereira",
-              "awayTeam": "Boyacá Chicó",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5486.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5480.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.com/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Inter Bogotá vs Fortaleza CEIF",
               "league": "Liga Colombia",
               "code": "COL",
-              "time": "2026-10-20T18:15:00-05:00",
+              "time": "2026-10-20 18:15",
               "timezone": "America/Lima",
               "agendaOrder": 31,
               "image": "",
@@ -148,51 +113,6 @@
                 {
                   "name": "Win Sports",
                   "url": "https://streamxhd.com/live1.php?stream=winsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Copa Chile",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Unión La Calera vs Coquimbo Unido",
-              "league": "Copa Chile",
-              "code": "CH",
-              "time": "2026-10-20 18:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 29,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Unión La Calera",
-              "awayTeam": "Coquimbo Unido",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10144.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/8186.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "HBO Max 2",
-                  "url": "https://streamxhd.com/live1.php?stream=max2",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -660,5 +580,5 @@
       ]
     }
   ],
-  "updated": "2026-10-20 18:03:26"
+  "updated": "2026-10-20 18:53:48"
 }
