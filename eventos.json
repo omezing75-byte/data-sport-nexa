@@ -12,45 +12,10 @@
           "background": "",
           "events": [
             {
-              "title": "Llaneros vs Deportivo Cali",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-10-21 18:15",
-              "timezone": "America/Lima",
-              "agendaOrder": 5,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Llaneros",
-              "awayTeam": "Deportivo Cali",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7915.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2672.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Santa Fe vs Jaguares de Córdoba",
               "league": "Liga Colombia",
               "code": "COL",
-              "time": "2026-10-21T20:20:00-05:00",
+              "time": "2026-10-21 20:20",
               "timezone": "America/Lima",
               "agendaOrder": 16,
               "image": "",
@@ -126,41 +91,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Firpo vs Deportivo Saprissa",
-              "league": "Copa Centroamericana de CONCACAF",
-              "code": "NATIONESCAF",
-              "time": "2026-10-21T19:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 12,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Firpo",
-              "awayTeam": "Deportivo Saprissa",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7232.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/858.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney12",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Cartaginés vs Olimpia",
               "league": "Copa Centroamericana de CONCACAF",
@@ -241,41 +171,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Palmeiras vs Independiente del Valle",
-              "league": "Copa Libertadores Femenina",
-              "code": "LIB",
-              "time": "2026-10-21T19:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 9,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Palmeiras",
-              "awayTeam": "Independiente del Valle",
-              "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/6/68/Sociedade_Esportiva_Palmeiras_logo_%281_red_star%29.svg",
-              "awayLogo": "https://upload.wikimedia.org/wikipedia/en/1/1a/2024_Dragonas_IDV_logo.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "SporTV 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Olimpia Asunción vs Cruzeiro",
               "league": "Copa Libertadores Femenina",
@@ -371,156 +266,11 @@
           "flagUrl": ""
         },
         {
-          "name": "MLS",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Cincinnati vs DC United",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-10-21T18:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 2,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Cincinnati",
-              "awayTeam": "DC United",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.sbs/live1.php?stream=appletv1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Copa Colombia",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Barranquilla vs América de Cali",
-              "league": "Copa Colombia",
-              "code": "COL",
-              "time": "2026-10-21 19:30",
-              "timezone": "America/Lima",
-              "agendaOrder": 13,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Barranquilla",
-              "awayTeam": "América de Cali",
-              "homeLogo": "https://upload.wikimedia.org/wikipedia/en/0/0b/Barranquilla_FC_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/8109.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports",
-                  "url": "https://streamxhd.sbs/live1.php?stream=winsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Copa Libertadores",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Palmeiras vs Fluminense",
-              "league": "Copa Libertadores",
-              "code": "LIB",
-              "time": "2026-10-21T19:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 14,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Palmeiras",
-              "awayTeam": "Fluminense",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney11",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX Sports 1 AR",
-                  "url": "https://streamxhd.sbs/live1.php?stream=fox1ar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Flamengo vs Estudiantes",
               "league": "Copa Libertadores",
@@ -2294,191 +2044,6 @@
           "background": "",
           "events": [
             {
-              "title": "Wizards vs Bucks",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-10-21T18:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 3,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Wizards",
-              "awayTeam": "Bucks",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Magic vs Hawks",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-10-21T18:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 4,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Magic",
-              "awayTeam": "Hawks",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Heat vs Timberwolves",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-10-21T18:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 6,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Heat",
-              "awayTeam": "Timberwolves",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Nets vs Hornets",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-10-21T18:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 7,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Nets",
-              "awayTeam": "Hornets",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Raptors vs Bulls",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-10-21T18:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 8,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Raptors",
-              "awayTeam": "Bulls",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Pelicans vs Pacers",
               "league": "NBA",
               "code": "NBA",
@@ -2899,5 +2464,5 @@
       ]
     }
   ],
-  "updated": "2026-10-21 20:05:39"
+  "updated": "2026-10-21 21:43:58"
 }
