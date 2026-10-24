@@ -312,41 +312,6 @@
           "background": "",
           "events": [
             {
-              "title": "GP Australia - Sprint",
-              "league": "MotoGP",
-              "code": "MOTOGP",
-              "time": "2026-10-23 22:30",
-              "timezone": "America/Lima",
-              "agendaOrder": 33,
-              "image": "",
-              "logo": "",
-              "homeTeam": "GP Australia",
-              "awayTeam": "Sprint",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 4",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "GP Australia - Carrera Moto3, Moto2 y MotoGP",
               "league": "MotoGP",
               "code": "MOTOGP",
@@ -1304,41 +1269,6 @@
           "background": "",
           "events": [
             {
-              "title": "Central Español vs Albion",
-              "league": "Liga Uruguay",
-              "code": "URU",
-              "time": "2026-10-24T08:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 39,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Central Español",
-              "awayTeam": "Albion",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131688.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21403.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Defensor Sporting vs Racing",
               "league": "Liga Uruguay",
               "code": "URU",
@@ -1607,41 +1537,6 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": ""
-            },
-            {
-              "title": "Hertha BSC vs Arminia Bielefeld",
-              "league": "Bundesliga 2",
-              "code": "ALE",
-              "time": "2026-10-24T06:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 34,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Hertha BSC",
-              "awayTeam": "Arminia Bielefeld",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX Sports 1 AR",
-                  "url": "https://streamxhd.sbs/live1.php?stream=fox1ar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
             }
           ],
           "flagCode": "",
@@ -1653,81 +1548,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Aston Villa vs Manchester City",
-              "league": "Premier League",
-              "code": "ENG",
-              "time": "2026-10-24T06:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 35,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Aston Villa",
-              "awayTeam": "Manchester City",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN AR",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espnar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Universo",
-                  "url": "https://streamxhd.sbs/live1.php?stream=universo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "HBO Max 1",
-                  "url": "https://streamxhd.sbs/live1.php?stream=max1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Arsenal vs Everton",
               "league": "Premier League",
@@ -1924,41 +1744,6 @@
           "background": "",
           "events": [
             {
-              "title": "Charlton Athletic vs Norwich City",
-              "league": "Championship",
-              "code": "ENG",
-              "time": "2026-10-24T06:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 36,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Charlton Athletic",
-              "awayTeam": "Norwich City",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/372.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/381.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 5",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Preston North End vs West Bromwich Albion",
               "league": "Championship",
               "code": "ENG",
@@ -2003,71 +1788,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Rayo Vallecano vs Elche",
-              "league": "LaLiga",
-              "code": "ES",
-              "time": "2026-10-24T07:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 37,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Rayo Vallecano",
-              "awayTeam": "Elche",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espnplus1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN Deportes",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espndeportes",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Racing Santander vs Espanyol",
               "league": "LaLiga",
@@ -2284,41 +2004,6 @@
           "background": "",
           "events": [
             {
-              "title": "Córdoba vs Eibar",
-              "league": "LaLiga SmartBank",
-              "code": "ES",
-              "time": "2026-10-24T07:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 38,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Córdoba",
-              "awayTeam": "Eibar",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/8447.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3752.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "LaLiga Hypermotion",
-                  "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Leganés vs Mallorca",
               "league": "LaLiga SmartBank",
               "code": "ES",
@@ -2468,86 +2153,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Cagliari vs Bologna",
-              "league": "Serie A",
-              "code": "IT",
-              "time": "2026-10-24T08:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 40,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Cagliari",
-              "awayTeam": "Bologna",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Como vs Sassuolo",
-              "league": "Serie A",
-              "code": "IT",
-              "time": "2026-10-24T08:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 41,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Como",
-              "awayTeam": "Sassuolo",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Napoli vs Roma",
               "league": "Serie A",
@@ -4290,5 +3895,5 @@
       ]
     }
   ],
-  "updated": "2026-10-24 00:25:01"
+  "updated": "2026-10-24 10:28:56"
 }
