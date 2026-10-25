@@ -404,51 +404,6 @@
           "background": "",
           "events": [
             {
-              "title": "Deportivo Moquegua vs Alianza Lima",
-              "league": "Liga 1",
-              "code": "PE",
-              "time": "2026-10-25T13:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 95,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Deportivo Moquegua",
-              "awayTeam": "Alianza Lima",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131654.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2680.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "L1 Max",
-                  "url": "https://streamxhd.sbs/live1.php?stream=l1max",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Movistar Deportes",
-                  "url": "https://streamxhd.sbs/live1.php?stream=movistarpe",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Sport Boys vs FC Cajamarca",
               "league": "Liga 1",
               "code": "PE",
@@ -653,41 +608,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Aldosivi vs Belgrano",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-10-25T12:45:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 92,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Aldosivi",
-              "awayTeam": "Belgrano",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9739.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN Premium",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espnpremium",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Independiente vs Boca Juniors",
               "league": "Liga Profesional",
@@ -921,41 +841,6 @@
               "awayTeam": "Deportes Limache",
               "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/fyj9u51602187758.png/medium",
               "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/19195.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports Chile",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Unión La Calera vs Universidad Católica",
-              "league": "Liga Chile",
-              "code": "CH",
-              "time": "2026-10-25T13:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 93,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Unión La Calera",
-              "awayTeam": "Universidad Católica",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10144.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/885.png",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -1329,41 +1214,6 @@
           "background": "",
           "events": [
             {
-              "title": "Tlaxcala vs Correcaminos UAT",
-              "league": "Liga de Expansión MX",
-              "code": "MEX",
-              "time": "2026-10-25T13:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 94,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Tlaxcala",
-              "awayTeam": "Correcaminos UAT",
-              "homeLogo": "https://a.espncdn.com/guid/ad1afdd8-e4fd-3c4b-9a80-4b80924bed85/logos/default.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/8931.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney24",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Tapatío vs Atlético Morelia",
               "league": "Liga de Expansión MX",
               "code": "MEX",
@@ -1474,61 +1324,6 @@
           "background": "",
           "events": [
             {
-              "title": "Real Sociedad vs Levante",
-              "league": "LaLiga",
-              "code": "ES",
-              "time": "2026-10-25T12:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 90,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Real Sociedad",
-              "awayTeam": "Levante",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=dsports2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espnplus3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN Deportes",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espndeportes",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Barcelona vs Real Madrid",
               "league": "LaLiga",
               "code": "ES",
@@ -1600,51 +1395,6 @@
                 {
                   "name": "DAZN LaLiga",
                   "url": "https://streamxhd.sbs/live1.php?stream=daznlaliga",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "LaLiga SmartBank",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "CD Castellón vs Sporting Gijón",
-              "league": "LaLiga SmartBank",
-              "code": "ES",
-              "time": "2026-10-25T12:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 91,
-              "image": "",
-              "logo": "",
-              "homeTeam": "CD Castellón",
-              "awayTeam": "Sporting Gijón",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4438.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3788.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "LaLiga Hypermotion",
-                  "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -2143,111 +1893,6 @@
           "background": "",
           "events": [
             {
-              "title": "Baltimore Ravens vs Cincinnati Bengals",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-10-25T12:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 86,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Baltimore Ravens",
-              "awayTeam": "Cincinnati Bengals",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 5",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Minnesota Vikings vs Indianapolis Colts",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-10-25T12:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 87,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Minnesota Vikings",
-              "awayTeam": "Indianapolis Colts",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 7",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Baltimore Ravens vs Cincinnati Bengals",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-10-25T12:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 88,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Baltimore Ravens",
-              "awayTeam": "Cincinnati Bengals",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Canal 9 MX",
-                  "url": "https://streamxhd.sbs/live1.php?stream=canal9mx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Arizona Cardinals vs Denver Broncos",
               "league": "NFL",
               "code": "NFL",
@@ -2394,5 +2039,5 @@
       ]
     }
   ],
-  "updated": "2026-10-25 14:37:15"
+  "updated": "2026-10-25 15:36:32"
 }
