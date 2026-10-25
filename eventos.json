@@ -1314,61 +1314,6 @@
           "background": "",
           "events": [
             {
-              "title": "Pumas UNAM vs Tigres UANL",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-10-24T22:10:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 49,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Pumas UNAM",
-              "awayTeam": "Tigres UANL",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/233.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/232.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Canal 5 MX",
-                  "url": "https://streamxhd.sbs/live1.php?stream=canal5mx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN MX",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tudnmx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Atlas vs Puebla",
               "league": "Liga MX",
               "code": "LIGAMX",
@@ -1549,76 +1494,6 @@
           "background": "",
           "events": [
             {
-              "title": "Portland Timbers vs Charlotte",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-10-24T21:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 47,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Portland Timbers",
-              "awayTeam": "Charlotte",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21300.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.sbs/live1.php?stream=appletv14",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "San Diego vs Seattle Sounders FC",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-10-24T21:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 48,
-              "image": "",
-              "logo": "",
-              "homeTeam": "San Diego",
-              "awayTeam": "Seattle Sounders FC",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/22529.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.sbs/live1.php?stream=appletv15",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Los Angeles FC vs LA Galaxy",
               "league": "MLS",
               "code": "MLS",
@@ -1743,71 +1618,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Internazionale vs Fiorentina",
-              "league": "Serie A",
-              "code": "IT",
-              "time": "2026-10-25T06:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 50,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Internazionale",
-              "awayTeam": "Fiorentina",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN AR",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espnar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Telemundo",
-                  "url": "https://streamxhd.sbs/live1.php?stream=telemundo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Atalanta vs Frosinone",
               "league": "Serie A",
@@ -3496,41 +3306,6 @@
           "background": "",
           "events": [
             {
-              "title": "Suns vs Warriors",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-10-24 21:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 45,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Suns",
-              "awayTeam": "Warriors",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba8",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Jazz vs Lakers",
               "league": "NBA",
               "code": "NBA",
@@ -3762,58 +3537,6 @@
                 {
                   "name": "NBA League Pass",
                   "url": "https://streamxhd.sbs/live1.php?stream=nba7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
-    },
-    {
-      "id": "boxing",
-      "name": "Boxing",
-      "icon": "🥊",
-      "leagues": [
-        {
-          "name": "ESPN Knockout",
-          "logo": "https://static.vecteezy.com/system/resources/thumbnails/027/128/144/small/the-bright-red-boxing-gloves-collided-png.png",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Emanuel Navarrete vs O'Shaquie Foster",
-              "league": "ESPN Knockout",
-              "code": "BOX",
-              "time": "2026-10-24T19:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 36,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Emanuel Navarrete",
-              "awayTeam": "O'Shaquie Foster",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -4131,5 +3854,5 @@
       ]
     }
   ],
-  "updated": "2026-10-24 22:43:47"
+  "updated": "2026-10-25 09:30:16"
 }
