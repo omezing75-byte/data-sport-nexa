@@ -12,45 +12,10 @@
           "background": "",
           "events": [
             {
-              "title": "Alianza vs Inter Bogotá",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-10-25 16:05",
-              "timezone": "America/Lima",
-              "agendaOrder": 117,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Alianza",
-              "awayTeam": "Inter Bogotá",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9761.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7445.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Atlético Nacional vs Medellín",
               "league": "Liga Colombia",
               "code": "COL",
-              "time": "2026-10-25T18:10:00-05:00",
+              "time": "2026-10-25 18:10",
               "timezone": "America/Lima",
               "agendaOrder": 131,
               "image": "",
@@ -137,41 +102,6 @@
           "background": "",
           "events": [
             {
-              "title": "Sport Boys vs FC Cajamarca",
-              "league": "Liga 1",
-              "code": "PE",
-              "time": "2026-10-25T15:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 113,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Sport Boys",
-              "awayTeam": "FC Cajamarca",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5570.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131655.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "L1 Max",
-                  "url": "https://streamxhd.sbs/live1.php?stream=l1max",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Deportivo Garcilaso vs Los Chankas",
               "league": "Liga 1",
               "code": "PE",
@@ -256,186 +186,11 @@
           "flagUrl": ""
         },
         {
-          "name": "Liga Ecuador",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Aucas vs Barcelona",
-              "league": "Liga Ecuador",
-              "code": "ECUA",
-              "time": "2026-10-25T16:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 118,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Aucas",
-              "awayTeam": "Barcelona",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6017.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2686.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Zapping EC",
-                  "url": "https://streamxhd.sbs/live1.php?stream=zapping_ec",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Liga Profesional",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Independiente vs Boca Juniors",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-10-25T15:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 107,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Independiente",
-              "awayTeam": "Boca Juniors",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney28",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN Premium",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espnpremium",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 6",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn6",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Vix +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=vix1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "River Plate vs Racing Club",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-10-25T17:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 120,
-              "image": "",
-              "logo": "",
-              "homeTeam": "River Plate",
-              "awayTeam": "Racing Club",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/15.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tntsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Vix +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=vix2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Barracas Central vs Estudiantes Río Cuarto",
               "league": "Liga Profesional",
@@ -539,41 +294,6 @@
               "awayTeam": "Deportes Limache",
               "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/fyj9u51602187758.png/medium",
               "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/19195.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports Chile",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Palestino vs Colo-Colo",
-              "league": "Liga Chile",
-              "code": "CH",
-              "time": "2026-10-25T15:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 114,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Palestino",
-              "awayTeam": "Colo-Colo",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4422.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2688.png",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -916,141 +636,11 @@
           "flagUrl": ""
         },
         {
-          "name": "LaLiga",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Barcelona vs Real Madrid",
-              "league": "LaLiga",
-              "code": "ES",
-              "time": "2026-10-25T15:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 108,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Barcelona",
-              "awayTeam": "Real Madrid",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports Global",
-                  "url": "https://streamxhd.sbs/channel/?id=dsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Premier Sports 1 Global",
-                  "url": "https://streamxhd.click/channel/?id=ps1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "DSports",
-                  "url": "https://streamxhd.sbs/live1.php?stream=dsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espnplus4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN Deportes",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espndeportes",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "DAZN LaLiga",
-                  "url": "https://streamxhd.sbs/live1.php?stream=daznlaliga",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Messi Cup",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Manchester City Academy vs Boca Juniors Academy",
-              "league": "Messi Cup",
-              "code": "FUT",
-              "time": "2026-10-25 15:20",
-              "timezone": "America/Lima",
-              "agendaOrder": 111,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Manchester City Academy",
-              "awayTeam": "Boca Juniors Academy",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "River Plate Academy vs Chelsea Academy",
               "league": "Messi Cup",
@@ -1089,51 +679,6 @@
           ],
           "flagCode": "",
           "flagUrl": ""
-        },
-        {
-          "name": "Primeira Liga",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Sporting CP vs Academico Viseu",
-              "league": "Primeira Liga",
-              "code": "POR",
-              "time": "2026-10-25T15:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 115,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Sporting CP",
-              "awayTeam": "Academico Viseu",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21607.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=dsports2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
         }
       ]
     },
@@ -1148,41 +693,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Jazz vs Lakers",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-10-25T16:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 116,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Jazz",
-              "awayTeam": "Lakers",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/uta.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Nets vs Pacers",
               "league": "NBA",
@@ -1411,111 +921,6 @@
           "background": "",
           "events": [
             {
-              "title": "Arizona Cardinals vs Denver Broncos",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-10-25T15:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 109,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Arizona Cardinals",
-              "awayTeam": "Denver Broncos",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 7",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Las Vegas Raiders vs Los Angeles Rams",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-10-25T15:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 110,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Las Vegas Raiders",
-              "awayTeam": "Los Angeles Rams",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 5",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Detroit Lions vs Green Bay Packers",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-10-25T15:25:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 112,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Detroit Lions",
-              "awayTeam": "Green Bay Packers",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Canal 5 MX",
-                  "url": "https://streamxhd.sbs/live1.php?stream=canal5mx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Seattle Seahawks vs Kansas City Chiefs",
               "league": "NFL",
               "code": "NFL",
@@ -1557,5 +962,5 @@
       ]
     }
   ],
-  "updated": "2026-10-25 17:10:21"
+  "updated": "2026-10-25 19:25:58"
 }
