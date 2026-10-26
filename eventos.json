@@ -1,238 +1,6 @@
 {
   "sports": [
     {
-      "id": "motor",
-      "name": "Motor",
-      "icon": "🏎️",
-      "leagues": [
-        {
-          "name": "F1",
-          "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "GP Estados Unidos (Austin) - Carrera",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-10-25 15:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 102,
-              "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-              "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-              "homeTeam": "GP Estados Unidos (Austin)",
-              "awayTeam": "Carrera",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney29",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "DAZN F1",
-                  "url": "https://streamxhd.sbs/live1.php?stream=daznf1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX Sports 1 AR",
-                  "url": "https://streamxhd.sbs/live1.php?stream=fox1ar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "SporTV 3",
-                  "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "GP Estados Unidos (Austin) - Race Hub",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-10-25T15:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 103,
-              "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-              "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-              "homeTeam": "GP Estados Unidos (Austin)",
-              "awayTeam": "Race Hub",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney30",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "GP Estados Unidos (Austin) - On Board Colapinto",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-10-25T15:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 104,
-              "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-              "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-              "homeTeam": "GP Estados Unidos (Austin)",
-              "awayTeam": "On Board Colapinto",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "GP Estados Unidos (Austin) - On Board Russell",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-10-25T15:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 105,
-              "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-              "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-              "homeTeam": "GP Estados Unidos (Austin)",
-              "awayTeam": "On Board Russell",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "GP Estados Unidos (Austin) - Cámara On Board",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-10-25T15:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 106,
-              "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-              "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-              "homeTeam": "GP Estados Unidos (Austin)",
-              "awayTeam": "Cámara On Board",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
-    },
-    {
       "id": "football",
       "name": "Football",
       "icon": "⚽",
@@ -244,45 +12,10 @@
           "background": "",
           "events": [
             {
-              "title": "Fortaleza CEIF vs Deportivo Cali",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-10-25T14:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 97,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Fortaleza CEIF",
-              "awayTeam": "Deportivo Cali",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4928.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2672.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Alianza vs Inter Bogotá",
               "league": "Liga Colombia",
               "code": "COL",
-              "time": "2026-10-25T16:05:00-05:00",
+              "time": "2026-10-25 16:05",
               "timezone": "America/Lima",
               "agendaOrder": 117,
               "image": "",
@@ -528,41 +261,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Emelec vs Guayaquil City",
-              "league": "Liga Ecuador",
-              "code": "ECUA",
-              "time": "2026-10-25T14:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 98,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Emelec",
-              "awayTeam": "Guayaquil City",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2668.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11124.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Zapping EC",
-                  "url": "https://streamxhd.sbs/live1.php?stream=zapping_ec",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Aucas vs Barcelona",
               "league": "Liga Ecuador",
@@ -909,41 +607,6 @@
           "background": "",
           "events": [
             {
-              "title": "Cerro Largo vs Boston River",
-              "league": "Liga Uruguay",
-              "code": "URU",
-              "time": "2026-10-25T14:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 99,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Cerro Largo",
-              "awayTeam": "Boston River",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9902.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9999.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney25",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Nacional vs Liverpool",
               "league": "Liga Uruguay",
               "code": "URU",
@@ -1253,71 +916,6 @@
           "flagUrl": ""
         },
         {
-          "name": "Serie A",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Udinese vs Milan",
-              "league": "Serie A",
-              "code": "IT",
-              "time": "2026-10-25T14:45:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 101,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Udinese",
-              "awayTeam": "Milan",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney27",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Telemundo",
-                  "url": "https://streamxhd.sbs/live1.php?stream=telemundo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "LaLiga",
           "logo": "",
           "image": "",
@@ -1413,91 +1011,11 @@
           "flagUrl": ""
         },
         {
-          "name": "Eredivisie",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "AZ vs Twente",
-              "league": "Eredivisie",
-              "code": "HOL",
-              "time": "2026-10-25T14:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 100,
-              "image": "",
-              "logo": "",
-              "homeTeam": "AZ",
-              "awayTeam": "Twente",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/152.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney26",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Messi Cup",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "FC Barcelona Academy vs Palmeiras Academy",
-              "league": "Messi Cup",
-              "code": "FUT",
-              "time": "2026-10-25 13:50",
-              "timezone": "America/Lima",
-              "agendaOrder": 96,
-              "image": "",
-              "logo": "",
-              "homeTeam": "FC Barcelona Academy",
-              "awayTeam": "Palmeiras Academy",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png/medium",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Manchester City Academy vs Boca Juniors Academy",
               "league": "Messi Cup",
@@ -2039,5 +1557,5 @@
       ]
     }
   ],
-  "updated": "2026-10-25 15:36:32"
+  "updated": "2026-10-25 17:10:21"
 }
