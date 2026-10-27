@@ -307,41 +307,6 @@
           "background": "",
           "events": [
             {
-              "title": "FC Barcelona Academy vs Newell's Old Boys Academy",
-              "league": "Messi Cup",
-              "code": "FUT",
-              "time": "2026-10-27T13:50:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 28,
-              "image": "",
-              "logo": "",
-              "homeTeam": "FC Barcelona Academy",
-              "awayTeam": "Newell's Old Boys Academy",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 5",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "River Plate Academy vs Inter Milan Academy",
               "league": "Messi Cup",
               "code": "FUT",
@@ -522,76 +487,6 @@
           "background": "",
           "events": [
             {
-              "title": "Sestao River vs Espanyol",
-              "league": "Copa del Rey",
-              "code": "ES",
-              "time": "2026-10-27T13:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 25,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Sestao River",
-              "awayTeam": "Espanyol",
-              "homeLogo": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ee/Sestao_River_Club_logo.svg/250px-Sestao_River_Club_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espnplus1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Pinatar vs Elche",
-              "league": "Copa del Rey",
-              "code": "ES",
-              "time": "2026-10-27T13:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 26,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Pinatar",
-              "awayTeam": "Elche",
-              "homeLogo": "https://statics-maker.llt-services.com/master-football/football-images/bfd997342af58df71ad377ac683eee7c.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espnplus2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Manacor vs Villarreal",
               "league": "Copa del Rey",
               "code": "ES",
@@ -683,51 +578,6 @@
                 {
                   "name": "ESPN +",
                   "url": "https://streamxhd.sbs/live1.php?stream=espnplus5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Champions League Elite",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Al Shamal vs Al Hilal",
-              "league": "Champions League Elite",
-              "code": "AFCCHA",
-              "time": "2026-10-27T13:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 27,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Al Shamal",
-              "awayTeam": "Al Hilal",
-              "homeLogo": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/8f/Al-Shamal_SC_logo.svg/250px-Al-Shamal_SC_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/929.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney6",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -1240,5 +1090,5 @@
       ]
     }
   ],
-  "updated": "2026-10-27 15:03:14"
+  "updated": "2026-10-27 16:04:32"
 }
