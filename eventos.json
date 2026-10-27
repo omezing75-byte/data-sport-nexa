@@ -6,116 +6,16 @@
       "icon": "⚽",
       "leagues": [
         {
-          "name": "Messi Cup",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Palmeiras Academy vs Newell's Old Boys Academy",
-              "league": "Messi Cup",
-              "code": "FUT",
-              "time": "2026-10-26 17:10",
-              "timezone": "America/Lima",
-              "agendaOrder": 18,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Palmeiras Academy",
-              "awayTeam": "Newell's Old Boys Academy",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/14.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Liga Profesional",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
             {
-              "title": "Unión Santa Fe vs Estudiantes",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-10-26T17:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 16,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Unión Santa Fe",
-              "awayTeam": "Estudiantes",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/8.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney9",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN Premium",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espnpremium",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN AR",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espnar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Instituto vs Deportivo Riestra",
               "league": "Liga Profesional",
               "code": "AR",
-              "time": "2026-10-26T19:15:00-05:00",
+              "time": "2026-10-26 19:15",
               "timezone": "America/Lima",
               "agendaOrder": 29,
               "image": "",
@@ -799,5 +699,5 @@
       ]
     }
   ],
-  "updated": "2026-10-26 18:16:14"
+  "updated": "2026-10-26 19:39:11"
 }
