@@ -6,141 +6,16 @@
       "icon": "⚽",
       "leagues": [
         {
-          "name": "Copa de Rusia",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "CSKA Moskva vs Lokomotiv Moskva",
-              "league": "Copa de Rusia",
-              "code": "RUS",
-              "time": "2026-10-29 11:30",
-              "timezone": "America/Lima",
-              "agendaOrder": 80,
-              "image": "",
-              "logo": "",
-              "homeTeam": "CSKA Moskva",
-              "awayTeam": "Lokomotiv Moskva",
-              "homeLogo": "https://r2.thesportsdb.com/images/media/team/badge/1hf19s1681319986.png/medium",
-              "awayLogo": "https://upload.wikimedia.org/wikipedia/en/9/93/FC_Lokomotiv_Moscow_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=dsports2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Copa Mundial Femenina Sub-17",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
             {
-              "title": "China vs Francia",
-              "league": "Copa Mundial Femenina Sub-17",
-              "code": "FUT",
-              "time": "2026-10-29T10:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 78,
-              "image": "",
-              "logo": "",
-              "homeTeam": "China",
-              "awayTeam": "Francia",
-              "homeLogo": "https://flagcdn.com/w320/cn.png",
-              "awayLogo": "https://flagcdn.com/w320/fr.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports Plus",
-                  "url": "https://streamxhd.sbs/live1.php?stream=dsportsplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Nigeria vs México",
-              "league": "Copa Mundial Femenina Sub-17",
-              "code": "FUT",
-              "time": "2026-10-29T10:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 79,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Nigeria",
-              "awayTeam": "México",
-              "homeLogo": "https://flagcdn.com/w320/ng.png",
-              "awayLogo": "https://flagcdn.com/w320/mx.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TUDN MX",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tudnmx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Canal 9 MX",
-                  "url": "https://streamxhd.sbs/live1.php?stream=canal9mx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "España vs Estados Unidos",
               "league": "Copa Mundial Femenina Sub-17",
               "code": "FUT",
-              "time": "2026-10-29T13:00:00-05:00",
+              "time": "2026-10-29 13:00",
               "timezone": "America/Lima",
               "agendaOrder": 84,
               "image": "",
@@ -1544,41 +1419,6 @@
           "background": "",
           "events": [
             {
-              "title": "LA Clippers vs Los Angeles Lakers",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-10-28T21:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 75,
-              "image": "",
-              "logo": "",
-              "homeTeam": "LA Clippers",
-              "awayTeam": "Los Angeles Lakers",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Pelicans vs Kings",
               "league": "NBA",
               "code": "NBA",
@@ -1804,5 +1644,5 @@
       ]
     }
   ],
-  "updated": "2026-10-29 00:21:55"
+  "updated": "2026-10-29 14:28:58"
 }
