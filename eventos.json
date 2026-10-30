@@ -12,41 +12,6 @@
           "background": "",
           "events": [
             {
-              "title": "Trail Blazers vs Grizzlies",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-10-29 21:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 11,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Trail Blazers",
-              "awayTeam": "Grizzlies",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Golden State Warriors vs Los Angeles Lakers",
               "league": "NBA",
               "code": "NBA",
@@ -593,51 +558,6 @@
           "flagUrl": ""
         },
         {
-          "name": "Copa Centroamericana de CONCACAF",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Alajuelense vs Motagua",
-              "league": "Copa Centroamericana de CONCACAF",
-              "code": "NATIONESCAF",
-              "time": "2026-10-29T21:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 10,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Alajuelense",
-              "awayTeam": "Motagua",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2057.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7242.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Liga de Expansión MX",
           "logo": "",
           "image": "",
@@ -665,51 +585,6 @@
                 {
                   "name": "Disney +",
                   "url": "https://streamxhd.sbs/live1.php?stream=disney16",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga Nacional",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Marquense vs Guastatoya",
-              "league": "Liga Nacional",
-              "code": "GUA",
-              "time": "2026-10-29T21:10:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 12,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Marquense",
-              "awayTeam": "Guastatoya",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7252.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17516.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX Deportes USA",
-                  "url": "https://streamxhd.sbs/live1.php?stream=fox_deportes_usa",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -2389,5 +2264,5 @@
       ]
     }
   ],
-  "updated": "2026-10-29 23:04:31"
+  "updated": "2026-10-30 09:03:25"
 }
