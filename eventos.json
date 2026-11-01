@@ -789,51 +789,6 @@
           "background": "",
           "events": [
             {
-              "title": "Como vs Venezia",
-              "league": "Serie A",
-              "code": "IT",
-              "time": "2026-11-01T06:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 15,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Como",
-              "awayTeam": "Venezia",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Frosinone vs Torino",
               "league": "Serie A",
               "code": "IT",
@@ -998,91 +953,11 @@
           "flagUrl": ""
         },
         {
-          "name": "Bundesliga 2",
-          "logo": "https://upload.wikimedia.org/wikipedia/en/7/7b/2._Bundesliga_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Hannover 96 vs Dynamo Dresden",
-              "league": "Bundesliga 2",
-              "code": "ALE",
-              "time": "2026-11-01T07:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 16,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Hannover 96",
-              "awayTeam": "Dynamo Dresden",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2428.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7017.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX Sports 1 AR",
-                  "url": "https://streamxhd.sbs/live1.php?stream=fox1ar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Primera División",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Progreso vs Defensor Sporting",
-              "league": "Primera División",
-              "code": "URU",
-              "time": "2026-11-01T08:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 17,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Progreso",
-              "awayTeam": "Defensor Sporting",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6866.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/1007.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Boston River vs Torque",
               "league": "Primera División",
@@ -1198,91 +1073,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Getafe vs Sevilla",
-              "league": "LaLiga",
-              "code": "ES",
-              "time": "2026-11-01T08:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 18,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Getafe",
-              "awayTeam": "Sevilla",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 2 AR",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn2ar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Canal 5 MX",
-                  "url": "https://streamxhd.sbs/live1.php?stream=canal5mx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espnplus1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN Deportes",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espndeportes",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Racing Santander vs Real Madrid",
               "league": "LaLiga",
@@ -1499,51 +1289,6 @@
           "background": "",
           "events": [
             {
-              "title": "Trabzonspor vs Gaziantep FK",
-              "league": "Super Lig",
-              "code": "TUR",
-              "time": "2026-11-01 08:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 20,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Trabzonspor",
-              "awayTeam": "Gaziantep FK",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/997.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20070.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 7",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX Sports 3 AR",
-                  "url": "https://streamxhd.sbs/live1.php?stream=fox3ar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Kasimpasa vs Besiktas",
               "league": "Super Lig",
               "code": "TUR",
@@ -1588,41 +1333,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Eldense vs Granada",
-              "league": "LaLiga SmartBank",
-              "code": "ES",
-              "time": "2026-11-01T08:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 21,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Eldense",
-              "awayTeam": "Granada",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7320.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3747.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "LaLiga Hypermotion",
-                  "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Ceuta vs Sporting Gijón",
               "league": "LaLiga SmartBank",
@@ -3603,5 +3313,5 @@
       ]
     }
   ],
-  "updated": "2026-11-01 06:02:11"
+  "updated": "2026-11-01 11:01:50"
 }
