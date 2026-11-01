@@ -12,45 +12,10 @@
           "background": "",
           "events": [
             {
-              "title": "Houston Rockets vs Oklahoma City Thunder",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-10-31 19:30",
-              "timezone": "America/Lima",
-              "agendaOrder": 7,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Houston Rockets",
-              "awayTeam": "Oklahoma City Thunder",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Orlando Magic vs Boston Celtics",
               "league": "NBA",
               "code": "NBA",
-              "time": "2026-11-01T15:30:00-05:00",
+              "time": "2026-11-01 15:30",
               "timezone": "America/Lima",
               "agendaOrder": 67,
               "image": "",
@@ -474,61 +439,6 @@
           "background": "",
           "events": [
             {
-              "title": "América vs Toluca",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-10-31T22:10:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 12,
-              "image": "",
-              "logo": "",
-              "homeTeam": "América",
-              "awayTeam": "Toluca",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/227.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/223.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TUDN MX",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tudnmx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Canal 5 MX",
-                  "url": "https://streamxhd.sbs/live1.php?stream=canal5mx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Santos Laguna vs Necaxa",
               "league": "Liga MX",
               "code": "LIGAMX",
@@ -638,41 +548,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Colorado Rapids vs Chicago Fire",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-10-31T20:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 11,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Colorado Rapids",
-              "awayTeam": "Chicago Fire",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.sbs/live1.php?stream=appletv9",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Vancouver Whitecaps vs Seattle Sounders FC",
               "league": "MLS",
@@ -3025,86 +2900,6 @@
       "icon": "🏎️",
       "leagues": [
         {
-          "name": "MotoGP",
-          "logo": "https://r2.thesportsdb.com/images/media/league/badge/gg3c201768486075.png/medium",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "GP Malasia - Carrera Moto3, Moto2 y MotoGP",
-              "league": "MotoGP",
-              "code": "MOTOGP",
-              "time": "2026-10-31T22:45:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 13,
-              "image": "",
-              "logo": "",
-              "homeTeam": "GP Malasia",
-              "awayTeam": "Carrera Moto3, Moto2 y MotoGP",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "GP Malasia - Carrera Moto2 y MotoGP",
-              "league": "MotoGP",
-              "code": "MOTOGP",
-              "time": "2026-11-01T00:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 14,
-              "image": "",
-              "logo": "",
-              "homeTeam": "GP Malasia",
-              "awayTeam": "Carrera Moto2 y MotoGP",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "F1",
           "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
           "image": "",
@@ -3808,5 +3603,5 @@
       ]
     }
   ],
-  "updated": "2026-10-31 22:21:48"
+  "updated": "2026-11-01 06:02:11"
 }
