@@ -12,45 +12,10 @@
           "background": "",
           "events": [
             {
-              "title": "Charlotte Hornets vs Philadelphia 76ers",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-10-31 17:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 66,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Charlotte Hornets",
-              "awayTeam": "Philadelphia 76ers",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "New Orleans Pelicans vs Atlanta Hawks",
               "league": "NBA",
               "code": "NBA",
-              "time": "2026-10-31T18:00:00-05:00",
+              "time": "2026-10-31 18:00",
               "timezone": "America/Lima",
               "agendaOrder": 70,
               "image": "",
@@ -243,91 +208,11 @@
       "icon": "⚽",
       "leagues": [
         {
-          "name": "Primeira Liga",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Porto vs Estoril",
-              "league": "Primeira Liga",
-              "code": "POR",
-              "time": "2026-10-31T15:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 57,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Porto",
-              "awayTeam": "Estoril",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/12216.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports",
-                  "url": "https://streamxhd.sbs/live1.php?stream=dsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Liga Profesional",
           "logo": "https://upload.wikimedia.org/wikipedia/en/6/64/Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Vélez Sarsfield vs San Lorenzo",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-10-31T17:15:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 67,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Vélez Sarsfield",
-              "awayTeam": "San Lorenzo",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tntsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Estudiantes vs Instituto",
               "league": "Liga Profesional",
@@ -368,181 +253,11 @@
           "flagUrl": ""
         },
         {
-          "name": "Liga Chile",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "O'Higgins vs Ñublense",
-              "league": "Liga Chile",
-              "code": "CH",
-              "time": "2026-10-31T18:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 71,
-              "image": "",
-              "logo": "",
-              "homeTeam": "O'Higgins",
-              "awayTeam": "Ñublense",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6072.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/7427.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports Chile",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga Paraguay",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Sportivo Luqueño vs Nacional Asunción",
-              "league": "Liga Paraguay",
-              "code": "LIGAPY",
-              "time": "2026-10-31T17:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 68,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Sportivo Luqueño",
-              "awayTeam": "Nacional Asunción",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5583.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5584.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Tigo Sports",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tigo1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Sportivo San Lorenzo vs Libertad",
-              "league": "Liga Paraguay",
-              "code": "LIGAPY",
-              "time": "2026-10-31T17:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 69,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Sportivo San Lorenzo",
-              "awayTeam": "Libertad",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17671.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2670.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Tigo Sports 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tigo2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Liga MX",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Pachuca vs Tigres UANL",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-10-31T18:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 72,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Pachuca",
-              "awayTeam": "Tigres UANL",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/234.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/232.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX One",
-                  "url": "https://streamxhd.sbs/live1.php?stream=foxone",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Monterrey vs Tijuana",
               "league": "Liga MX",
@@ -713,51 +428,6 @@
           "flagUrl": ""
         },
         {
-          "name": "Liga Ecuador",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Macará vs Barcelona",
-              "league": "Liga Ecuador",
-              "code": "ECUA",
-              "time": "2026-10-31T16:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 65,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Macará",
-              "awayTeam": "Barcelona",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/18439.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2686.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Zapping EC",
-                  "url": "https://streamxhd.sbs/live1.php?stream=zapping_ec",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Copa Libertadores Femenina",
           "logo": "",
           "image": "",
@@ -813,126 +483,11 @@
           "flagUrl": ""
         },
         {
-          "name": "Liga 1",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=original",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Alianza Atlético vs Juan Pablo II College",
-              "league": "Liga 1",
-              "code": "PE",
-              "time": "2026-10-31T15:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 58,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Alianza Atlético",
-              "awayTeam": "Juan Pablo II College",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5267.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/22534.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "L1 Max",
-                  "url": "https://streamxhd.sbs/live1.php?stream=l1max",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "MLS",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "LA Galaxy vs Austin",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-10-31T16:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 59,
-              "image": "",
-              "logo": "",
-              "homeTeam": "LA Galaxy",
-              "awayTeam": "Austin",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20906.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.sbs/live1.php?stream=appletv7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "SJ Earthquakes vs Real Salt Lake",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-10-31T16:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 60,
-              "image": "",
-              "logo": "",
-              "homeTeam": "SJ Earthquakes",
-              "awayTeam": "Real Salt Lake",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV Español",
-                  "url": "https://streamxhd.sbs/live1.php?stream=appletv8",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Colorado Rapids vs Chicago Fire",
               "league": "MLS",
@@ -979,161 +534,6 @@
       "name": "Motor",
       "icon": "🏎️",
       "leagues": [
-        {
-          "name": "F1",
-          "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "GP México - Clasificación",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-10-31T16:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 61,
-              "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-              "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-              "homeTeam": "GP México",
-              "awayTeam": "Clasificación",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX Sports 1 AR",
-                  "url": "https://streamxhd.sbs/live1.php?stream=fox1ar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "DAZN F1",
-                  "url": "https://streamxhd.sbs/live1.php?stream=daznf1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "SporTV 3",
-                  "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "GP México - On Board Colapinto",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-10-31T16:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 62,
-              "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-              "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-              "homeTeam": "GP México",
-              "awayTeam": "On Board Colapinto",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "GP México - On Board Antonelli",
-              "league": "F1",
-              "code": "F1",
-              "time": "2026-10-31T16:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 63,
-              "image": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-              "logo": "https://r2.thesportsdb.com/images/media/league/logo/jiqa741556460666.png/medium",
-              "homeTeam": "GP México",
-              "awayTeam": "On Board Antonelli",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
         {
           "name": "MotoGP",
           "logo": "https://r2.thesportsdb.com/images/media/league/badge/gg3c201768486075.png/medium",
@@ -1252,67 +652,6 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": ""
-            },
-            {
-              "title": "Preliminares",
-              "league": "UFC",
-              "code": "UFC",
-              "time": "2026-10-31T16:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 64,
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Paramount+",
-                  "url": "https://streamxhd.sbs/live1.php?stream=paramount1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [
-                    "Español"
-                  ],
-                  "customLanguages": "Español",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Paramount+",
-                  "url": "https://streamxhd.sbs/live1.php?stream=paramount2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [
-                    "Inglés"
-                  ],
-                  "customLanguages": "Inglés",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Paramount+",
-                  "url": "https://streamxhd.sbs/live1.php?stream=paramount3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [
-                    "Portugués"
-                  ],
-                  "customLanguages": "Portugués",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
             }
           ],
           "flagCode": "",
@@ -1321,5 +660,5 @@
       ]
     }
   ],
-  "updated": "2026-10-31 17:15:11"
+  "updated": "2026-10-31 20:24:36"
 }
