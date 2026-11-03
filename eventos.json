@@ -591,51 +591,6 @@
           "flagUrl": ""
         },
         {
-          "name": "Copa del Rey",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Copa_del_Rey_logo_%282021%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Anaitasuna FT vs Deportivo Alavés",
-              "league": "Copa del Rey",
-              "code": "ES",
-              "time": "2026-11-03T13:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 20,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Anaitasuna FT",
-              "awayTeam": "Deportivo Alavés",
-              "homeLogo": "",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espnplus1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "AFC Champions League Elite",
           "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/AFC_Champions_League_Elite_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
           "image": "",
@@ -1013,5 +968,5 @@
       ]
     }
   ],
-  "updated": "2026-11-03 07:24:17"
+  "updated": "2026-11-03 13:16:56"
 }
