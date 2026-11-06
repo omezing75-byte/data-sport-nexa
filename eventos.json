@@ -61,86 +61,6 @@
           "flagUrl": ""
         },
         {
-          "name": "Liga de Expansión MX",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Liga_de_expansi%C3%B3n_MX.logopng.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Cancún vs Piratas",
-              "league": "Liga de Expansión MX",
-              "code": "MEX",
-              "time": "2026-11-05T20:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 1,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Cancún",
-              "awayTeam": "Piratas",
-              "homeLogo": "https://upload.wikimedia.org/wikipedia/en/a/a3/Logo_cancun.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-              "awayLogo": "https://upload.wikimedia.org/wikipedia/en/2/25/Piratas_FC_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Durango vs Leones Negros UdeG",
-              "league": "Liga de Expansión MX",
-              "code": "MEX",
-              "time": "2026-11-05T22:05:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 5,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Durango",
-              "awayTeam": "Leones Negros UdeG",
-              "homeLogo": "https://upload.wikimedia.org/wikipedia/en/7/7c/Alacranes_de_Durango_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/10129.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney8",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Liga Profesional",
           "logo": "https://upload.wikimedia.org/wikipedia/en/6/64/Liga_Profesional_de_F%C3%BAtbol_%28Argentina%29_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
           "image": "",
@@ -1299,76 +1219,6 @@
           "background": "",
           "events": [
             {
-              "title": "Phoenix Suns vs Orlando Magic",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-11-05T21:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 3,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Phoenix Suns",
-              "awayTeam": "Orlando Magic",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Golden State Warriors vs Miami Heat",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-11-05T22:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 4,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Golden State Warriors",
-              "awayTeam": "Miami Heat",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Charlotte Hornets vs Boston Celtics",
               "league": "NBA",
               "code": "NBA",
@@ -1710,68 +1560,6 @@
       ]
     },
     {
-      "id": "nfl",
-      "name": "American Football",
-      "icon": "🏈",
-      "leagues": [
-        {
-          "name": "NFL",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Baltimore Ravens vs Jacksonville Jaguars",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-11-05T20:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 2,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Baltimore Ravens",
-              "awayTeam": "Jacksonville Jaguars",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 5",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Fox Sports 3 AR",
-                  "url": "https://streamxhd.sbs/live1.php?stream=fox3ar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
-    },
-    {
       "id": "motor",
       "name": "Motor",
       "icon": "🏎️",
@@ -2055,51 +1843,6 @@
           ],
           "flagCode": "",
           "flagUrl": ""
-        },
-        {
-          "name": "MotoGP",
-          "logo": "https://r2.thesportsdb.com/images/media/league/badge/gg3c201768486075.png/medium",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "GP Qatar - Práctica Libre Moto3, Moto2 y MotoGP",
-              "league": "MotoGP",
-              "code": "MOTOGP",
-              "time": "2026-11-06 09:10",
-              "timezone": "America/Lima",
-              "agendaOrder": 6,
-              "image": "",
-              "logo": "",
-              "homeTeam": "",
-              "awayTeam": "",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 150,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
         }
       ]
     },
@@ -2208,5 +1951,5 @@
       ]
     }
   ],
-  "updated": "2026-11-05 22:02:18"
+  "updated": "2026-11-06 12:34:36"
 }
