@@ -12,55 +12,10 @@
           "background": "",
           "events": [
             {
-              "title": "Atlante vs Santos Laguna",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-11-06 22:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 6,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Atlante",
-              "awayTeam": "Santos Laguna",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/226.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/225.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney16",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Atlas vs Pachuca",
               "league": "Liga MX",
               "code": "LIGAMX",
-              "time": "2026-11-07T18:00:00-05:00",
+              "time": "2026-11-07 18:00",
               "timezone": "America/Lima",
               "agendaOrder": 79,
               "image": "",
@@ -3344,86 +3299,6 @@
           "background": "",
           "events": [
             {
-              "title": "Los Angeles Lakers vs Portland Trail Blazers",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-11-06T22:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 7,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Los Angeles Lakers",
-              "awayTeam": "Portland Trail Blazers",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Prime Video 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=amazon2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba8",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Sacramento Kings vs San Antonio Spurs",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-11-06T22:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 8,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Sacramento Kings",
-              "awayTeam": "San Antonio Spurs",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba9",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Indiana Pacers vs Denver Nuggets",
               "league": "NBA",
               "code": "NBA",
@@ -3709,51 +3584,6 @@
       "name": "Boxing",
       "icon": "🥊",
       "leagues": [
-        {
-          "name": "ESPN KnockOut - BXSTRS",
-          "logo": "https://r2.thesportsdb.com/images/media/league/badge/j14hx41784791003.png/medium",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Damián Arce vs Mario Gutiérrez",
-              "league": "ESPN KnockOut - BXSTRS",
-              "code": "BOX",
-              "time": "2026-11-06 21:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 5,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Damián Arce",
-              "awayTeam": "Mario Gutiérrez",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
         {
           "name": "ESPN KnockOut",
           "logo": "https://r2.thesportsdb.com/images/media/league/badge/j14hx41784791003.png/medium",
@@ -4537,5 +4367,5 @@
       ]
     }
   ],
-  "updated": "2026-11-06 23:17:44"
+  "updated": "2026-11-07 08:10:43"
 }
