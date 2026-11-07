@@ -261,151 +261,11 @@
           "flagUrl": ""
         },
         {
-          "name": "Premier League",
-          "logo": "https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Nottingham Forest vs Manchester City",
-              "league": "Premier League",
-              "code": "ENG",
-              "time": "2026-11-07T12:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 34,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Nottingham Forest",
-              "awayTeam": "Manchester City",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney16",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN AR",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espnar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Telemundo",
-                  "url": "https://streamxhd.sbs/live1.php?stream=telemundo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "LaLiga",
           "logo": "https://upload.wikimedia.org/wikipedia/commons/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Osasuna vs Athletic Club",
-              "league": "LaLiga",
-              "code": "ES",
-              "time": "2026-11-07T12:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 35,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Osasuna",
-              "awayTeam": "Athletic Club",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney17",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 4",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espnplus3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN Deportes",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espndeportes",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Valencia vs Real Madrid",
               "league": "LaLiga",
@@ -486,136 +346,11 @@
           "flagUrl": ""
         },
         {
-          "name": "LaLiga SmartBank",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Córdoba vs Ceuta",
-              "league": "LaLiga SmartBank",
-              "code": "ES",
-              "time": "2026-11-07T12:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 36,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Córdoba",
-              "awayTeam": "Ceuta",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/8447.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5404.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "LaLiga Hypermotion 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Leganés vs Albacete",
-              "league": "LaLiga SmartBank",
-              "code": "ES",
-              "time": "2026-11-07T12:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 37,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Leganés",
-              "awayTeam": "Albacete",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17534.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2737.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "LaLiga Hypermotion",
-                  "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Serie A",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Parma vs Bologna",
-              "league": "Serie A",
-              "code": "IT",
-              "time": "2026-11-07T12:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 33,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Parma",
-              "awayTeam": "Bologna",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney15",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN 5",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Libertad vs Emelec",
               "league": "Serie A",
@@ -736,51 +471,6 @@
           "flagUrl": ""
         },
         {
-          "name": "Bundesliga",
-          "logo": "https://upload.wikimedia.org/wikipedia/en/d/df/Bundesliga_logo_%282017%29.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Stuttgart vs Werder Bremen",
-              "league": "Bundesliga",
-              "code": "ALE",
-              "time": "2026-11-07T12:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 38,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Stuttgart",
-              "awayTeam": "Werder Bremen",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney18",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Copa Mundial Femenina Sub-17",
           "logo": "",
           "image": "",
@@ -842,41 +532,6 @@
           "background": "",
           "events": [
             {
-              "title": "Altrincham vs Notts County",
-              "league": "FA Cup",
-              "code": "ENG",
-              "time": "2026-11-07T12:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 39,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Altrincham",
-              "awayTeam": "Notts County",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/633.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/340.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney19",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Peterborough United vs Reading",
               "league": "FA Cup",
               "code": "ENG",
@@ -921,41 +576,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Auxerre vs Paris",
-              "league": "Ligue 1",
-              "code": "FRA",
-              "time": "2026-11-07T13:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 41,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Auxerre",
-              "awayTeam": "Paris",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney21",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "PSG vs Troyes",
               "league": "Ligue 1",
@@ -1011,96 +631,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Gimnasia Mendoza vs Independiente Rivadavia",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-11-07T13:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 42,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Gimnasia Mendoza",
-              "awayTeam": "Independiente Rivadavia",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/11972.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9744.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tntsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Talleres Córdoba vs Estudiantes",
-              "league": "Liga Profesional",
-              "code": "AR",
-              "time": "2026-11-07T13:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 43,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Talleres Córdoba",
-              "awayTeam": "Estudiantes",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/19.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/8.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN Premium",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espnpremium",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney22",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Espn 7",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Argentinos Juniors vs Huracán",
               "league": "Liga Profesional",
@@ -1322,41 +852,6 @@
           "background": "",
           "events": [
             {
-              "title": "La Serena vs Palestino",
-              "league": "Liga Chile",
-              "code": "CH",
-              "time": "2026-11-07T13:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 44,
-              "image": "",
-              "logo": "",
-              "homeTeam": "La Serena",
-              "awayTeam": "Palestino",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4137.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4422.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports Chile",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Everton vs Deportes Concepción",
               "league": "Liga Chile",
               "code": "CH",
@@ -1401,41 +896,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "ADT vs Sporting Cristal",
-              "league": "Liga 1",
-              "code": "PE",
-              "time": "2026-11-07T13:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 45,
-              "image": "",
-              "logo": "",
-              "homeTeam": "ADT",
-              "awayTeam": "Sporting Cristal",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21314.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2673.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "L1 Max",
-                  "url": "https://streamxhd.sbs/live1.php?stream=l1max",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "FC Cajamarca vs Alianza Atlético",
               "league": "Liga 1",
@@ -3014,58 +2474,6 @@
       ]
     },
     {
-      "id": "tennis",
-      "name": "Tennis",
-      "icon": "🎾",
-      "leagues": [
-        {
-          "name": "ATP",
-          "logo": "https://r2.thesportsdb.com/images/media/team/badge/cav6c81546113141.png/medium",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Casper Ruud vs Carlos Alcaraz",
-              "league": "ATP",
-              "code": "ATP",
-              "time": "2026-11-07T11:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 32,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Casper Ruud",
-              "awayTeam": "Carlos Alcaraz",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
-    },
-    {
       "id": "hockey",
       "name": "Hockey",
       "icon": "🏒",
@@ -3076,41 +2484,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Florida Panthers vs Washington Capitals",
-              "league": "NHL",
-              "code": "NHL",
-              "time": "2026-11-07T12:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 40,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Florida Panthers",
-              "awayTeam": "Washington Capitals",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/fla.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png",
-              "imageMode": "teams",
-              "duration": 160,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney20",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "St. Louis Blues vs Nashville Predators",
               "league": "NHL",
@@ -3362,5 +2735,5 @@
       ]
     }
   ],
-  "updated": "2026-11-07 13:22:29"
+  "updated": "2026-11-07 15:16:42"
 }
