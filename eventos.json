@@ -12,65 +12,10 @@
           "background": "",
           "events": [
             {
-              "title": "Pumas UNAM vs América",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-11-07 22:10",
-              "timezone": "America/Lima",
-              "agendaOrder": 42,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Pumas UNAM",
-              "awayTeam": "América",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/233.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/227.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TUDN MX",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tudnmx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Canal 5 MX",
-                  "url": "https://streamxhd.sbs/live1.php?stream=canal5mx",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Querétaro vs Puebla",
               "league": "Liga MX",
               "code": "LIGAMX",
-              "time": "2026-11-08T19:00:00-05:00",
+              "time": "2026-11-08 19:00",
               "timezone": "America/Lima",
               "agendaOrder": 107,
               "image": "",
@@ -711,41 +656,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "CA La Paz vs Tlaxcala",
-              "league": "Liga de Expansión MX",
-              "code": "MEX",
-              "time": "2026-11-07T22:05:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 41,
-              "image": "",
-              "logo": "",
-              "homeTeam": "CA La Paz",
-              "awayTeam": "Tlaxcala",
-              "homeLogo": "https://a.espncdn.com/guid/c6a0e36d-c3f5-3f04-93d8-1436cb1f6e9c/logos/default.png",
-              "awayLogo": "https://a.espncdn.com/guid/ad1afdd8-e4fd-3c4b-9a80-4b80924bed85/logos/default.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney9",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Leones Negros UdeG vs Durango",
               "league": "Liga de Expansión MX",
@@ -2239,86 +2149,6 @@
           "background": "",
           "events": [
             {
-              "title": "Phoenix Suns vs Houston Rockets",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-11-07T21:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 38,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Phoenix Suns",
-              "awayTeam": "Houston Rockets",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba6",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Portland Trail Blazers vs San Antonio Spurs",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-11-07T22:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 39,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Portland Trail Blazers",
-              "awayTeam": "San Antonio Spurs",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "NBA League Pass",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Chicago Bulls vs Philadelphia 76ers",
               "league": "NBA",
               "code": "NBA",
@@ -2580,41 +2410,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Vancouver Canucks vs Edmonton Oilers",
-              "league": "NHL",
-              "code": "NHL",
-              "time": "2026-11-07T22:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 40,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Vancouver Canucks",
-              "awayTeam": "Edmonton Oilers",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/van.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/edm.png",
-              "imageMode": "teams",
-              "duration": 160,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney8",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Florida Panthers vs Boston Bruins",
               "league": "NHL",
@@ -3446,5 +3241,5 @@
       ]
     }
   ],
-  "updated": "2026-11-07 23:40:40"
+  "updated": "2026-11-08 08:26:02"
 }
