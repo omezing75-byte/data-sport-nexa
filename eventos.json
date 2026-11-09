@@ -6,61 +6,6 @@
       "icon": "⚽",
       "leagues": [
         {
-          "name": "Liga MX",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/2/22/Liga_MX_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "León vs Guadalajara",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-11-08 21:10",
-              "timezone": "America/Lima",
-              "agendaOrder": 10,
-              "image": "",
-              "logo": "",
-              "homeTeam": "León",
-              "awayTeam": "Guadalajara",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/228.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/219.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX One",
-                  "url": "https://streamxhd.sbs/live1.php?stream=foxone",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Liga Colombia",
           "logo": "",
           "image": "",
@@ -70,7 +15,7 @@
               "title": "Junior vs Cúcuta Deportivo",
               "league": "Liga Colombia",
               "code": "COL",
-              "time": "2026-11-09T19:00:00-05:00",
+              "time": "2026-11-09 19:00",
               "timezone": "America/Lima",
               "agendaOrder": 19,
               "image": "",
@@ -468,111 +413,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Milwaukee Bucks vs Boston Celtics",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-11-08T20:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 3,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Milwaukee Bucks",
-              "awayTeam": "Boston Celtics",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass 5",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Los Angeles Clippers vs New Orleans Pelicans",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-11-08T21:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 8,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Los Angeles Clippers",
-              "awayTeam": "New Orleans Pelicans",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass 6",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba6",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Sacramento Kings vs Miami Heat",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-11-08T21:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 9,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Sacramento Kings",
-              "awayTeam": "Miami Heat",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass 7",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba7",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Detroit Pistons vs Washington Wizards",
               "league": "NBA",
@@ -1003,41 +843,6 @@
           "background": "",
           "events": [
             {
-              "title": "Chicago Bears vs Tampa Bay Buccaneers",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-11-08T20:20:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 6,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Chicago Bears",
-              "awayTeam": "Tampa Bay Buccaneers",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Minnesota Vikings vs Buffalo Bills",
               "league": "NFL",
               "code": "NFL",
@@ -1131,5 +936,5 @@
       ]
     }
   ],
-  "updated": "2026-11-08 22:44:21"
+  "updated": "2026-11-09 08:40:46"
 }
