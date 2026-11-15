@@ -715,7 +715,7 @@
               "title": "Boca Juniors de Cali vs Independiente Valle del Cauca",
               "league": "Primera B",
               "code": "COL",
-              "time": "2026-11-15T14:00:00-05:00",
+              "time": "2026-11-15 14:00",
               "timezone": "America/Lima",
               "agendaOrder": 28,
               "image": "",
@@ -723,7 +723,7 @@
               "homeTeam": "Boca Juniors de Cali",
               "awayTeam": "Independiente Valle del Cauca",
               "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17372.png",
-              "awayLogo": "",
+              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/ezsfmz1769183202.png/medium",
               "imageMode": "teams",
               "duration": 130,
               "extraTime": 0,
@@ -1909,5 +1909,5 @@
       ]
     }
   ],
-  "updated": "2026-11-15 07:40:41"
+  "updated": "2026-11-15 10:07:53"
 }
