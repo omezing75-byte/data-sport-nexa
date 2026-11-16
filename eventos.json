@@ -12,86 +12,6 @@
           "background": "",
           "events": [
             {
-              "title": "Islas Feroe vs Moldavia",
-              "league": "Liga de Naciones de la UEFA",
-              "code": "NATIONSLEAGUE",
-              "time": "2026-11-16 10:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 10,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Islas Feroe",
-              "awayTeam": "Moldavia",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Faroe-Islands.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Moldova.svg",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Kazajistán vs Eslovaquia",
-              "league": "Liga de Naciones de la UEFA",
-              "code": "NATIONSLEAGUE",
-              "time": "2026-11-16 10:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 11,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Kazajistán",
-              "awayTeam": "Eslovaquia",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Kazakhstan.svg",
-              "awayLogo": "https://flagcdn.com/w320/sk.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 4",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Lituania vs Liechtenstein",
               "league": "Liga de Naciones de la UEFA",
               "code": "NATIONSLEAGUE",
@@ -794,76 +714,6 @@
           "background": "",
           "events": [
             {
-              "title": "Milwaukee Bucks vs Atlanta Hawks",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-11-15T20:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 2,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Milwaukee Bucks",
-              "awayTeam": "Atlanta Hawks",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass 8",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba8",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Sacramento Kings vs Oklahoma City Thunder",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-11-15T21:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 6,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Sacramento Kings",
-              "awayTeam": "Oklahoma City Thunder",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass 9",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba9",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Cleveland Cavaliers vs Chicago Bulls",
               "league": "NBA",
               "code": "NBA",
@@ -1171,41 +1021,6 @@
           "background": "",
           "events": [
             {
-              "title": "Cincinnati Bengals vs Pittsburgh Steelers",
-              "league": "NFL",
-              "code": "NFL",
-              "time": "2026-11-15T20:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 3,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Cincinnati Bengals",
-              "awayTeam": "Pittsburgh Steelers",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Baltimore Ravens vs Los Angeles Chargers",
               "league": "NFL",
               "code": "NFL",
@@ -1257,111 +1072,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Dallas Stars vs Florida Panthers",
-              "league": "NHL",
-              "code": "NHL",
-              "time": "2026-11-15T20:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 4,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Dallas Stars",
-              "awayTeam": "Florida Panthers",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/dal.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/fla.png",
-              "imageMode": "teams",
-              "duration": 160,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney13",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Vegas Golden Knights vs Vancouver Canucks",
-              "league": "NHL",
-              "code": "NHL",
-              "time": "2026-11-15T21:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 7,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Vegas Golden Knights",
-              "awayTeam": "Vancouver Canucks",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/van.png",
-              "imageMode": "teams",
-              "duration": 160,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney14",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "San Jose Sharks vs Nashville Predators",
-              "league": "NHL",
-              "code": "NHL",
-              "time": "2026-11-15T21:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 8,
-              "image": "",
-              "logo": "",
-              "homeTeam": "San Jose Sharks",
-              "awayTeam": "Nashville Predators",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/sj.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png",
-              "imageMode": "teams",
-              "duration": 160,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney15",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "New York Rangers vs Montreal Canadiens",
               "league": "NHL",
@@ -1483,41 +1193,6 @@
               "flagUrl": "",
               "homeCountryCode": "",
               "awayCountryCode": ""
-            },
-            {
-              "title": "Carlos Alcaraz vs Frances Tiafoe",
-              "league": "ATP Finals",
-              "code": "ATP",
-              "time": "2026-11-16T08:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 9,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Carlos Alcaraz",
-              "awayTeam": "Frances Tiafoe",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
             }
           ],
           "flagCode": "",
@@ -1526,5 +1201,5 @@
       ]
     }
   ],
-  "updated": "2026-11-15 22:20:31"
+  "updated": "2026-11-16 12:36:00"
 }
