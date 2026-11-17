@@ -12,45 +12,10 @@
           "background": "",
           "events": [
             {
-              "title": "Denver Nuggets vs Phoenix Suns",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-11-16 21:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 1,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Denver Nuggets",
-              "awayTeam": "Phoenix Suns",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass 8",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba8",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Toronto Raptors vs New York Knicks",
               "league": "NBA",
               "code": "NBA",
-              "time": "2026-11-17T19:30:00-05:00",
+              "time": "2026-11-17 19:30",
               "timezone": "America/Lima",
               "agendaOrder": 21,
               "image": "",
@@ -259,41 +224,6 @@
           "background": "",
           "events": [
             {
-              "title": "Utah Mammoth vs Vancouver Canucks",
-              "league": "NHL",
-              "code": "NHL",
-              "time": "2026-11-16T21:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 2,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Utah Mammoth",
-              "awayTeam": "Vancouver Canucks",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/utah.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/van.png",
-              "imageMode": "teams",
-              "duration": 160,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney14",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Chicago Blackhawks vs Toronto Maple Leafs",
               "league": "NHL",
               "code": "NHL",
@@ -380,111 +310,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Singapur vs Brasil",
-              "league": "Amistoso Internacional",
-              "code": "FIFA",
-              "time": "2026-11-17 05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 3,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Singapur",
-              "awayTeam": "Brasil",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Singapore.svg",
-              "awayLogo": "https://flagcdn.com/w320/br.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Sportv BR",
-                  "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Rusia vs Venezuela",
-              "league": "Amistoso Internacional",
-              "code": "FIFA",
-              "time": "2026-11-17 11:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 5,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Rusia",
-              "awayTeam": "Venezuela",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Russia.svg",
-              "awayLogo": "https://flagcdn.com/w320/ve.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Evento 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=evento2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Japón vs Paraguay",
-              "league": "Amistoso Internacional",
-              "code": "FIFA",
-              "time": "2026-11-17T08:10:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 4,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Japón",
-              "awayTeam": "Paraguay",
-              "homeLogo": "https://flagcdn.com/w320/jp.png",
-              "awayLogo": "https://flagcdn.com/w320/py.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Evento 1",
-                  "url": "https://streamxhd.sbs/live1.php?stream=evento1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Kuwait vs Honduras",
               "league": "Amistoso Internacional",
@@ -1277,5 +1102,5 @@
       ]
     }
   ],
-  "updated": "2026-11-16 23:39:24"
+  "updated": "2026-11-17 13:24:11"
 }
