@@ -47,6 +47,51 @@
               "awayCountryCode": ""
             },
             {
+              "title": "Los Angeles Lakers vs Charlotte Hornets",
+              "league": "NBA",
+              "code": "NBA",
+              "time": "2026-11-17 23:00",
+              "timezone": "America/Lima",
+              "agendaOrder": 31,
+              "image": "",
+              "logo": "",
+              "homeTeam": "Los Angeles Lakers",
+              "awayTeam": "Charlotte Hornets",
+              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
+              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
+              "imageMode": "teams",
+              "duration": 180,
+              "extraTime": 0,
+              "status": "",
+              "note": "",
+              "servers": [
+                {
+                  "name": "Prime Video",
+                  "url": "https://streamxhd.sbs/live1.php?stream=amazon3",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                },
+                {
+                  "name": "NBA League Pass 5",
+                  "url": "https://streamxhd.sbs/live1.php?stream=nba5",
+                  "type": "iframe",
+                  "quality": "",
+                  "active": true,
+                  "languages": [],
+                  "customLanguages": "",
+                  "channelLogo": ""
+                }
+              ],
+              "flagCode": "",
+              "flagUrl": "",
+              "homeCountryCode": "",
+              "awayCountryCode": ""
+            },
+            {
               "title": "San Antonio Spurs vs Detroit Pistons",
               "league": "NBA",
               "code": "NBA",
@@ -138,7 +183,7 @@
               "homeTeam": "Los Angeles Clippers",
               "awayTeam": "Utah Jazz",
               "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/uta.png",
+              "awayLogo": "https://upload.wikimedia.org/wikipedia/en/7/77/Utah_Jazz_logo_2025.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
               "imageMode": "teams",
               "duration": 180,
               "extraTime": 0,
@@ -148,51 +193,6 @@
                 {
                   "name": "NBA League Pass 4",
                   "url": "https://streamxhd.sbs/live1.php?stream=nba4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Los Angeles Lakers vs Charlotte Hornets",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-11-17T23:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 31,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Los Angeles Lakers",
-              "awayTeam": "Charlotte Hornets",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Prime Video",
-                  "url": "https://streamxhd.sbs/live1.php?stream=amazon3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "NBA League Pass 5",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba5",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -310,41 +310,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Kuwait vs Honduras",
-              "league": "Amistoso Internacional",
-              "code": "FIFA",
-              "time": "2026-11-17T11:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 6,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Kuwait",
-              "awayTeam": "Honduras",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/kuw.png",
-              "awayLogo": "https://flagcdn.com/w320/hn.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Evento 3",
-                  "url": "https://streamxhd.sbs/live1.php?stream=evento3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Argentina vs Costa Rica",
               "league": "Amistoso Internacional",
@@ -502,336 +467,6 @@
                 {
                   "name": "Evento 3",
                   "url": "https://streamxhd.sbs/live1.php?stream=evento3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
-          "name": "Liga de Naciones de la UEFA",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "República de Irlanda vs Kosovo",
-              "league": "Liga de Naciones de la UEFA",
-              "code": "NATIONSLEAGUE",
-              "time": "2026-11-17 14:45",
-              "timezone": "America/Lima",
-              "agendaOrder": 9,
-              "image": "",
-              "logo": "",
-              "homeTeam": "República de Irlanda",
-              "awayTeam": "Kosovo",
-              "homeLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Ireland.svg",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Kosovo.svg",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Ucrania vs Georgia",
-              "league": "Liga de Naciones de la UEFA",
-              "code": "NATIONSLEAGUE",
-              "time": "2026-11-17 14:45",
-              "timezone": "America/Lima",
-              "agendaOrder": 14,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Ucrania",
-              "awayTeam": "Georgia",
-              "homeLogo": "https://flagcdn.com/w320/ua.png",
-              "awayLogo": "https://www.thesportsdb.com/images/icons/svg/flags/Georgia.svg",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney8",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Bosnia-Herzegovina vs Rumania",
-              "league": "Liga de Naciones de la UEFA",
-              "code": "NATIONSLEAGUE",
-              "time": "2026-11-17T14:45:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 7,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Bosnia-Herzegovina",
-              "awayTeam": "Rumania",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png",
-              "awayLogo": "https://flagcdn.com/w320/ro.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Hungría vs Irlanda del Norte",
-              "league": "Liga de Naciones de la UEFA",
-              "code": "NATIONSLEAGUE",
-              "time": "2026-11-17T14:45:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 8,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Hungría",
-              "awayTeam": "Irlanda del Norte",
-              "homeLogo": "https://flagcdn.com/w320/hu.png",
-              "awayLogo": "https://flagcdn.com/w320/gb-nir.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Israel vs Austria",
-              "league": "Liga de Naciones de la UEFA",
-              "code": "NATIONSLEAGUE",
-              "time": "2026-11-17T14:45:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 10,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Israel",
-              "awayTeam": "Austria",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/countries/500/isr.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Polonia vs Suecia",
-              "league": "Liga de Naciones de la UEFA",
-              "code": "NATIONSLEAGUE",
-              "time": "2026-11-17T14:45:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 11,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Polonia",
-              "awayTeam": "Suecia",
-              "homeLogo": "https://flagcdn.com/w320/pl.png",
-              "awayLogo": "https://flagcdn.com/w320/se.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 5",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "SporTV 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=sporttvbr2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Gales vs Portugal",
-              "league": "Liga de Naciones de la UEFA",
-              "code": "NATIONSLEAGUE",
-              "time": "2026-11-17T14:45:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 12,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Gales",
-              "awayTeam": "Portugal",
-              "homeLogo": "https://flagcdn.com/w320/gb-wls.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney6",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Dinamarca vs Noruega",
-              "league": "Liga de Naciones de la UEFA",
-              "code": "NATIONSLEAGUE",
-              "time": "2026-11-17T14:45:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 13,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Dinamarca",
-              "awayTeam": "Noruega",
-              "homeLogo": "https://flagcdn.com/w320/dk.png",
-              "awayLogo": "https://flagcdn.com/w320/no.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 4",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney7",
                   "type": "iframe",
                   "quality": "",
                   "active": true,
@@ -1102,5 +737,5 @@
       ]
     }
   ],
-  "updated": "2026-11-17 13:24:11"
+  "updated": "2026-11-17 20:09:47"
 }
