@@ -1030,59 +1030,7 @@
           "flagUrl": ""
         }
       ]
-    },
-    {
-      "id": "tennis",
-      "name": "Tennis",
-      "icon": "🎾",
-      "leagues": [
-        {
-          "name": "ATP Finals",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Carlos Alcaraz vs Daniil Medvedev",
-              "league": "ATP Finals",
-              "code": "ATP",
-              "time": "2026-11-18T08:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 18,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Carlos Alcaraz",
-              "awayTeam": "Daniil Medvedev",
-              "homeLogo": "",
-              "awayLogo": "",
-              "imageMode": "",
-              "duration": 240,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        }
-      ]
     }
   ],
-  "updated": "2026-11-18 09:17:14"
+  "updated": "2026-11-18 14:03:12"
 }
