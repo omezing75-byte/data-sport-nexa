@@ -166,121 +166,6 @@
           "flagUrl": ""
         },
         {
-          "name": "Liga Uruguay",
-          "logo": "",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "Racing vs Central Español",
-              "league": "Liga Uruguay",
-              "code": "URU",
-              "time": "2026-11-20T14:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 5,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Racing",
-              "awayTeam": "Central Español",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/9903.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/131688.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Cerro vs Nacional",
-              "league": "Liga Uruguay",
-              "code": "URU",
-              "time": "2026-11-20T14:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 6,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Cerro",
-              "awayTeam": "Nacional",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5490.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2684.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney4",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Liverpool vs Wanderers",
-              "league": "Liga Uruguay",
-              "code": "URU",
-              "time": "2026-11-20T14:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 7,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Liverpool",
-              "awayTeam": "Wanderers",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5492.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5501.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney5",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Liga Ecuador",
           "logo": "",
           "image": "",
@@ -366,61 +251,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Bayern München vs Köln",
-              "league": "Bundesliga",
-              "code": "ALE",
-              "time": "2026-11-20T14:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 8,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Bayern München",
-              "awayTeam": "Köln",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "Universo",
-                  "url": "https://streamxhd.sbs/live1.php?stream=universo",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Elversberg vs Freiburg",
               "league": "Bundesliga",
@@ -662,41 +492,6 @@
           "background": "",
           "events": [
             {
-              "title": "FC Andorra vs Leganés",
-              "league": "LaLiga SmartBank",
-              "code": "ES",
-              "time": "2026-11-20T14:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 9,
-              "image": "",
-              "logo": "",
-              "homeTeam": "FC Andorra",
-              "awayTeam": "Leganés",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/20179.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/17534.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "LaLiga Hypermotion",
-                  "url": "https://streamxhd.sbs/live1.php?stream=laligahypermotion",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Sabadell vs Granada",
               "league": "LaLiga SmartBank",
               "code": "ES",
@@ -846,41 +641,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Troyes vs Le Havre",
-              "league": "Ligue 1",
-              "code": "FRA",
-              "time": "2026-11-20T14:45:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 11,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Troyes",
-              "awayTeam": "Le Havre",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Disney +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=disney6",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Nice vs PSG",
               "league": "Ligue 1",
@@ -1076,61 +836,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Athletic Club vs Espanyol",
-              "league": "LaLiga",
-              "code": "ES",
-              "time": "2026-11-20T15:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 12,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Athletic Club",
-              "awayTeam": "Espanyol",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=dsports2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espnplus1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "ESPN Deportes",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espndeportes",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Deportivo Alavés vs Deportivo La Coruña",
               "league": "LaLiga",
@@ -1382,41 +1087,6 @@
           "background": "",
           "events": [
             {
-              "title": "Sportivo Ameliano vs Sportivo Luqueño",
-              "league": "Liga Paraguay",
-              "code": "LIGAPY",
-              "time": "2026-11-20T15:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 13,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Sportivo Ameliano",
-              "awayTeam": "Sportivo Luqueño",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/21313.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5583.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Tigo Sports",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tigo1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Deportivo Recoleta vs Guaraní",
               "league": "Liga Paraguay",
               "code": "LIGAPY",
@@ -1461,41 +1131,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Porto vs Paredes",
-              "league": "Copa de Portugal",
-              "code": "POR",
-              "time": "2026-11-20 15:45",
-              "timezone": "America/Lima",
-              "agendaOrder": 14,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Porto",
-              "awayTeam": "Paredes",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/437.png",
-              "awayLogo": "https://r2.thesportsdb.com/images/media/team/badge/1pnga71640272263.png/medium",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "FOX Sports 1 AR",
-                  "url": "https://streamxhd.sbs/live1.php?stream=fox1ar",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Mafra vs Arouca",
               "league": "Copa de Portugal",
@@ -1641,41 +1276,6 @@
           "image": "",
           "background": "",
           "events": [
-            {
-              "title": "Cobresal vs Audax Italiano",
-              "league": "Liga Chile",
-              "code": "CH",
-              "time": "2026-11-20T16:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 15,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Cobresal",
-              "awayTeam": "Audax Italiano",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4133.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/4138.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TNT Sports Chile",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tntsportschile",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
             {
               "title": "Palestino vs Unión La Calera",
               "league": "Liga Chile",
@@ -5430,5 +5030,5 @@
       ]
     }
   ],
-  "updated": "2026-11-20 14:53:10"
+  "updated": "2026-11-20 18:28:23"
 }
