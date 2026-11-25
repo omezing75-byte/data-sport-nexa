@@ -6,133 +6,16 @@
       "icon": "⚽",
       "leagues": [
         {
-          "name": "MLS",
-          "logo": "https://upload.wikimedia.org/wikipedia/en/c/c7/Major_League_Soccer_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "San Jose Earthquakes vs Houston Dynamo",
-              "league": "MLS",
-              "code": "MLS",
-              "time": "2026-11-24 22:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 7,
-              "image": "",
-              "logo": "",
-              "homeTeam": "San Jose Earthquakes",
-              "awayTeam": "Houston Dynamo",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Apple TV",
-                  "url": "https://streamxhd.sbs/live1.php?stream=appletv1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [
-                    "Español"
-                  ],
-                  "customLanguages": "Español",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Liga Colombia",
           "logo": "",
           "image": "",
           "background": "",
           "events": [
             {
-              "title": "Millonarios vs Atlético Bucaramanga",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-11-24T18:20:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 1,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Millonarios",
-              "awayTeam": "Atlético Bucaramanga",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/5484.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/6137.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "América de Cali vs Deportivo Cali",
-              "league": "Liga Colombia",
-              "code": "COL",
-              "time": "2026-11-24T20:30:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 6,
-              "image": "",
-              "logo": "",
-              "homeTeam": "América de Cali",
-              "awayTeam": "Deportivo Cali",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/8109.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/2672.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Win Sports +",
-                  "url": "https://streamxhd.sbs/live1.php?stream=winplus",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Santa Fe vs Once Caldas",
               "league": "Liga Colombia",
               "code": "COL",
-              "time": "2026-11-25T18:20:00-05:00",
+              "time": "2026-11-25 18:20",
               "timezone": "America/Lima",
               "agendaOrder": 24,
               "image": "",
@@ -1226,151 +1109,6 @@
           "background": "",
           "events": [
             {
-              "title": "Orlando Magic vs Detroit Pistons",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-11-24T19:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 2,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Orlando Magic",
-              "awayTeam": "Detroit Pistons",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "NBA League Pass 1",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Washington Wizards vs Boston Celtics",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-11-24T20:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 4,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Washington Wizards",
-              "awayTeam": "Boston Celtics",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Amazon 1",
-                  "url": "https://streamxhd.sbs/live1.php?stream=amazon1",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TNT Sports",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tntsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "NBA League Pass 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
-              "title": "Denver Nuggets vs Dallas Mavericks",
-              "league": "NBA",
-              "code": "NBA",
-              "time": "2026-11-24T22:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 8,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Denver Nuggets",
-              "awayTeam": "Dallas Mavericks",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "Amazon 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=amazon2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "TNT Sports",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tntsports",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "NBA League Pass 3",
-                  "url": "https://streamxhd.sbs/live1.php?stream=nba3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Philadelphia 76ers vs Miami Heat",
               "league": "NBA",
               "code": "NBA",
@@ -1733,41 +1471,6 @@
           "background": "",
           "events": [
             {
-              "title": "Edmonton Oilers vs Vegas Golden Knights",
-              "league": "NHL",
-              "code": "NHL",
-              "time": "2026-11-24T20:00:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 5,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Edmonton Oilers",
-              "awayTeam": "Vegas Golden Knights",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/edm.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png",
-              "imageMode": "teams",
-              "duration": 160,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "ESPN 3",
-                  "url": "https://streamxhd.sbs/live1.php?stream=espn3",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Tampa Bay Lightning vs Carolina Hurricanes",
               "league": "NHL",
               "code": "NHL",
@@ -1809,5 +1512,5 @@
       ]
     }
   ],
-  "updated": "2026-11-24 19:52:51"
+  "updated": "2026-11-25 06:24:14"
 }
