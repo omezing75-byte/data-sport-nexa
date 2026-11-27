@@ -6,61 +6,6 @@
       "icon": "⚽",
       "leagues": [
         {
-          "name": "Liga MX",
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/2/22/Liga_MX_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-          "image": "",
-          "background": "",
-          "events": [
-            {
-              "title": "León vs Cruz Azul",
-              "league": "Liga MX",
-              "code": "LIGAMX",
-              "time": "2026-11-26T22:10:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 5,
-              "image": "",
-              "logo": "",
-              "homeTeam": "León",
-              "awayTeam": "Cruz Azul",
-              "homeLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/228.png",
-              "awayLogo": "https://a.espncdn.com/i/teamlogos/soccer/500/218.png",
-              "imageMode": "teams",
-              "duration": 130,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "TUDN USA",
-                  "url": "https://streamxhd.sbs/live1.php?stream=tudn_usa",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                },
-                {
-                  "name": "FOX One",
-                  "url": "https://streamxhd.sbs/live1.php?stream=foxone",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            }
-          ],
-          "flagCode": "",
-          "flagUrl": ""
-        },
-        {
           "name": "Copa Mundial Sub-17",
           "logo": "",
           "image": "",
@@ -70,7 +15,7 @@
               "title": "Colombia vs Serbia",
               "league": "Copa Mundial Sub-17",
               "code": "FIFA",
-              "time": "2026-11-27T08:00:00-05:00",
+              "time": "2026-11-27 08:00",
               "timezone": "America/Lima",
               "agendaOrder": 6,
               "image": "",
@@ -1309,41 +1254,6 @@
           "background": "",
           "events": [
             {
-              "title": "Panamá vs Puerto Rico",
-              "league": "FIBA Copa Mundial",
-              "code": "FIBA",
-              "time": "2026-11-26T20:40:00-05:00",
-              "timezone": "America/Lima",
-              "agendaOrder": 4,
-              "image": "",
-              "logo": "",
-              "homeTeam": "Panamá",
-              "awayTeam": "Puerto Rico",
-              "homeLogo": "https://flagcdn.com/w320/pa.png",
-              "awayLogo": "https://upload.wikimedia.org/wikipedia/en/3/33/Bayamon_Football_Club_logo.svg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=original",
-              "imageMode": "teams",
-              "duration": 180,
-              "extraTime": 0,
-              "status": "",
-              "note": "",
-              "servers": [
-                {
-                  "name": "DSports 2",
-                  "url": "https://streamxhd.sbs/live1.php?stream=dsports2",
-                  "type": "iframe",
-                  "quality": "",
-                  "active": true,
-                  "languages": [],
-                  "customLanguages": "",
-                  "channelLogo": ""
-                }
-              ],
-              "flagCode": "",
-              "flagUrl": "",
-              "homeCountryCode": "",
-              "awayCountryCode": ""
-            },
-            {
               "title": "Chile vs México",
               "league": "FIBA Copa Mundial",
               "code": "FIBA",
@@ -2306,5 +2216,5 @@
       ]
     }
   ],
-  "updated": "2026-11-26 23:36:07"
+  "updated": "2026-11-27 07:46:56"
 }
